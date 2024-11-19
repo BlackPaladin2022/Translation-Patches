@@ -6,7 +6,7 @@ Frequently Asked Questions:
 
 You don't need to ask!  Feel free to do that!  All I ask is give credit where it's due.  (Thank the original creators of said patches, etc.)
 
-2.  I can't find the necessary file to use your translation patches.  Can you send them to me?
+2.  I can't find the necessary file to use on your translation patches.  Can you send them to me?
 
 Absolutely not!  You're going have to look for it yourself.  I cannot provide that for you.
 
