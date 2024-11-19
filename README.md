@@ -24,4 +24,4 @@ The NES is one of two video game consoles that I have the strongest nostalgia fo
 
 6.  Dude, your patches suck!  Do something better!
 
-Your entitled to your opinion.  If you can work better than me, feel free to do so.  Otherwise, back off!
+You're entitled to your opinion.  If you can work better than me, feel free to do so.  Otherwise, back off!
