@@ -1,0 +1,99 @@
+//POINTER #0 @ $67C9 - STRING #0 @ $15F60
+
+#VAR(Table, TABLE)
+#ADDTBL("dracula2-eng00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($-45E2)
+#JMP($6857, $68AC)
+
+//POINTER #0 @ $6765 - STRING #0 @ $6857
+
+#W16($6765)
+The night[LN]
+falls.[ED]
+
+//POINTER #1 @ $6767 - STRING #1 @ $686D
+
+#W16($6767)
+The morning[LN]
+sun rises.[ED]
+
+//POINTER #2 @ $6769 - STRING #2 @ $687D
+
+#W16($6769)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $676B - STRING #2 @ $687D
+
+#W16($676B)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $676D - STRING #2 @ $687D
+
+#W16($676D)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $676F - STRING #2 @ $687D
+
+#W16($676F)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $6771 - STRING #2 @ $687D
+
+#W16($6771)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $6773 - STRING #2 @ $687D
+
+#W16($6773)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $6775 - STRING #2 @ $687D
+
+#W16($6775)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $6777 - STRING #2 @ $687D
+
+#W16($6777)
+You procured[LN]
+the [FB]
+
+
+//POINTER #2 @ $6779 - STRING #2 @ $687D
+
+#W16($6779)
+You procured[LN]
+the [FB]
+
+//POINTER #2 @ $6791 - STRING #2 @ $687D
+
+#W16($6791)
+You procured[LN]
+the [FB]
+
+//POINTER #3 @ $6793 - STRING #3 @ $6893
+
+#W16($6793)
+ of[LN]
+Dracula.[ED]
+
+//POINTER #4 @ $679F - STRING #4 @ $689B
+
+#W16($679F)
+Buy an[LN]
+oak stake?[ED]

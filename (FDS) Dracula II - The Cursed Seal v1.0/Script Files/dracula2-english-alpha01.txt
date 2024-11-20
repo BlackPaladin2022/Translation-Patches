@@ -1,0 +1,35 @@
+//POINTER #0 @ $67C9 - STRING #0 @ $15F60
+
+#VAR(Table, TABLE)
+#ADDTBL("dracula2-eng00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($461C)
+#JMP($B38A, $B3D9)
+
+//POINTER #1 @ $6789 - STRING #1 @ $B38A
+
+#W16($6789)
+You found[LN]
+the diamond.[ED]
+
+//POINTER #2 @ $678B - STRING #2 @ $B39F
+
+#W16($678B)
+I will[LN]
+guide you.[ED]
+
+//POINTER #3 @ $678D - STRING #3 @ $B3B8
+
+#W16($678D)
+The nail[LN]
+of Dracula[LN]
+crushes[LN]
+evil.[ED]
+
+//POINTER #3 @ $678F - STRING #3 @ $B3B8
+
+#W16($678F)
+The nail[LN]
+of Dracula[LN]
+crushes[LN]
+evil.[ED]
