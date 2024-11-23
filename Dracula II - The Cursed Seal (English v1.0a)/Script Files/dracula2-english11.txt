@@ -1,0 +1,42 @@
+//POINTER #0 @ $67C9 - STRING #0 @ $15F60
+
+#VAR(Table, TABLE)
+#ADDTBL("dracula2-eng00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($150A9)
+#JMP($1B848, $1B8E2)
+
+//POINTER #0 @ $6781 - STRING #0 @ $1B848
+
+#W16($6781)
+I will imbue[LN]
+your whip[LN]
+with power.[ED]
+
+//POINTER #0 @ $6783 - STRING #0 @ $1B870
+
+#W16($6783)
+This silk[LN]
+bag is for[LN]
+you.[ED]
+
+//POINTER #0 @ $6785 - STRING #0 @ $1B884
+
+#W16($6785)
+This silver[LN]
+knife can[LN]
+save your[LN]
+life.[ED]
+
+//POINTER #0 @ $6787 - STRING #0 @ $1B899
+
+#W16($6787)
+Death poked[LN]
+her eye with[LN]
+a knife.[ED]
+
+//POINTER #0 @ $684F - STRING #0 @ $1B8BB
+
+#W16($684F)
+Come back[LN]
+stronger.[ED]

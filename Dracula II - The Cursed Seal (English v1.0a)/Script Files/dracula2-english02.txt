@@ -1,0 +1,131 @@
+//POINTER #0 @ $67C9 - STRING #0 @ $15F60
+
+#VAR(Table, TABLE)
+#ADDTBL("dracula2-eng00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($F0CE)
+#JMP($16330, $16501)
+
+//POINTER #0 @ $6807 - STRING #0 @ $16330
+
+#W16($6807)
+(FC2A)
+Camilla[LN]
+Cemetery
+(FC2B)
+Aljiba Woods[ED]
+
+//POINTER #1 @ $680F - STRING #0 @ $16346
+
+#W16($680F)
+(FC2C)
+blue (FC27)[LN]
+for a white[LN]
+(FC27).[ED]
+
+//POINTER #2 @ $6813 - STRING #0 @ $16352
+
+#W16($6813)
+To restore[LN]
+life, visit[LN]
+a church.[ED]
+
+//POINTER #3 @ $6815 - STRING #0 @ $16384
+
+#W16($6815)
+Purge the[LN]
+curse from[LN]
+Dead River.[ED]
+
+//POINTER #4 @ $6817 - STRING #0 @ $163AD
+
+#W16($6817)
+The eye[LN]
+sees what[LN]
+is unseen.[ED]
+
+//POINTER #5 @ $681B - STRING #0 @ $163D6
+
+#W16($681B)
+Use (FC29)[LN]
+to evade[LN]
+poison.[ED]
+
+//POINTER #6 @ $681D - STRING #0 @ $163EF
+
+#W16($681D)
+A gypsy at[LN]
+Deborah[LN]
+Cliff has[LN]
+a diamond.[ED]
+
+//POINTER #7 @ $6825 - STRING #0 @ $1641C
+
+#W16($6825)
+Buy some[LN]
+garlic.[ED]
+
+//POINTER #8 @ $6833 - STRING #0 @ $1643B
+
+#W16($6833)
+(FC2D)(FC2E)[LN]
+Veros Woods.[ED]
+
+//POINTER #9 @ $6837 - STRING #0 @ $16446
+
+#W16($6837)
+(FC2D)(FC2E)[LN]
+Rover[LN]
+Mansion.[ED]
+
+//POINTER #10 @ $680B - STRING #0 @ $16453
+
+#W16($680B)
+(FC2A)
+North Bridge
+(FC2B)
+Wicked Ditch[ED]
+
+//POINTER #11 @ $6821 - STRING #0 @ $16468
+
+#W16($6821)
+I was not[LN]
+expecting[LN]
+you to[LN]
+return.[ED]
+
+//POINTER #12 @ $682D - STRING #0 @ $1648F
+
+#W16($682D)
+Go away![ED]
+
+//POINTER #13 @ $682F - STRING #0 @ $16494
+
+#W16($682F)
+Get out![LN]
+You have[LN]
+cursed our[LN]
+village![ED]
+
+//POINTER #14 @ $6839 - STRING #0 @ $164B8
+
+#W16($6839)
+Find the[LN]
+rosary in[LN]
+Laruba[LN]
+Mansion.[ED]
+
+//POINTER #15 @ $680D - STRING #0 @ $164DC
+
+#W16($680D)
+(FC2A)
+Dora Woods
+(FC2B)
+Vlad[LN]
+Cemetary[ED]
+
+//POINTER #16 @ $6819 - STRING #0 @ $164F1
+
+#W16($6819)
+Stay with[LN]
+me.[ED]
