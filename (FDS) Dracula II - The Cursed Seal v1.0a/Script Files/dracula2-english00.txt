@@ -1,0 +1,82 @@
+//POINTER #0 @ $67C9 - STRING #0 @ $154CA
+
+#VAR(Table, TABLE)
+#ADDTBL("dracula2-eng00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($ED3F)
+#JMP($154CC, $15585)
+
+//POINTER #0 @ $67B3 - STRING #0 @ $154CC
+
+#W16($67B3)
+crystal[FB]
+
+//POINTER #1 @ $67B5 - STRING #1 @ $154D2
+
+#W16($67B5)
+You want my[LN]
+[FB]
+
+//POINTER #2 @ $67B7 - STRING #2 @ $154DD
+
+#W16($67B7)
+laurels[FB]
+
+//POINTER #3 @ $67B9 - STRING #3 @ $154E6
+
+#W16($67B9)
+Right,[LN]
+[FB]
+
+//POINTER #4 @ $67BB - STRING #4 @ $154EB
+
+#W16($67BB)
+[LN]
+Left,[LN]
+[FB]
+
+//POINTER #5 @ $67BD - STRING #5 @ $154F2
+
+#W16($67BD)
+I want to[LN]
+trade my[LN]
+[FB]
+
+//POINTER #6 @ $67BF - STRING #6 @ $1550C
+
+#W16($67BF)
+Clues to the[LN]
+riddle lie[LN]
+[FB]
+
+//POINTER #7 @ $67C1 - STRING #7 @ $15525
+
+#W16($67C1)
+within[FB]
+
+//POINTER #8 @ $67C3 - STRING #8 @ $15535
+
+#W16($67C3)
+(FC28)
+garlic?[ED]
+
+//POINTER #9 @ $67C5 - STRING #9 @ $1553B
+
+#W16($67C5)
+(FC28)
+laurels?[ED]
+
+//POINTER #10 @ $67C7 - STRING #10 @ $1553F
+
+#W16($67C7)
+Let us pray.[LN]
+In the name[LN]
+of our[LN]
+Father.[LN]
+Amen.[ED]
+
+//POINTER #11 @ $683B - STRING #11 @ $1556B
+
+#W16($683B)
+Thanks for[LN]
+the trade![ED]
