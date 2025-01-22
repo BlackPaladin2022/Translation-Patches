@@ -11,7 +11,7 @@ This patch was made out of boredom and a budding curiosity with the Ultraman fra
 Ultraman is a classic tokusatsu series that started in 1966 by Tsuburaya Productions, which is still going strong even in the present day.  
 Ultraman: Kaijuu Teikoku no Gyakushuu is the second Ultraman video game released and the first game released for the Famicom Disk System.  (The first Ultraman video game was released for the MSX.)
 
-The patch comes in two flavors...
+The patch comes in four flavors...
 
 Ultraman - Wrath of the Kaiju Empire (English).ips
 --English translation patch for the original version of the game (IPS Format)
