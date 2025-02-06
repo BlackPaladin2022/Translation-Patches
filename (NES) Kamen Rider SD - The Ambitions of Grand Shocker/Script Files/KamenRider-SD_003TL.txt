@@ -1,0 +1,1302 @@
+//GAME NAME:		Kamen Rider SD (NES)
+
+//BLOCK #003 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $A010 - STRING #0 @ $2000E
+
+#VAR(Table, TABLE)
+#ADDTBL("KRSD-ENG00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($18010)
+#JMP($20010, $2200E)
+
+//POINTER #0 @ $A010 - STRING #0 @ $20010
+
+#W16($A010)
+Oh, did you come[LN]
+here to peep into[LN]
+the women's bath[LN]
+again? Hee-hee![ED]
+
+
+//POINTER #1 @ $A012 - STRING #1 @ $20040
+
+#W16($A012)
+Hmm? If you're[LN]
+after some[LN]
+leaves, I have[LN]
+some at home.[LN]
+It's this way.[ED]
+
+
+//POINTER #2 @ $A014 - STRING #2 @ $20066
+
+#W16($A014)
+Oh?! What's with[LN]
+this hole?[LN]
+[LN]
+[LN]
+It must be those[LN]
+survey team guys[LN]
+again![ED]
+
+
+//POINTER #3 @ $A016 - STRING #3 @ $20095
+
+#W16($A016)
+You say that you[LN]
+call yourselves[LN]
+allies of[LN]
+justice![LN]
+But in the end,[LN]
+you're still[LN]
+only human![ED]
+
+
+//POINTER #4 @ $A018 - STRING #4 @ $200D1
+
+#W16($A018)
+Ooh, perfect[LN]
+timing![LN]
+[LN]
+[LN]
+I was about to[LN]
+tell the legend[LN]
+of Princess[LN]
+Tatsuko![LN]
+Wait, you're[LN]
+done already?!?[ED]
+
+
+//POINTER #5 @ $A01A - STRING #5 @ $2011E
+
+#W16($A01A)
+What's a Princess[LN]
+Tatsuko? Can you[LN]
+eat that?[ED]
+
+
+//POINTER #6 @ $A01C - STRING #6 @ $20140
+
+#W16($A01C)
+Lake Tazawa Hot[LN]
+Springs is past[LN]
+the northern[LN]
+mountains.[ED]
+
+
+//POINTER #7 @ $A01E - STRING #7 @ $20178
+
+#W16($A01E)
+What nice weather[LN]
+we're having...[ED]
+
+
+//POINTER #8 @ $A020 - STRING #8 @ $2018D
+
+#W16($A020)
+Looks like[LN]
+no one's home.[ED]
+
+
+//POINTER #9 @ $A022 - STRING #9 @ $2019C
+
+#W16($A022)
+The legend of[LN]
+Princess Tatsuko[LN]
+goes like this...[LN]
+[LN]
+Tatsuko wanted to[LN]
+remain beautiful[LN]
+forever.[LN]
+[LN]
+So she drank[LN]
+from the spring[LN]
+on Lord Kannon's[LN]
+advice.[LN]
+After she took[LN]
+a sip, she[LN]
+transformed into[LN]
+a dragon.[LN]
+As for the[LN]
+spring, it became[LN]
+known as Lake[LN]
+Tazawa.[LN]
+Hey, isn't that[LN]
+girl from the[LN]
+Lake Tazawa Hot[LN]
+Springs?[LN]
+I think her name[LN]
+is Tatsuko...[ED]
+
+
+//POINTER #10 @ $A024 - STRING #10 @ $2028A
+
+#W16($A024)
+The fare is[LN]
+    yen.[ED]
+
+
+//POINTER #11 @ $A026 - STRING #11 @ $2029F
+
+#W16($A026)
+Due to tsunami[LN]
+risk, service[LN]
+is currently[LN]
+suspended.[ED]
+
+
+//POINTER #12 @ $A028 - STRING #12 @ $202C6
+
+#W16($A028)
+That's one of[LN]
+your flaws.[ED]
+
+
+//POINTER #13 @ $A02A - STRING #13 @ $202E0
+
+#W16($A02A)
+Eeek![ED]
+
+
+//POINTER #14 @ $A02C - STRING #14 @ $202E6
+
+#W16($A02C)
+Stop it![LN]
+Don't hurt her![ED]
+
+
+//POINTER #15 @ $A02E - STRING #15 @ $202F4
+
+#W16($A02E)
+This is what[LN]
+happens if you[LN]
+defy us![LN]
+[LN]
+You'll have to[LN]
+cross Sanzu River[LN]
+together, fools![ED]
+
+
+//POINTER #16 @ $A030 - STRING #16 @ $20347
+
+#W16($A030)
+Riders![ED]
+
+
+//POINTER #17 @ $A032 - STRING #17 @ $2034F
+
+#W16($A032)
+I'll send you all[LN]
+to the afterlife![ED]
+
+
+//POINTER #18 @ $A034 - STRING #18 @ $20373
+
+#W16($A034)
+Skyrider, what[LN]
+are you doing?![LN]
+[LN]
+[LN]
+You can't trick[LN]
+us![LN]
+You're a phony![ED]
+
+
+//POINTER #19 @ $A036 - STRING #19 @ $203AF
+
+#W16($A036)
+The Riders[LN]
+found some[LN]
+twisted wire![ED]
+
+
+//POINTER #20 @ $A038 - STRING #20 @ $203D3
+
+#W16($A038)
+I don't need[LN]
+it anymore.[ED]
+
+
+//POINTER #21 @ $A03A - STRING #21 @ $203EC
+
+#W16($A03A)
+Thank you, but[LN]
+I don't need[LN]
+a bear carving[LN]
+anymore.[ED]
+
+
+//POINTER #22 @ $A03C - STRING #22 @ $20405
+
+#W16($A03C)
+Do you want[LN]
+a Nipopo Doll?[LN]
+[LN]
+[LN]
+This one was[LN]
+a gift from[LN]
+a friend.[LN]
+[LN]
+I can't give[LN]
+it away.[ED]
+
+
+//POINTER #23 @ $A03E - STRING #23 @ $20446
+
+#W16($A03E)
+I might be[LN]
+willing to trade[LN]
+it for a bear[LN]
+carving.[ED]
+
+
+//POINTER #24 @ $A040 - STRING #24 @ $20469
+
+#W16($A040)
+Do you have[LN]
+a bear carving?[LN]
+In that case,[LN]
+let's trade![ED]
+
+
+//POINTER #25 @ $A042 - STRING #25 @ $2048C
+
+#W16($A042)
+Looks like[LN]
+no one's here.[ED]
+
+
+//POINTER #26 @ $A044 - STRING #26 @ $2049B
+
+#W16($A044)
+The man from[LN]
+earlier is[LN]
+nowhere to be[LN]
+found.[ED]
+
+
+//POINTER #27 @ $A046 - STRING #27 @ $204BE
+
+#W16($A046)
+There's an[LN]
+inscription[LN]
+on the lake's[LN]
+dam.[LN]
+It reads,[LN]
+(Princess[LN]
+Tatsuko).[ED]
+
+
+//POINTER #28 @ $A048 - STRING #28 @ $204E9
+
+#W16($A048)
+Help![ED]
+
+
+//POINTER #29 @ $A04A - STRING #29 @ $204EF
+
+#W16($A04A)
+G-Shocker is[LN]
+about to attack[LN]
+that man![ED]
+
+
+//POINTER #30 @ $A04C - STRING #30 @ $20516
+
+#W16($A04C)
+Riders, thank you[LN]
+for your hard[LN]
+work.[ED]
+
+
+//POINTER #31 @ $A04E - STRING #31 @ $20529
+
+#W16($A04E)
+There's no[LN]
+entry beyond[LN]
+this point.[ED]
+
+
+//POINTER #32 @ $A050 - STRING #32 @ $20545
+
+#W16($A050)
+Did you say this[LN]
+was the work of[LN]
+Grand Shocker?![LN]
+[LN]
+I understand.[LN]
+Please, go ahead.[ED]
+
+
+//POINTER #33 @ $A052 - STRING #33 @ $2058B
+
+#W16($A052)
+I'm lost. How can[LN]
+I get to Asamushi[LN]
+Hot Springs?[ED]
+
+
+//POINTER #34 @ $A054 - STRING #34 @ $205BC
+
+#W16($A054)
+What? You're[LN]
+giving me a map[LN]
+to Asamushi Hot[LN]
+Springs?[LN]
+I'll gratefully[LN]
+take it. Now,[LN]
+if you would[LN]
+excuse me...[ED]
+
+
+//POINTER #35 @ $A056 - STRING #35 @ $205FB
+
+#W16($A056)
+I think Grandpa's[LN]
+relaxing in the[LN]
+hot springs by[LN]
+now.[ED]
+
+
+//POINTER #36 @ $A058 - STRING #36 @ $20631
+
+#W16($A058)
+That monster had[LN]
+some leaves it[LN]
+was eating stuck[LN]
+to it.[ED]
+
+
+//POINTER #37 @ $A05A - STRING #37 @ $20669
+
+#W16($A05A)
+Those leaves are[LN]
+often seen in the[LN]
+jungle bath.[ED]
+
+
+//POINTER #38 @ $A05C - STRING #38 @ $20699
+
+#W16($A05C)
+You might find[LN]
+something useful[LN]
+in the hot[LN]
+springs.[ED]
+
+
+//POINTER #39 @ $A05E - STRING #39 @ $206CD
+
+#W16($A05E)
+Why was that man[LN]
+being chased by[LN]
+G-Shocker?[ED]
+
+
+//POINTER #40 @ $A060 - STRING #40 @ $206F1
+
+#W16($A060)
+It say that bombs[LN]
+will be launched[LN]
+at the Tohoku[LN]
+Volcano.[ED]
+
+
+//POINTER #41 @ $A062 - STRING #41 @ $2072B
+
+#W16($A062)
+Hey, thanks for[LN]
+the map. I was[LN]
+able to enjoy[LN]
+a nice bath.[ED]
+
+
+//POINTER #42 @ $A064 - STRING #42 @ $20765
+
+#W16($A064)
+Free Space[ED]
+
+
+//POINTER #43 @ $A066 - STRING #43 @ $20770
+
+#W16($A066)
+Free Space[ED]
+
+
+//POINTER #44 @ $A068 - STRING #44 @ $2077B
+
+#W16($A068)
+Free Space[ED]
+
+
+//POINTER #45 @ $A06A - STRING #45 @ $20786
+
+#W16($A06A)
+Finally, I can[LN]
+get delivery[LN]
+sorted.[ED]
+
+
+//POINTER #46 @ $A06C - STRING #46 @ $207AA
+
+#W16($A06C)
+The phone isn't[LN]
+working, so[LN]
+I can't order[LN]
+anything.[LN]
+I'm so hungry.[ED]
+
+
+//POINTER #47 @ $A06E - STRING #47 @ $207DE
+
+#W16($A06E)
+It won't be[LN]
+a bomb in[LN]
+a garbage bag[LN]
+next, right?[ED]
+
+
+//POINTER #48 @ $A070 - STRING #48 @ $2080F
+
+#W16($A070)
+On the day of[LN]
+the explosion,[LN]
+flowers were in[LN]
+the restroom.[LN]
+That can't be[LN]
+right! Flowers[LN]
+can't explode![ED]
+
+
+//POINTER #49 @ $A072 - STRING #49 @ $20865
+
+#W16($A072)
+There was[LN]
+a recent[LN]
+explosion in[LN]
+the restroom.[ED]
+
+
+//POINTER #50 @ $A074 - STRING #50 @ $20893
+
+#W16($A074)
+Are you here for[LN]
+a tour?[ED]
+
+
+//POINTER #51 @ $A076 - STRING #51 @ $208AC
+
+#W16($A076)
+If only we asked[LN]
+the Riders to[LN]
+investigate...[ED]
+
+
+//POINTER #52 @ $A078 - STRING #52 @ $208DA
+
+#W16($A078)
+You're too late,[LN]
+Riders![LN]
+[LN]
+[LN]
+The Kanto[LN]
+Destruction Plan[LN]
+is still going[LN]
+ahead![LN]
+Why not stick[LN]
+around for awhile[LN]
+and a play a[LN]
+little game?[LN]
+I'd appreciate[LN]
+it! Ha-ha-ha![ED]
+
+
+//POINTER #53 @ $A07A - STRING #53 @ $20948
+
+#W16($A07A)
+This area is[LN]
+restricted.[LN]
+No entry without[LN]
+a ticket![ED]
+
+
+//POINTER #54 @ $A07C - STRING #54 @ $2097C
+
+#W16($A07C)
+The flower shop[LN]
+is closed.[ED]
+
+
+//POINTER #55 @ $A07E - STRING #55 @ $20997
+
+#W16($A07E)
+If you're looking[LN]
+for the florist,[LN]
+it's over there.[LN]
+[LN]
+Even though it[LN]
+recently opened,[LN]
+it's always[LN]
+closed.[ED]
+
+
+//POINTER #56 @ $A080 - STRING #56 @ $209E4
+
+#W16($A080)
+You snuck in[LN]
+through the[LN]
+shop's back[LN]
+entrance.[LN]
+An underground[LN]
+facility and a[LN]
+flower-shaped[LN]
+bomb is inside.[LN]
+The Riders found[LN]
+a pass and a memo[LN]
+on the (Tonegawa[LN]
+Power Generator).[ED]
+
+
+//POINTER #57 @ $A082 - STRING #57 @ $20A95
+
+#W16($A082)
+I need to hurry![LN]
+Oh, no![LN]
+I'm gonna be[LN]
+late for school![ED]
+
+
+//POINTER #58 @ $A084 - STRING #58 @ $20ACA
+
+#W16($A084)
+The amount of[LN]
+garbage is[LN]
+finally back[LN]
+to normal.[LN]
+But there's still[LN]
+quite a bit left.[ED]
+
+
+//POINTER #59 @ $A086 - STRING #59 @ $20B20
+
+#W16($A086)
+Riders, if you're[LN]
+free, can you[LN]
+lend me a hand?[LN]
+[LN]
+Yumenoshima has[LN]
+turned into[LN]
+a garbage dump in[LN]
+just a few days.[ED]
+
+
+//POINTER #60 @ $A088 - STRING #60 @ $20B5E
+
+#W16($A088)
+This is a waste[LN]
+management[LN]
+facility. Do you[LN]
+need something?[ED]
+
+
+//POINTER #61 @ $A08A - STRING #61 @ $20B9A
+
+#W16($A08A)
+Somehow, the[LN]
+communcation[LN]
+device in Kanto[LN]
+was disabled.[LN]
+There was also[LN]
+an incident at[LN]
+the airport to[LN]
+the south.[LN]
+I'm not sure if[LN]
+both incidents[LN]
+are related.[ED]
+
+
+//POINTER #62 @ $A08C - STRING #62 @ $20C36
+
+#W16($A08C)
+What happened?[LN]
+The town's[LN]
+atmosphere[LN]
+changed somehow.[ED]
+
+
+//POINTER #63 @ $A08E - STRING #63 @ $20C6C
+
+#W16($A08E)
+Yikes![ED]
+
+
+//POINTER #64 @ $A090 - STRING #64 @ $20C73
+
+#W16($A090)
+Sorry for scaring[LN]
+you. This toy is[LN]
+from the new[LN]
+show.[LN]
+Do you want to[LN]
+join in as well,[LN]
+Riders?[ED]
+
+
+//POINTER #65 @ $A092 - STRING #65 @ $20CD2
+
+#W16($A092)
+Do you need a[LN]
+signal strong[LN]
+enough to cover[LN]
+all of Kanto?[LN]
+If you do, you'll[LN]
+need to visit[LN]
+Tokyo Tower.[ED]
+
+
+//POINTER #66 @ $A094 - STRING #66 @ $20D39
+
+#W16($A094)
+Hey! I told you[LN]
+not to enter[LN]
+without[LN]
+permission![LN]
+Huh? A videotape?[LN]
+Sorry for flying[LN]
+off the handle.[LN]
+[LN]
+Everything's a[LN]
+mess because of[LN]
+electromagnetic[LN]
+waves.[ED]
+
+
+//POINTER #67 @ $A096 - STRING #67 @ $20DD4
+
+#W16($A096)
+Hey, don't barge[LN]
+in without[LN]
+permission![ED]
+
+
+//POINTER #68 @ $A098 - STRING #68 @ $20DFC
+
+#W16($A098)
+Are you heading[LN]
+to Tokyo Bay?[LN]
+[LN]
+[LN]
+The usual highway[LN]
+routes are[LN]
+currently closed.[LN]
+[LN]
+But if you ask[LN]
+the old man from[LN]
+Hiratsuka, he[LN]
+might help you.[ED]
+
+
+//POINTER #69 @ $A09A - STRING #69 @ $20E75
+
+#W16($A09A)
+Whoa, a big,[LN]
+black, scary[LN]
+object appeared[LN]
+in Tokyo Bay.[LN]
+It looks like it[LN]
+could sink at any[LN]
+moment now.[ED]
+
+
+//POINTER #70 @ $A09C - STRING #70 @ $20EDC
+
+#W16($A09C)
+Ugh, the engine[LN]
+is broke again![LN]
+How annoying![ED]
+
+
+//POINTER #71 @ $A09E - STRING #71 @ $20F0A
+
+#W16($A09E)
+Thank you for[LN]
+your hard work.[LN]
+I'll head out[LN]
+now.[ED]
+
+
+//POINTER #72 @ $A0A0 - STRING #72 @ $20F3B
+
+#W16($A0A0)
+It won't move[LN]
+without the[LN]
+engine.[ED]
+
+
+//POINTER #73 @ $A0A2 - STRING #73 @ $20F5D
+
+#W16($A0A2)
+Do you want to go[LN]
+to Tokyo Bay?[LN]
+[LN]
+[LN]
+I don't mind, but[LN]
+the ship's engine[LN]
+is being[LN]
+repaired.[LN]
+It's at a nearby[LN]
+disposal facility[LN]
+in the north.[LN]
+[LN]
+Could you get it[LN]
+for me?[ED]
+
+
+//POINTER #74 @ $A0A4 - STRING #74 @ $21001
+
+#W16($A0A4)
+This is Hiratsuka[LN]
+Beach.[LN]
+I'm a fisherman.[ED]
+
+
+//POINTER #75 @ $A0A6 - STRING #75 @ $2102B
+
+#W16($A0A6)
+Are you here[LN]
+on a trip?[ED]
+
+
+//POINTER #76 @ $A0A8 - STRING #76 @ $21043
+
+#W16($A0A8)
+Where are those[LN]
+electromagnetic[LN]
+waves coming[LN]
+from?![ED]
+
+
+//POINTER #77 @ $A0AA - STRING #77 @ $21074
+
+#W16($A0AA)
+Something is[LN]
+emitting an[LN]
+electromagic[LN]
+wave from afar.[LN]
+It's causing[LN]
+the radar to[LN]
+malfunction.[ED]
+
+
+//POINTER #78 @ $A0AC - STRING #78 @ $210D1
+
+#W16($A0AC)
+Oops![LN]
+Sorry about that![ED]
+
+
+//POINTER #79 @ $A0AE - STRING #79 @ $210E9
+
+#W16($A0AE)
+The man dropped[LN]
+a small case.[ED]
+
+
+//POINTER #80 @ $A0B0 - STRING #80 @ $21107
+
+#W16($A0B0)
+The man was from[LN]
+the TV station.[LN]
+A videotape is in[LN]
+the case.[ED]
+
+
+//POINTER #81 @ $A0B2 - STRING #81 @ $21144
+
+#W16($A0B2)
+Hmm...[LN]
+A suspcious[LN]
+person wearing[LN]
+a helmet...[LN]
+Oh, sorry about[LN]
+that. Are you[LN]
+the Riders?[ED]
+
+
+//POINTER #82 @ $A0B4 - STRING #82 @ $21197
+
+#W16($A0B4)
+We don't do bike[LN]
+repairs here.[ED]
+
+
+//POINTER #83 @ $A0B6 - STRING #83 @ $211B6
+
+#W16($A0B6)
+Oh, the engine[LN]
+is already fixed.[LN]
+[LN]
+[LN]
+It's worn out,[LN]
+so it would be[LN]
+best to replace[LN]
+it.[ED]
+
+
+//POINTER #84 @ $A0B8 - STRING #84 @ $21207
+
+#W16($A0B8)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #85 @ $A0BA - STRING #85 @ $21224
+
+#W16($A0BA)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #86 @ $A0BC - STRING #86 @ $21241
+
+#W16($A0BC)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #87 @ $A0BE - STRING #87 @ $2125E
+
+#W16($A0BE)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #88 @ $A0C0 - STRING #88 @ $2127B
+
+#W16($A0C0)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #89 @ $A0C2 - STRING #89 @ $21298
+
+#W16($A0C2)
+The waves are[LN]
+crashing in...[ED]
+
+
+//POINTER #90 @ $A0C4 - STRING #90 @ $212B5
+
+#W16($A0C4)
+Damn you, Riders![LN]
+How dare you[LN]
+interfere with[LN]
+my plans![LN]
+The Kanto[LN]
+Destruction Plan[LN]
+is in its final[LN]
+stage![LN]
+You will die[LN]
+in this garbage[LN]
+dump![ED]
+
+
+//POINTER #91 @ $A0C6 - STRING #91 @ $21325
+
+#W16($A0C6)
+The Riders have[LN]
+taken control[LN]
+of the device.[ED]
+
+
+//POINTER #92 @ $A0C8 - STRING #92 @ $21352
+
+#W16($A0C8)
+The power is out.[ED]
+
+
+//POINTER #93 @ $A0CA - STRING #93 @ $21364
+
+#W16($A0CA)
+Currently,[LN]
+Yumenoshima is[LN]
+inaccessible.[LN]
+[LN]
+A state of[LN]
+emergency has[LN]
+been declared.[ED]
+
+
+//POINTER #94 @ $A0CC - STRING #94 @ $213B5
+
+#W16($A0CC)
+The situation has[LN]
+been resolved.[LN]
+You can now[LN]
+proceed.[ED]
+
+
+//POINTER #95 @ $A0CE - STRING #95 @ $213EB
+
+#W16($A0CE)
+This route is[LN]
+blocked. Please,[LN]
+find another way[LN]
+around.[ED]
+
+
+//POINTER #96 @ $A0D0 - STRING #96 @ $21423
+
+#W16($A0D0)
+Go to the central[LN]
+Kanto waste[LN]
+disposal site.[LN]
+[LN]
+You'll find[LN]
+something[LN]
+interesting[LN]
+there.[ED]
+
+
+//POINTER #97 @ $A0D2 - STRING #97 @ $2147A
+
+#W16($A0D2)
+The waste[LN]
+disposal site is[LN]
+located west of[LN]
+Tokyo Tower.[ED]
+
+
+//POINTER #98 @ $A0D4 - STRING #98 @ $214B2
+
+#W16($A0D4)
+Check out the[LN]
+city of Tokyo![LN]
+It's a mess![LN]
+Mwa-ha-ha![ED]
+
+
+//POINTER #99 @ $A0D6 - STRING #99 @ $214E7
+
+#W16($A0D6)
+What's going on[LN]
+in Tokyo?![ED]
+
+
+//POINTER #100 @ $A0D8 - STRING #100 @ $21502
+
+#W16($A0D8)
+By the time the[LN]
+Riders arrived,[LN]
+the power planet[LN]
+was destroyed.[ED]
+
+
+//POINTER #101 @ $A0DA - STRING #101 @ $21542
+
+#W16($A0DA)
+Free Space[ED]
+
+
+//POINTER #102 @ $A0DC - STRING #102 @ $2154D
+
+#W16($A0DC)
+Free Space[ED]
+
+
+//POINTER #103 @ $A0DE - STRING #103 @ $21558
+
+#W16($A0DE)
+Free Space[ED]
+
+
+//POINTER #104 @ $A0E0 - STRING #104 @ $21563
+
+#W16($A0E0)
+Free Space[ED]
+
+
+//POINTER #105 @ $A0E2 - STRING #105 @ $2156E
+
+#W16($A0E2)
+I do remember[LN]
+that a loud noise[LN]
+was coming from[LN]
+the back garden.[ED]
+
+
+//POINTER #106 @ $A0E4 - STRING #106 @ $215AF
+
+#W16($A0E4)
+How about having[LN]
+some of our[LN]
+tea before you[LN]
+leave?[ED]
+
+
+//POINTER #107 @ $A0E6 - STRING #107 @ $215E2
+
+#W16($A0E6)
+Riders, what's[LN]
+going on?[ED]
+
+
+//POINTER #108 @ $A0E8 - STRING #108 @ $215FB
+
+#W16($A0E8)
+This cave is[LN]
+connected to[LN]
+Kurobe Gorge[LN]
+in the east.[ED]
+
+
+//POINTER #109 @ $A0EA - STRING #109 @ $21636
+
+#W16($A0EA)
+We've received[LN]
+word from[LN]
+Skyrider.[LN]
+Come this way![ED]
+
+
+//POINTER #110 @ $A0EC - STRING #110 @ $21669
+
+#W16($A0EC)
+Could Skyrider be[LN]
+at Mt. Fuji?[ED]
+
+
+//POINTER #111 @ $A0EE - STRING #111 @ $21688
+
+#W16($A0EE)
+This is Skyrider.[LN]
+I'm leaving this[LN]
+letter to the[LN]
+Riders...[LN]
+Find out what[LN]
+G-Shocker is up[LN]
+to and find me[LN]
+at Mt. Fuji...[ED]
+
+
+//POINTER #112 @ $A0F0 - STRING #112 @ $21701
+
+#W16($A0F0)
+This is Takayama.[LN]
+The festival is[LN]
+currently[LN]
+underway.[LN]
+Why not take[LN]
+a look around?[ED]
+
+
+//POINTER #113 @ $A0F2 - STRING #113 @ $21753
+
+#W16($A0F2)
+My little brother[LN]
+has recovered.[LN]
+Thank you.[ED]
+
+
+//POINTER #114 @ $A0F4 - STRING #114 @ $2177F
+
+#W16($A0F4)
+Thank you.[LN]
+I won't eat stuff[LN]
+I find on the[LN]
+ground anymore.[ED]
+
+
+//POINTER #115 @ $A0F6 - STRING #115 @ $217BA
+
+#W16($A0F6)
+Dead[ED]
+
+
+//POINTER #116 @ $A0F8 - STRING #116 @ $217BF
+
+#W16($A0F8)
+The medicine[LN]
+isn't ready yet,[LN]
+Riders.[ED]
+
+
+//POINTER #117 @ $A0FA - STRING #117 @ $217E5
+
+#W16($A0FA)
+Thank you.[LN]
+With this, the[LN]
+illness will be[LN]
+cured.[LN]
+Wait, wasn't that[LN]
+from the Takayama[LN]
+Festival in the[LN]
+northeast?[ED]
+
+
+//POINTER #118 @ $A0FC - STRING #118 @ $2184F
+
+#W16($A0FC)
+This is awful![LN]
+My little brother[LN]
+is sick, and no[LN]
+one's home![LN]
+Hey, aren't you[LN]
+the Riders?[LN]
+[LN]
+[LN]
+Could you pick[LN]
+up some medicine[LN]
+from Toyama in[LN]
+the north?[ED]
+
+
+//POINTER #119 @ $A0FE - STRING #119 @ $218E4
+
+#W16($A0FE)
+Oops, a fried[LN]
+prawn fell on the[LN]
+floor. Oh well![LN]
+-munch, munch-[ED]
+
+
+//POINTER #120 @ $A100 - STRING #120 @ $21923
+
+#W16($A100)
+Excuse me?![LN]
+A bomb was inside[LN]
+that cave?! AAH!![ED]
+
+
+//POINTER #121 @ $A102 - STRING #121 @ $21947
+
+#W16($A102)
+I saw some people[LN]
+dressed in black[LN]
+skulking about.[LN]
+[LN]
+They were around[LN]
+the cave to the[LN]
+north of the[LN]
+island.[ED]
+
+
+//POINTER #122 @ $A104 - STRING #122 @ $219B1
+
+#W16($A104)
+Welcome to[LN]
+Sado Island.[ED]
+
+
+//POINTER #123 @ $A106 - STRING #123 @ $219C9
+
+#W16($A106)
+Aaah!![ED]
+
+
+//POINTER #124 @ $A108 - STRING #124 @ $219D0
+
+#W16($A108)
+Oh, no! Help![ED]
+
+
+//POINTER #125 @ $A10A - STRING #125 @ $219DE
+
+#W16($A10A)
+Ha-ha! Good job,[LN]
+Skyrider![LN]
+Take them down![LN]
+[LN]
+Hey, Riders![LN]
+Do you want[LN]
+Skyrider to beat[LN]
+you all up?![ED]
+
+
+//POINTER #126 @ $A10C - STRING #126 @ $21A43
+
+#W16($A10C)
+The computer[LN]
+isn't responding.[ED]
+
+
+//POINTER #127 @ $A10E - STRING #127 @ $21A62
+
+#W16($A10E)
+The Riders[LN]
+accessed[LN]
+the computer.[ED]
+
+
+//POINTER #128 @ $A110 - STRING #128 @ $21A84
+
+#W16($A110)
+The plan is to[LN]
+launch a bomb[LN]
+from Sado Island[LN]
+to the mainland.[LN]
+Skyrider will be[LN]
+dispatched to put[LN]
+pressure on[LN]
+Sado Island.[LN]
+G-Shocker Central[LN]
+Bureau Chief,[LN]
+Apollogeist...[ED]
+
+
+//POINTER #129 @ $A112 - STRING #129 @ $21B2F
+
+#W16($A112)
+Oh, sir. A young[LN]
+lady has entered[LN]
+the women's bath.[ED]
+
+
+//POINTER #130 @ $A114 - STRING #130 @ $21B63
+
+#W16($A114)
+Oh, sir. A young[LN]
+lady has entered[LN]
+the women's bath.[ED]
+
+
+//POINTER #131 @ $A116 - STRING #131 @ $21B97
+
+#W16($A116)
+Oh, sir. A young[LN]
+lady has entered[LN]
+the women's bath.[ED]
+
+
+//POINTER #132 @ $A118 - STRING #132 @ $21BCB
+
+#W16($A118)
+Oh, sir. A young[LN]
+lady has entered[LN]
+the women's bath.[ED]
+
+
+//POINTER #133 @ $A11A - STRING #133 @ $21BFF
+
+#W16($A11A)
+Aaaah...[LN]
+The bathwater[LN]
+feels great![ED]
+
+
+//POINTER #134 @ $A11C - STRING #134 @ $21C1A
+
+#W16($A11C)
+You liked what[LN]
+you saw, too,[LN]
+didn't you?[LN]
+Hee-hee![ED]
+
+
+//POINTER #135 @ $A11E - STRING #135 @ $21C40
+
+#W16($A11E)
+The tea leaves[LN]
+have a nice[LN]
+aroma.[ED]
+

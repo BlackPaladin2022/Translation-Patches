@@ -1,0 +1,1703 @@
+//GAME NAME:		Kamen Rider SD (NES)
+
+//BLOCK #001 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $8010 - STRING #0 @ $1C00E
+
+#VAR(Table, TABLE)
+#ADDTBL("KRSD-ENG00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($14010)
+#JMP($1C010, $1E00E)
+
+//POINTER #0 @ $8010 - STRING #0 @ $1C010
+
+#W16($8010)
+Select an option![ED]
+
+
+//POINTER #1 @ $8012 - STRING #1 @ $1C02E
+
+#W16($8012)
+Select game data![ED]
+
+
+//POINTER #2 @ $8014 - STRING #2 @ $1C03B
+
+#W16($8014)
+Which file do you[LN]
+want to delete?[ED]
+
+
+//POINTER #3 @ $8016 - STRING #3 @ $1C04D
+
+#W16($8016)
+You want to erase[LN]
+Game No.{unit06}?[LN]
+Yes    No[ED]
+
+
+//POINTER #4 @ $8018 - STRING #4 @ $1C062
+
+#W16($8018)
+Game No.{unit06}[LN]
+has been erased![ED]
+
+
+//POINTER #5 @ $801A - STRING #5 @ $1C070
+
+#W16($801A)
+Which file do you[LN]
+want to copy?[ED]
+
+
+//POINTER #6 @ $801C - STRING #6 @ $1C081
+
+#W16($801C)
+Where will you[LN]
+copy it to?[ED]
+
+
+//POINTER #7 @ $801E - STRING #7 @ $1C090
+
+#W16($801E)
+Game No.{unit06}[LN]
+has been copied![ED]
+
+
+//POINTER #8 @ $8020 - STRING #8 @ $1C09E
+
+#W16($8020)
+Select your[LN]
+Riders' command![ED]
+
+
+//POINTER #9 @ $8022 - STRING #9 @ $1C0B8
+
+#W16($8022)
+Where do you want[LN]
+to save your game[LN]
+file?[ED]
+
+
+//POINTER #10 @ $8024 - STRING #10 @ $1C0C4
+
+#W16($8024)
+File is in use.[LN]
+Are you sure?[LN]
+Yes    No[ED]
+
+
+//POINTER #11 @ $8026 - STRING #11 @ $1C0EC
+
+#W16($8026)
+There's nothing[LN]
+that can be[LN]
+attacked![ED]
+
+
+//POINTER #12 @ $8028 - STRING #12 @ $1C0FF
+
+#W16($8028)
+Your game has[LN]
+been saved to[LN]
+Game No.{unit06}![ED]
+
+
+//POINTER #13 @ $802A - STRING #13 @ $1C10C
+
+#W16($802A)
+What do you want[LN]
+to know?[ED]
+
+
+//POINTER #14 @ $802C - STRING #14 @ $1C126
+
+#W16($802C)
+Which area do you[LN]
+want to know more[LN]
+about?[ED]
+
+
+//POINTER #15 @ $802E - STRING #15 @ $1C13D
+
+#W16($802E)
+Check on who?[LN]
+ Battle[LN]
+ Wild[LN]
+ Mechanic[ED]
+
+
+//POINTER #16 @ $8030 - STRING #16 @ $1C168
+
+#W16($8030)
+Check on who?[LN]
+ Battle[LN]
+ Wild[LN]
+ Mechanic[ED]
+
+
+//POINTER #17 @ $8032 - STRING #17 @ $1C193
+
+#W16($8032)
+Check on who?[LN]
+ {unit07}[LN]
+ {unit07}[LN]
+ {unit07}[ED]
+
+
+//POINTER #18 @ $8034 - STRING #18 @ $1C1AF
+
+#W16($8034)
+That item is[LN]
+out of stock.[ED]
+
+
+//POINTER #19 @ $8036 - STRING #19 @ $1C1C4
+
+#W16($8036)
+Which Riders'[LN]
+bike do you[LN]
+want tuned up?[ED]
+
+
+//POINTER #20 @ $8038 - STRING #20 @ $1C1E0
+
+#W16($8038)
+Which part needs[LN]
+tuning?[ED]
+
+
+//POINTER #21 @ $803A - STRING #21 @ $1C1F9
+
+#W16($803A)
+That can't be[LN]
+tuned up anymore.[ED]
+
+
+//POINTER #22 @ $803C - STRING #22 @ $1C214
+
+#W16($803C)
+Spin   Item[LN]
+Stats  Change[LN]
+${unit04}[LN]
+(CB){unit04}[ED]
+
+
+//POINTER #23 @ $803E - STRING #23 @ $1C237
+
+#W16($803E)
+Which area do you[LN]
+want to go to?[ED]
+
+
+//POINTER #24 @ $8040 - STRING #24 @ $1C249
+
+#W16($8040)
+Which area do you[LN]
+want to go to?[ED]
+
+
+//POINTER #25 @ $8042 - STRING #25 @ $1C25B
+
+#W16($8042)
+Please, press[LN]
+the A Button.[ED]
+
+
+//POINTER #26 @ $8044 - STRING #26 @ $1C26A
+
+#W16($8044)
+Please, press[LN]
+the A Button.[ED]
+
+
+//POINTER #27 @ $8046 - STRING #27 @ $1C279
+
+#W16($8046)
+Please, press[LN]
+the A Button[LN]
+to stop[LN]
+spinning.[ED]
+
+
+//POINTER #28 @ $8048 - STRING #28 @ $1C282
+
+#W16($8048)
+Wild[ED]
+
+
+//POINTER #29 @ $804A - STRING #29 @ $1C287
+
+#W16($804A)
+Which item[LN]
+are you going[LN]
+to choose?[ED]
+
+
+//POINTER #30 @ $804C - STRING #30 @ $1C293
+
+#W16($804C)
+What will you do?[LN]
+Use   Drop[ED]
+
+
+//POINTER #31 @ $804E - STRING #31 @ $1C2B0
+
+#W16($804E)
+Use it on who?[LN]
+{unit07}[LN]
+{unit07}[LN]
+{unit07}[ED]
+
+
+//POINTER #32 @ $8050 - STRING #32 @ $1C2C5
+
+#W16($8050)
+Do you want to[LN]
+drop your item?[LN]
+Yes   No[ED]
+
+
+//POINTER #33 @ $8052 - STRING #33 @ $1C2DF
+
+#W16($8052)
+Which Rider's Stats?[ED]
+
+
+//POINTER #34 @ $8054 - STRING #34 @ $1C2F4
+
+#W16($8054)
+Tune whose bike?[LN]
+ {unit07}[LN]
+ {unit07}[LN]
+ {unit07}[ED]
+
+
+//POINTER #35 @ $8056 - STRING #35 @ $1C30E
+
+#W16($8056)
+Fight Run   Stats[ED]
+
+
+//POINTER #36 @ $8058 - STRING #36 @ $1C320
+
+#W16($8058)
+Speed Lvl {unit06}[LN]
+Power[LN]
+Fuel[ED]
+
+
+//POINTER #37 @ $805A - STRING #37 @ $1C33D
+
+#W16($805A)
+Please, come back[LN]
+again soon![ED]
+
+
+//POINTER #38 @ $805C - STRING #38 @ $1C34D
+
+#W16($805C)
+What are you[LN]
+looking for?[ED]
+
+
+//POINTER #39 @ $805E - STRING #39 @ $1C367
+
+#W16($805E)
+Sell which item?[ED]
+
+
+//POINTER #40 @ $8060 - STRING #40 @ $1C378
+
+#W16($8060)
+The {unit07}[LN]
+costs {unit04}.[LN]
+Okay  Nope[ED]
+
+
+//POINTER #41 @ $8062 - STRING #41 @ $1C392
+
+#W16($8062)
+The {unit07}[LN]
+costs ${unit04}.[LN]
+Okay  Nope[ED]
+
+
+//POINTER #42 @ $8064 - STRING #42 @ $1C3AC
+
+#W16($8064)
+Sorry, but you[LN]
+don't have enough[LN]
+money to purchase[LN]
+that.[ED]
+
+
+//POINTER #43 @ $8066 - STRING #43 @ $1C3C3
+
+#W16($8066)
+If you have a[LN]
+ticket, get on[LN]
+board, please.[ED]
+
+
+//POINTER #44 @ $8068 - STRING #44 @ $1C3EF
+
+#W16($8068)
+You cannot board[LN]
+the ferry without[LN]
+a ticket.[ED]
+
+
+//POINTER #45 @ $806A - STRING #45 @ $1C40A
+
+#W16($806A)
+Due to risk of[LN]
+tsunami, we're[LN]
+currently on[LN]
+lockdown.[ED]
+
+
+//POINTER #46 @ $806C - STRING #46 @ $1C43A
+
+#W16($806C)
+You cannot board[LN]
+the plane without[LN]
+a ticket.[ED]
+
+
+//POINTER #47 @ $806E - STRING #47 @ $1C455
+
+#W16($806E)
+We're looking[LN]
+forward to seeing[LN]
+you again soon![ED]
+
+
+//POINTER #48 @ $8070 - STRING #48 @ $1C46D
+
+#W16($8070)
+Is this okay?[LN]
+ Yes[LN]
+ No[ED]
+
+
+//POINTER #49 @ $8072 - STRING #49 @ $1C484
+
+#W16($8072)
+Battle strategy?[LN]
+ Manual[LN]
+ Auto[ED]
+
+
+//POINTER #50 @ $8074 - STRING #50 @ $1C4A3
+
+#W16($8074)
+{unit07}'s turn![LN]
+ Drive[LN]
+ Item[LN]
+ Attack[ED]
+
+
+//POINTER #51 @ $8076 - STRING #51 @ $1C4C2
+
+#W16($8076)
+Success![LN]
+{unit07}[LN]
+is stunned![ED]
+
+
+//POINTER #52 @ $8078 - STRING #52 @ $1C4D9
+
+#W16($8078)
+{unit07}[LN]
+is stunned![LN]
+Miss one turn![ED]
+
+
+//POINTER #53 @ $807A - STRING #53 @ $1C4F6
+
+#W16($807A)
+No further[LN]
+maintentence[LN]
+is possible.[ED]
+
+
+//POINTER #54 @ $807C - STRING #54 @ $1C51B
+
+#W16($807C)
+It's now[LN]
+{unit07}'s[LN]
+turn![ED]
+
+
+//POINTER #55 @ $807E - STRING #55 @ $1C52E
+
+#W16($807E)
+{unit07}[ED]
+
+
+//POINTER #56 @ $8080 - STRING #56 @ $1C530
+
+#W16($8080)
+{unit07}[LN]
+ran out of gas![ED]
+
+
+//POINTER #57 @ $8082 - STRING #57 @ $1C541
+
+#W16($8082)
+A runaway truck[LN]
+is blocking the[LN]
+way![ED]
+
+
+//POINTER #58 @ $8084 - STRING #58 @ $1C558
+
+#W16($8084)
+{unit07}[LN]
+destroys the[LN]
+runaway truck![ED]
+
+
+//POINTER #59 @ $8086 - STRING #59 @ $1C56E
+
+#W16($8086)
+{unit07}[LN]
+reaches the goal![ED]
+
+
+//POINTER #60 @ $8088 - STRING #60 @ $1C582
+
+#W16($8088)
+You managed[LN]
+to escape[LN]
+successfully![ED]
+
+
+//POINTER #61 @ $808A - STRING #61 @ $1C598
+
+#W16($808A)
+You can't escape![LN]
+The race begins![ED]
+
+
+//POINTER #62 @ $808C - STRING #62 @ $1C5B4
+
+#W16($808C)
+{unit07}[LN]
+earns {unit04}XP[LN]
+and ${unit04}![ED]
+
+
+//POINTER #63 @ $808E - STRING #63 @ $1C5CA
+
+#W16($808E)
+{unit07}[LN]
+Riders win![ED]
+
+
+//POINTER #64 @ $8090 - STRING #64 @ $1C5D8
+
+#W16($8090)
+{unit07}'s[LN]
+bike has no[LN]
+power![ED]
+
+
+//POINTER #65 @ $8092 - STRING #65 @ $1C5F3
+
+#W16($8092)
+{unit07}[LN]
+Riders were[LN]
+defeated![ED]
+
+
+//POINTER #66 @ $8094 - STRING #66 @ $1C60B
+
+#W16($8094)
+{unit07}'s[LN]
+bike has[LN]
+{unit04} power![ED]
+
+
+//POINTER #67 @ $8096 - STRING #67 @ $1C627
+
+#W16($8096)
+{unit07}'s[LN]
+bike ran out[LN]
+of fuel![ED]
+
+
+//POINTER #68 @ $8098 - STRING #68 @ $1C63D
+
+#W16($8098)
+{unit07}'s[LN]
+bike is destroyed![ED]
+
+
+//POINTER #69 @ $809A - STRING #69 @ $1C654
+
+#W16($809A)
+The enemy has[LN]
+been defeated![ED]
+
+
+//POINTER #70 @ $809C - STRING #70 @ $1C66B
+
+#W16($809C)
+{unit01} Riders![LN]
+Urgent message![LN]
+[LN]
+[LN]
+A woman knows[LN]
+where to find[LN]
+Great Leader's[LN]
+headquarters![LN]
+Go to Yamaguichi,[LN]
+located in the[LN]
+southern Chugoku[LN]
+area![ED]
+
+
+//POINTER #71 @ $809E - STRING #71 @ $1C6F9
+
+#W16($809E)
+Turbo activated![ED]
+
+
+//POINTER #72 @ $80A0 - STRING #72 @ $1C70A
+
+#W16($80A0)
+Which enemy will[LN]
+you attack?[ED]
+
+
+//POINTER #73 @ $80A2 - STRING #73 @ $1C71E
+
+#W16($80A2)
+Jet boost![ED]
+
+
+//POINTER #74 @ $80A4 - STRING #74 @ $1C729
+
+#W16($80A4)
+Fuel is now at[LN]
+{unit04}![ED]
+
+
+//POINTER #75 @ $80A6 - STRING #75 @ $1C73C
+
+#W16($80A6)
+Fuel is now at[LN]
+{unit04}![ED]
+
+
+//POINTER #76 @ $80A8 - STRING #76 @ $1C74F
+
+#W16($80A8)
+Power is now[LN]
+at {unit04}![ED]
+
+
+//POINTER #77 @ $80AA - STRING #77 @ $1C768
+
+#W16($80AA)
+Wow![ED]
+
+
+//POINTER #78 @ $80AC - STRING #78 @ $1C76D
+
+#W16($80AC)
+Hyaa![ED]
+
+
+//POINTER #79 @ $80AE - STRING #79 @ $1C773
+
+#W16($80AE)
+Haah![ED]
+
+
+//POINTER #80 @ $80B0 - STRING #80 @ $1C779
+
+#W16($80B0)
+Daryaah![ED]
+
+
+//POINTER #81 @ $80B2 - STRING #81 @ $1C782
+
+#W16($80B2)
+Daryaah![ED]
+
+
+//POINTER #82 @ $80B4 - STRING #82 @ $1C78B
+
+#W16($80B4)
+Daryaah![ED]
+
+
+//POINTER #83 @ $80B6 - STRING #83 @ $1C794
+
+#W16($80B6)
+Uoryaa![ED]
+
+
+//POINTER #84 @ $80B8 - STRING #84 @ $1C79C
+
+#W16($80B8)
+Ukii![ED]
+
+
+//POINTER #85 @ $80BA - STRING #85 @ $1C7A2
+
+#W16($80BA)
+Ukii![ED]
+
+
+//POINTER #86 @ $80BC - STRING #86 @ $1C7A8
+
+#W16($80BC)
+Let's go![ED]
+
+
+//POINTER #87 @ $80BE - STRING #87 @ $1C7B2
+
+#W16($80BE)
+Let's go![ED]
+
+
+//POINTER #88 @ $80C0 - STRING #88 @ $1C7BC
+
+#W16($80C0)
+Full throttle![ED]
+
+
+//POINTER #89 @ $80C2 - STRING #89 @ $1C7CB
+
+#W16($80C2)
+Full throttle![ED]
+
+
+//POINTER #90 @ $80C4 - STRING #90 @ $1C7DA
+
+#W16($80C4)
+CON[ED]
+
+
+//POINTER #91 @ $80C6 - STRING #91 @ $1C7DE
+
+#W16($80C6)
+Spin[ED]
+
+
+//POINTER #92 @ $80C8 - STRING #92 @ $1C7E3
+
+#W16($80C8)
+Buy Exit[ED]
+
+
+//POINTER #93 @ $80CA - STRING #93 @ $1C7EE
+
+#W16($80CA)
+Kiee![ED]
+
+
+//POINTER #94 @ $80CC - STRING #94 @ $1C7F4
+
+#W16($80CC)
+Which enemy are[LN]
+you targeting?[ED]
+
+
+//POINTER #95 @ $80CE - STRING #95 @ $1C7FF
+
+#W16($80CE)
+Slot Machine[LN]
+Coin Exchange[LN]
+Exit Casino[ED]
+
+
+//POINTER #96 @ $80D0 - STRING #96 @ $1C816
+
+#W16($80D0)
+(CB)[ED]
+
+
+//POINTER #97 @ $80D2 - STRING #97 @ $1C818
+
+#W16($80D2)
+Puncture[ED]
+
+
+//POINTER #98 @ $80D4 - STRING #98 @ $1C821
+
+#W16($80D4)
+The Riders has[LN]
+no room for the[LN]
+{unit07}![ED]
+
+
+//POINTER #99 @ $80D6 - STRING #99 @ $1C843
+
+#W16($80D6)
+The Riders[LN]
+found the[LN]
+{unit07}![ED]
+
+
+//POINTER #100 @ $80D8 - STRING #100 @ $1C85B
+
+#W16($80D8)
+Power has[LN]
+dropped down[LN]
+to zero![ED]
+
+
+//POINTER #101 @ $80DA - STRING #101 @ $1C872
+
+#W16($80DA)
+Fuel has[LN]
+dropped down[LN]
+to zero![ED]
+
+
+//POINTER #102 @ $80DC - STRING #102 @ $1C883
+
+#W16($80DC)
+HP has[LN]
+dropped down[LN]
+to zero![ED]
+
+
+//POINTER #103 @ $80DE - STRING #103 @ $1C892
+
+#W16($80DE)
+{unit07}[LN]
+has been[LN]
+removed from[LN]
+the race![ED]
+
+
+//POINTER #104 @ $80E0 - STRING #104 @ $1C8A1
+
+#W16($80E0)
+Power has[LN]
+increased[LN]
+to maximum![ED]
+
+
+//POINTER #105 @ $80E2 - STRING #105 @ $1C8BB
+
+#W16($80E2)
+Power was[LN]
+increased[LN]
+by {unit05}![ED]
+
+
+//POINTER #106 @ $80E4 - STRING #106 @ $1C8DA
+
+#W16($80E4)
+Fuel has[LN]
+increased[LN]
+to maximum![ED]
+
+
+//POINTER #107 @ $80E6 - STRING #107 @ $1C8EE
+
+#W16($80E6)
+Fuel was[LN]
+increased[LN]
+by {unit05}![ED]
+
+
+//POINTER #108 @ $80E8 - STRING #108 @ $1C907
+
+#W16($80E8)
+HP has[LN]
+increased[LN]
+to maximum![ED]
+
+
+//POINTER #109 @ $80EA - STRING #109 @ $1C91D
+
+#W16($80EA)
+HP was[LN]
+increased[LN]
+by {unit05}![ED]
+
+
+//POINTER #110 @ $80EC - STRING #110 @ $1C934
+
+#W16($80EC)
+Is this okay?[LN]
+Yes   No[ED]
+
+
+//POINTER #111 @ $80EE - STRING #111 @ $1C94B
+
+#W16($80EE)
+Is this okay?[LN]
+Yes   No[ED]
+
+
+//POINTER #112 @ $80F0 - STRING #112 @ $1C962
+
+#W16($80F0)
+Is this okay?[LN]
+Yes   No[ED]
+
+
+//POINTER #113 @ $80F2 - STRING #113 @ $1C979
+
+#W16($80F2)
+Is this okay?[LN]
+Yes   No[ED]
+
+
+//POINTER #114 @ $80F4 - STRING #114 @ $1C990
+
+#W16($80F4)
+{unit07}[LN]
+misses[LN]
+one turn.[ED]
+
+
+//POINTER #115 @ $80F6 - STRING #115 @ $1C9A3
+
+#W16($80F6)
+{unit07}[LN]
+spun out![ED]
+
+
+//POINTER #116 @ $80F8 - STRING #116 @ $1C9AF
+
+#W16($80F8)
+Where do you want[LN]
+to place it?[ED]
+
+
+//POINTER #117 @ $80FA - STRING #117 @ $1C9C1
+
+#W16($80FA)
+Where do you want[LN]
+to place it?[ED]
+
+
+//POINTER #118 @ $80FC - STRING #118 @ $1C9D3
+
+#W16($80FC)
+The Riders[LN]
+received[LN]
+{unit07}![ED]
+
+
+//POINTER #119 @ $80FE - STRING #119 @ $1C9EA
+
+#W16($80FE)
+The Riders[LN]
+received[LN]
+{unit07}![ED]
+
+
+//POINTER #120 @ $8100 - STRING #120 @ $1CA01
+
+#W16($8100)
+The Riders[LN]
+received[LN]
+{unit07}![ED]
+
+
+//POINTER #121 @ $8102 - STRING #121 @ $1CA18
+
+#W16($8102)
+The Riders[LN]
+received[LN]
+{unit07}![ED]
+
+
+//POINTER #122 @ $8104 - STRING #122 @ $1CA2F
+
+#W16($8104)
+The Riders[LN]
+received[LN]
+{unit07}![ED]
+
+
+//POINTER #123 @ $8106 - STRING #123 @ $1CA46
+
+#W16($8106)
+Hey, big boys![LN]
+Do you wanna[LN]
+play?[ED]
+
+
+//POINTER #124 @ $8108 - STRING #124 @ $1CA61
+
+#W16($8108)
+Winnings amount[LN]
+        (CB){unit04}[ED]
+
+
+//POINTER #125 @ $810A - STRING #125 @ $1CA7B
+
+#W16($810A)
+One coin[LN]
+is worth $10![LN]
+Good luck![ED]
+
+
+//POINTER #126 @ $810C - STRING #126 @ $1CA9D
+
+#W16($810C)
+Come again soon![ED]
+
+
+//POINTER #127 @ $810E - STRING #127 @ $1CAAE
+
+#W16($810E)
+Are you here to[LN]
+buy construction[LN]
+items? What are[LN]
+you looking for?[ED]
+
+
+//POINTER #128 @ $8110 - STRING #128 @ $1CACC
+
+#W16($8110)
+Is this okay?[ED]
+
+
+//POINTER #129 @ $8112 - STRING #129 @ $1CADA
+
+#W16($8112)
+Thank you very[LN]
+much![ED]
+
+
+//POINTER #130 @ $8114 - STRING #130 @ $1CAEF
+
+#W16($8114)
+Sorry, but you[LN]
+don't have enough[LN]
+coins for that.[ED]
+
+
+//POINTER #131 @ $8116 - STRING #131 @ $1CB06
+
+#W16($8116)
+A customer![ED]
+
+
+//POINTER #132 @ $8118 - STRING #132 @ $1CB12
+
+#W16($8118)
+Place your bet,[LN]
+and press A to[LN]
+stop the wheel.[LN]
+Bet   Cancel[ED]
+
+
+//POINTER #133 @ $811A - STRING #133 @ $1CB4E
+
+#W16($811A)
+Whose bike is[LN]
+this?[ED]
+
+
+//POINTER #134 @ $811C - STRING #134 @ $1CB62
+
+#W16($811C)
+That'll be ${unit04}.[LN]
+Is that okay?[ED]
+
+
+//POINTER #135 @ $811E - STRING #135 @ $1CB80
+
+#W16($811E)
+Anything else?[ED]
+
+
+//POINTER #136 @ $8120 - STRING #136 @ $1CB8F
+
+#W16($8120)
+Welcome![LN]
+What do you need?[ED]
+
+
+//POINTER #137 @ $8122 - STRING #137 @ $1CB98
+
+#W16($8122)
+Select[LN]
+Erase[LN]
+Copy[ED]
+
+
+//POINTER #138 @ $8124 - STRING #138 @ $1CBAA
+
+#W16($8124)
+Game  No.{unit06}[ED]
+
+
+//POINTER #139 @ $8126 - STRING #139 @ $1CBB7
+
+#W16($8126)
+Deployment[ED]
+
+
+//POINTER #140 @ $8128 - STRING #140 @ $1CBC2
+
+#W16($8128)
+Ooh, there's[LN]
+{unit05} coins![LN]
+The Riders[LN]
+grabbed some![ED]
+
+
+//POINTER #141 @ $812A - STRING #141 @ $1CBF2
+
+#W16($812A)
+Hooray![LN]
+Your power[LN]
+has been[LN]
+increased![ED]
+
+
+//POINTER #142 @ $812C - STRING #142 @ $1CC09
+
+#W16($812C)
+Oh, no![LN]
+Your power[LN]
+has been[LN]
+decreased![ED]
+
+
+//POINTER #143 @ $812E - STRING #143 @ $1CC1F
+
+#W16($812E)
+Awesome![LN]
+Fuel has been[LN]
+replenished![ED]
+
+
+//POINTER #144 @ $8130 - STRING #144 @ $1CC3A
+
+#W16($8130)
+Oh, no![LN]
+A fuel leak![ED]
+
+
+//POINTER #145 @ $8132 - STRING #145 @ $1CC4F
+
+#W16($8132)
+Yikes![LN]
+A tornado![ED]
+
+
+//POINTER #146 @ $8134 - STRING #146 @ $1CC61
+
+#W16($8134)
+Oh, no![LN]
+The bike has[LN]
+a flat tire![ED]
+
+
+//POINTER #147 @ $8136 - STRING #147 @ $1CC76
+
+#W16($8136)
+Warp time![ED]
+
+
+//POINTER #148 @ $8138 - STRING #148 @ $1CC7C
+
+#W16($8138)
+That was[LN]
+delicious![ED]
+
+
+//POINTER #149 @ $813A - STRING #149 @ $1CC87
+
+#W16($813A)
+Nothing happened.[ED]
+
+
+//POINTER #150 @ $813C - STRING #150 @ $1CC99
+
+#W16($813C)
+The flat tire on[LN]
+{unit07}'s[LN]
+bike was[LN]
+repaired![ED]
+
+
+//POINTER #151 @ $813E - STRING #151 @ $1CCB1
+
+#W16($813E)
+This area's[LN]
+difficulty[LN]
+is Lv1![ED]
+
+
+//POINTER #152 @ $8140 - STRING #152 @ $1CCD0
+
+#W16($8140)
+This area's[LN]
+difficulty[LN]
+is Lv2![ED]
+
+
+//POINTER #153 @ $8142 - STRING #153 @ $1CCEF
+
+#W16($8142)
+This area's[LN]
+difficulty[LN]
+is Lv3![ED]
+
+
+//POINTER #154 @ $8144 - STRING #154 @ $1CD0E
+
+#W16($8144)
+This area's[LN]
+difficulty[LN]
+is Lv4![ED]
+
+
+//POINTER #155 @ $8146 - STRING #155 @ $1CD2D
+
+#W16($8146)
+You must win the[LN]
+first, second and[LN]
+third place spots[LN]
+to win this race![LN]
+Get to the finish[LN]
+line as fast as[LN]
+you can![LN]
+[LN]
+Don't use smoke[LN]
+or take out all[LN]
+enemies with[LN]
+missiles.[LN]
+If either[LN]
+situations[LN]
+happen, you'll[LN]
+be disqualified![ED]
+
+
+//POINTER #156 @ $8148 - STRING #156 @ $1CD9C
+
+#W16($8148)
+{unit07} and {unit07}[LN]
+are in a heated battle![ED]
+
+
+//POINTER #157 @ $814A - STRING #157 @ $1CDBE
+
+#W16($814A)
+{unit07} and {unit07}[LN]
+are in a heated battle![ED]
+
+
+//POINTER #158 @ $814C - STRING #158 @ $1CDE0
+
+#W16($814C)
+{unit07} and {unit07}[LN]
+are in a heated battle![ED]
+
+
+//POINTER #159 @ $814E - STRING #159 @ $1CE02
+
+#W16($814E)
+{unit07} and {unit07}[LN]
+are in a heated battle![ED]
+
+
+//POINTER #160 @ $8150 - STRING #160 @ $1CE24
+
+#W16($8150)
+Push A Button repeatedly[LN]
+to go full throttle![ED]
+
+
+//POINTER #161 @ $8152 - STRING #161 @ $1CE4C
+
+#W16($8152)
+{unit07}: Ouch! Ouch![LN]
+{unit07}: Whoa![ED]
+
+
+//POINTER #162 @ $8154 - STRING #162 @ $1CE64
+
+#W16($8154)
+{unit07}: Uugh![LN]
+{unit07}: Grr![ED]
+
+
+//POINTER #163 @ $8156 - STRING #163 @ $1CE75
+
+#W16($8156)
+{unit07}: Whoa![LN]
+{unit07}: Eat this![ED]
+
+
+//POINTER #164 @ $8158 - STRING #164 @ $1CE8B
+
+#W16($8158)
+You did well to[LN]
+reach this far,[LN]
+Riders![LN]
+[LN]
+However, we won't[LN]
+let you pass[LN]
+through to reach[LN]
+Great Leader![LN]
+Rise up and face[LN]
+us again![ED]
+
+
+//POINTER #165 @ $815A - STRING #165 @ $1CEF0
+
+#W16($815A)
+{unit07}[LN]
+has reached[LN]
+Level {unit03}![ED]
+
+
+//POINTER #166 @ $815C - STRING #166 @ $1CF08
+
+#W16($815C)
+{unit07} has overtaken[LN]
+{unit07}![ED]
+
+
+//POINTER #167 @ $815E - STRING #167 @ $1CF1B
+
+#W16($815E)
+You don't have[LN]
+any items.[ED]
+
+
+//POINTER #168 @ $8160 - STRING #168 @ $1CF2E
+
+#W16($8160)
+You can tune up[LN]
+your gauge in the[LN]
+maintenance room![ED]
+
+
+//POINTER #169 @ $8162 - STRING #169 @ $1CF62
+
+#W16($8162)
+Start Game[ED]
+
+
+//POINTER #170 @ $8164 - STRING #170 @ $1CF6D
+
+#W16($8164)
+Start Game[ED]
+
+
+//POINTER #171 @ $8166 - STRING #171 @ $1CF78
+
+#W16($8166)
+Start Game[ED]
+
+
+//POINTER #172 @ $8168 - STRING #172 @ $1CF83
+
+#W16($8168)
+Start Game[ED]
+
+
+//POINTER #173 @ $816A - STRING #173 @ $1CF8E
+
+#W16($816A)
+Start Game[ED]
+
+
+//POINTER #174 @ $816C - STRING #174 @ $1CF99
+
+#W16($816C)
+Start Game[ED]
+
+
+//POINTER #175 @ $816E - STRING #175 @ $1CFA4
+
+#W16($816E)
+Start Game[ED]
+
+
+//POINTER #176 @ $8170 - STRING #176 @ $1CFAF
+
+#W16($8170)
+Start Game[ED]
+
+
+//POINTER #177 @ $8172 - STRING #177 @ $1CFBA
+
+#W16($8172)
+Rider 1  Rider ZX Rider RX[LN]
+Rider 2  Amazon   Stronger[LN]
+Rider V3 Rider X  Super-1[ED]
+
+
+//POINTER #178 @ $8174 - STRING #178 @ $1D00A
+
+#W16($8174)
+No construction[LN]
+items are[LN]
+available for[LN]
+purchase.[ED]
+
+
+//POINTER #179 @ $8176 - STRING #179 @ $1D01D
+
+#W16($8176)
+Your inventory[LN]
+is full.[ED]
+
+
+//POINTER #180 @ $8178 - STRING #180 @ $1D030
+
+#W16($8178)
+We can repair[LN]
+your punctures,[LN]
+too![ED]
+
+
+//POINTER #181 @ $817A - STRING #181 @ $1D04B
+
+#W16($817A)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #182 @ $817C - STRING #182 @ $1D0EE
+
+#W16($817C)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #183 @ $817E - STRING #183 @ $1D191
+
+#W16($817E)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #184 @ $8180 - STRING #184 @ $1D234
+
+#W16($8180)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #185 @ $8182 - STRING #185 @ $1D2D7
+
+#W16($8182)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #186 @ $8184 - STRING #186 @ $1D37A
+
+#W16($8184)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #187 @ $8186 - STRING #187 @ $1D41D
+
+#W16($8186)
+Riders, I've[LN]
+received a[LN]
+report from[LN]
+G-Shocker![LN]
+But I have no[LN]
+time to write[LN]
+down all the[LN]
+details.[LN]
+In the cave to[LN]
+the northeast,[LN]
+you'll find--[LN]
+[LN]
+The letter cuts[LN]
+off.[ED]
+
+
+//POINTER #188 @ $8188 - STRING #188 @ $1D4C0
+
+#W16($8188)
+Amigo[ED]
+
+
+//POINTER #189 @ $818A - STRING #189 @ $1D4C6
+
+#W16($818A)
+Strategy[ED]
+
+
+//POINTER #190 @ $818C - STRING #190 @ $1D4CF
+
+#W16($818C)
+Maintenance[ED]
+
+
+//POINTER #191 @ $818E - STRING #191 @ $1D4DB
+
+#W16($818E)
+Battle[ED]
+
+
+//POINTER #192 @ $8190 - STRING #192 @ $1D4E2
+
+#W16($8190)
+Ugh! Riders,[LN]
+how dare you![LN]
+[LN]
+[LN]
+If you can't[LN]
+defeat me, you'll[LN]
+never stop the[LN]
+Great Blizzard![ED]
+
+
+//POINTER #193 @ $8192 - STRING #193 @ $1D53D
+
+#W16($8192)
+Mwa-ha-ha![LN]
+Riders, you're[LN]
+too late![LN]
+[LN]
+The Mantle[LN]
+Destruction Bomb[LN]
+is already in[LN]
+place![ED]
+
+
+//POINTER #194 @ $8194 - STRING #194 @ $1D589
+
+#W16($8194)
+Ugh, why are you[LN]
+here, Riders?![LN]
+I'll have to deal[LN]
+with this myself![ED]
+
+
+//POINTER #195 @ $8196 - STRING #195 @ $1D5CD
+
+#W16($8196)
+I'm impressed you[LN]
+found this place.[LN]
+But I won't let[LN]
+you interfere![LN]
+I'll deal with[LN]
+you myself![ED]
+
+
+//POINTER #196 @ $8198 - STRING #196 @ $1D62B
+
+#W16($8198)
+Riders, you've[LN]
+caught up with[LN]
+me![LN]
+[LN]
+If you can't stop[LN]
+me, the humans[LN]
+will never return[LN]
+to normal![LN]
+If you think you[LN]
+can defeat me,[LN]
+go ahead and try![ED]
+
+
+//POINTER #197 @ $819A - STRING #197 @ $1D6AC
+
+#W16($819A)
+So you've come,[LN]
+Riders.[LN]
+[LN]
+[LN]
+If you want the[LN]
+Demon Killer[LN]
+back, you'll have[LN]
+to defeat me![ED]
+
+
+//POINTER #198 @ $819C - STRING #198 @ $1D704
+
+#W16($819C)
+Damn you, Riders![LN]
+How dare you[LN]
+interfere with my[LN]
+plans![LN]
+I won't let this[LN]
+go unpunished![ED]
+
+
+//POINTER #199 @ $819E - STRING #199 @ $1D73C
+
+#W16($819E)
+Hand over the[LN]
+soliton to me[LN]
+now, Kamen Rider![LN]
+[LN]
+What's this?[LN]
+You'll let me[LN]
+keep it if we[LN]
+win a race?[LN]
+Hmmm...[LN]
+Interesting...[LN]
+I'll accept your[LN]
+challenge![ED]
+
+
+//POINTER #200 @ $81A0 - STRING #200 @ $1D7AB
+
+#W16($81A0)
+Area Info[ED]
+
+
+//POINTER #201 @ $81A2 - STRING #201 @ $1D7BC
+
+#W16($81A2)
+Stats[ED]
+
+
+//POINTER #202 @ $81A4 - STRING #202 @ $1D7C2
+
+#W16($81A4)
+Item[ED]
+
+
+//POINTER #203 @ $81A6 - STRING #203 @ $1D7C7
+
+#W16($81A6)
+Level{unit03}[ED]
+
+
+//POINTER #204 @ $81A8 - STRING #204 @ $1D7D0
+
+#W16($81A8)
+EXP[ED]
+
+
+//POINTER #205 @ $81AA - STRING #205 @ $1D7D4
+
+#W16($81AA)
+This area was[LN]
+struck by an[LN]
+unusual blizzard.[LN]
+[LN]
+This blizzard[LN]
+brought the[LN]
+people's lives to[LN]
+a complete halt![ED]
+
+
+//POINTER #206 @ $81AC - STRING #206 @ $1D815
+
+#W16($81AC)
+It's time for[LN]
+the Wild Team to[LN]
+to shine in this[LN]
+challenge![LN]
+They're experts[LN]
+in rough terrain![ED]
+
+
+//POINTER #207 @ $81AE - STRING #207 @ $1D84C
+
+#W16($81AE)
+This area has[LN]
+been experiencing[LN]
+volcanic activity[LN]
+recently.[LN]
+This could be[LN]
+the work of[LN]
+G-Shocker.[ED]
+
+
+//POINTER #208 @ $81B0 - STRING #208 @ $1D8AD
+
+#W16($81B0)
+An accident at[LN]
+this area's power[LN]
+plant caused[LN]
+a disruption.[LN]
+The incident[LN]
+could become[LN]
+dangerous if[LN]
+this continues![ED]
+

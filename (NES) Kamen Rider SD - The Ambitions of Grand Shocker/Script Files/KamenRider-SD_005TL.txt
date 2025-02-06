@@ -1,0 +1,1101 @@
+//GAME NAME:		Kamen Rider SD (NES)
+
+//BLOCK #005 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $C010 - STRING #0 @ $2400E
+
+#VAR(Table, TABLE)
+#ADDTBL("KRSD-ENG00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($1C010)
+#JMP($24010, $2600E)
+
+//POINTER #0 @ $C010 - STRING #0 @ $24010
+
+#W16($C010)
+This is Momiji[LN]
+University.[LN]
+[LN]
+[LN]
+It's famous for[LN]
+its research on[LN]
+persimmon[LN]
+extract.[ED]
+
+
+//POINTER #1 @ $C012 - STRING #1 @ $24060
+
+#W16($C012)
+Uhh, who was it[LN]
+again? Ha-ha![LN]
+I'm just kidding,[LN]
+Riders.[ED]
+
+
+//POINTER #2 @ $C014 - STRING #2 @ $24098
+
+#W16($C014)
+Hmm? I feel like[LN]
+I'm forgetting[LN]
+something.[ED]
+
+
+//POINTER #3 @ $C016 - STRING #3 @ $240C4
+
+#W16($C016)
+Ahh, this is it.[LN]
+Hold on...[ED]
+
+
+//POINTER #4 @ $C018 - STRING #4 @ $240E0
+
+#W16($C018)
+Aaaahh!!![ED]
+
+
+//POINTER #5 @ $C01A - STRING #5 @ $240EA
+
+#W16($C01A)
+This is the[LN]
+second element.[LN]
+Please, take it.[ED]
+
+
+//POINTER #6 @ $C01C - STRING #6 @ $2411A
+
+#W16($C01C)
+I seem to have[LN]
+misplaced the[LN]
+Sand Dune Star.[LN]
+[LN]
+I had with with[LN]
+me when I left[LN]
+the sand dunes[LN]
+in the north.[LN]
+But now,[LN]
+it's gone.[ED]
+
+
+//POINTER #7 @ $C01E - STRING #7 @ $24198
+
+#W16($C01E)
+Hmm... The second[LN]
+element...[LN]
+I'll prepare it[LN]
+for you.[ED]
+
+
+//POINTER #8 @ $C020 - STRING #8 @ $241D1
+
+#W16($C020)
+No, this won't[LN]
+do.[ED]
+
+
+//POINTER #9 @ $C022 - STRING #9 @ $241E4
+
+#W16($C022)
+You'll need[LN]
+something called[LN]
+the (Sand Dune[LN]
+Star).[ED]
+
+
+//POINTER #10 @ $C024 - STRING #10 @ $24217
+
+#W16($C024)
+Wait, isn't[LN]
+this place[LN]
+Natsumikan[LN]
+University?[ED]
+
+
+//POINTER #11 @ $C026 - STRING #11 @ $24249
+
+#W16($C026)
+Ahh, another[LN]
+peaceful day,[LN]
+and this sake[LN]
+takes great.[ED]
+
+
+//POINTER #12 @ $C028 - STRING #12 @ $2427F
+
+#W16($C028)
+Riders, please[LN]
+hurry and restore[LN]
+peace... Hic![ED]
+
+
+//POINTER #13 @ $C02A - STRING #13 @ $242AE
+
+#W16($C02A)
+I need some of[LN]
+Tosa's best sake.[LN]
+Don't worry, just[LN]
+trust me.[LN]
+You can buy sake[LN]
+at the liquor[LN]
+store.[LN]
+[LN]
+Just go cross the[LN]
+Great Seto Bridge[LN]
+to the south.[ED]
+
+
+//POINTER #14 @ $C02C - STRING #14 @ $24344
+
+#W16($C02C)
+Oh, this is it![LN]
+I'll make the[LN]
+third element[LN]
+right away![ED]
+
+
+//POINTER #15 @ $C02E - STRING #15 @ $2437F
+
+#W16($C02E)
+Glug, glug...[LN]
+Ahh!![ED]
+
+
+//POINTER #16 @ $C030 - STRING #16 @ $24393
+
+#W16($C030)
+Here's the third[LN]
+element.[LN]
+Go save everyone![LN]
+Hic![ED]
+
+
+//POINTER #17 @ $C032 - STRING #17 @ $243C7
+
+#W16($C032)
+Professor Momose[LN]
+wants the third[LN]
+element?[LN]
+[LN]
+Okay, I'll make[LN]
+it for you.[LN]
+But...[ED]
+
+
+//POINTER #18 @ $C034 - STRING #18 @ $24418
+
+#W16($C034)
+Ugh... Hic![LN]
+This is Kuromatsu[LN]
+University.[LN]
+[LN]
+I'm Professor[LN]
+Saruta![ED]
+
+
+//POINTER #19 @ $C036 - STRING #19 @ $24459
+
+#W16($C036)
+Riders, did that[LN]
+persimmmon help?[ED]
+
+
+//POINTER #20 @ $C038 - STRING #20 @ $2447B
+
+#W16($C038)
+What? You want[LN]
+the persimmon[LN]
+back?[LN]
+[LN]
+Well, it does[LN]
+mean a lot to[LN]
+me...[LN]
+[LN]
+But if it's[LN]
+for the sake[LN]
+of peace, I'll[LN]
+return it.[LN]
+Here you go![ED]
+
+
+//POINTER #21 @ $C03A - STRING #21 @ $244EE
+
+#W16($C03A)
+This is Miyajima.[ED]
+
+
+//POINTER #22 @ $C03C - STRING #22 @ $24500
+
+#W16($C03C)
+Free Space[ED]
+
+
+//POINTER #23 @ $C03E - STRING #23 @ $2450B
+
+#W16($C03E)
+Free Space[ED]
+
+
+//POINTER #24 @ $C040 - STRING #24 @ $24516
+
+#W16($C040)
+Riders![LN]
+The people of[LN]
+Hiroshima think[LN]
+highly of you![ED]
+
+
+//POINTER #25 @ $C042 - STRING #25 @ $2454C
+
+#W16($C042)
+The people are[LN]
+suffering![LN]
+[LN]
+[LN]
+They've turned[LN]
+into demons due[LN]
+to G-Shocker's[LN]
+red mist.[LN]
+Please, help us![ED]
+
+
+//POINTER #26 @ $C044 - STRING #26 @ $245B1
+
+#W16($C044)
+Are you the[LN]
+Riders who took[LN]
+down G-Shocker?[ED]
+
+
+//POINTER #27 @ $C046 - STRING #27 @ $245DD
+
+#W16($C046)
+The Tottori Sand[LN]
+Dunes are found[LN]
+on the northern[LN]
+coast.[ED]
+
+
+//POINTER #28 @ $C048 - STRING #28 @ $24615
+
+#W16($C048)
+The fare is[LN]
+     yen.[ED]
+
+
+//POINTER #29 @ $C04A - STRING #29 @ $2462B
+
+#W16($C04A)
+Thanks to you,[LN]
+the demons have[LN]
+been subdued.[ED]
+
+
+//POINTER #30 @ $C04C - STRING #30 @ $24654
+
+#W16($C04C)
+Please take care[LN]
+of those demons[LN]
+as soon as[LN]
+possible.[ED]
+
+
+//POINTER #31 @ $C04E - STRING #31 @ $24676
+
+#W16($C04E)
+Megijima Island[LN]
+in the south is[LN]
+also known as[LN]
+(Demon Island).[LN]
+Lately, it[LN]
+appears to have[LN]
+been taken over[LN]
+by real demons.[ED]
+
+
+//POINTER #32 @ $C050 - STRING #32 @ $246E8
+
+#W16($C050)
+What?! You're[LN]
+going to fight[LN]
+the demons?![LN]
+[LN]
+Do you have[LN]
+a ship? If not,[LN]
+please use mine![ED]
+
+
+//POINTER #33 @ $C052 - STRING #33 @ $24727
+
+#W16($C052)
+This is the[LN]
+Tottori Sand[LN]
+Dune, the largest[LN]
+in Japan.[ED]
+
+
+//POINTER #34 @ $C054 - STRING #34 @ $2475C
+
+#W16($C054)
+This is the[LN]
+Tottori Sand[LN]
+Dune, the largest[LN]
+in Japan.[ED]
+
+
+//POINTER #35 @ $C056 - STRING #35 @ $24791
+
+#W16($C056)
+This is the[LN]
+Tottori Sand[LN]
+Dune, the largest[LN]
+in Japan.[ED]
+
+
+//POINTER #36 @ $C058 - STRING #36 @ $247C6
+
+#W16($C058)
+The Riders[LN]
+searched the area[LN]
+thoroughly.[LN]
+[LN]
+.....[LN]
+[LN]
+[LN]
+[LN]
+They found it![LN]
+The Riders have[LN]
+obtained the[LN]
+Sand Dune Star![ED]
+
+
+//POINTER #37 @ $C05A - STRING #37 @ $24830
+
+#W16($C05A)
+Let's leave the[LN]
+island for now.[ED]
+
+
+//POINTER #38 @ $C05C - STRING #38 @ $24850
+
+#W16($C05C)
+A strange sign[LN]
+is on the house[LN]
+to the right.[LN]
+[LN]
+(Secret[LN]
+Investigator[LN]
+Barbara Kaneko)[LN]
+[LN]
+I wonder what[LN]
+this means.[ED]
+
+
+//POINTER #39 @ $C05E - STRING #39 @ $248BE
+
+#W16($C05E)
+The Great Leader[LN]
+is located at[LN]
+Mt. Fuji in the[LN]
+Chubu Area![ED]
+
+
+//POINTER #40 @ $C060 - STRING #40 @ $248F9
+
+#W16($C060)
+You've brought[LN]
+the hairpin, just[LN]
+as I expected[LN]
+from the Riders.[LN]
+With your skills,[LN]
+you can surely[LN]
+defeat G-Shocker.[ED]
+
+
+//POINTER #41 @ $C062 - STRING #41 @ $2496C
+
+#W16($C062)
+The final task[LN]
+is to fetch[LN]
+an accessory.[LN]
+[LN]
+It's said to have[LN]
+been created by[LN]
+a monk in Tosa[LN]
+long ago.[ED]
+
+
+//POINTER #42 @ $C064 - STRING #42 @ $249D1
+
+#W16($C064)
+Oh, genuine[LN]
+Hiroshima-style[LN]
+okonomiyaki...[LN]
+It's still warm.[ED]
+
+
+//POINTER #43 @ $C066 - STRING #43 @ $24A0D
+
+#W16($C066)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #44 @ $C068 - STRING #44 @ $24A45
+
+#W16($C068)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #45 @ $C06A - STRING #45 @ $24A7D
+
+#W16($C06A)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #46 @ $C06C - STRING #46 @ $24AB5
+
+#W16($C06C)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #47 @ $C06E - STRING #47 @ $24AED
+
+#W16($C06E)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #48 @ $C070 - STRING #48 @ $24B25
+
+#W16($C070)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #49 @ $C072 - STRING #49 @ $24B5D
+
+#W16($C072)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #50 @ $C074 - STRING #50 @ $24B95
+
+#W16($C074)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #51 @ $C076 - STRING #51 @ $24BCD
+
+#W16($C076)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #52 @ $C078 - STRING #52 @ $24C05
+
+#W16($C078)
+Next, you'll need[LN]
+to bring me[LN]
+a noodle dish.[LN]
+[LN]
+It has to be[LN]
+a well-known[LN]
+specialty from[LN]
+Hiroshima![LN]
+Go to the Chugoku[LN]
+area to get it![ED]
+
+
+//POINTER #53 @ $C07A - STRING #53 @ $24C3D
+
+#W16($C07A)
+I'm Barbara[LN]
+Kaneko, the[LN]
+mysterious[LN]
+investigator.[LN]
+I know all[LN]
+of G-Shocker's[LN]
+secrets.[LN]
+[LN]
+Do you want to[LN]
+know where you[LN]
+can find[LN]
+Great Leader?[LN]
+I'll share the[LN]
+location with you[LN]
+if you can pass[LN]
+three tests![LN]
+For now, let's[LN]
+start with[LN]
+something simple.[LN]
+[LN]
+Normally, this[LN]
+test involves how[LN]
+many bowls of[LN]
+ramen you eat.[LN]
+For today, only[LN]
+one bowl will do.[LN]
+[LN]
+[LN]
+Bring me some[LN]
+soba from[LN]
+the Tohoku area![ED]
+
+
+//POINTER #54 @ $C07C - STRING #54 @ $24DB7
+
+#W16($C07C)
+Oh, looks like[LN]
+you already have[LN]
+some.[ED]
+
+
+//POINTER #55 @ $C07E - STRING #55 @ $24DD9
+
+#W16($C07E)
+Free Space[ED]
+
+
+//POINTER #56 @ $C080 - STRING #56 @ $24DE4
+
+#W16($C080)
+Free Space[ED]
+
+
+//POINTER #57 @ $C082 - STRING #57 @ $24DEF
+
+#W16($C082)
+Free Space[ED]
+
+
+//POINTER #58 @ $C084 - STRING #58 @ $24DFA
+
+#W16($C084)
+Free Space[ED]
+
+
+//POINTER #59 @ $C086 - STRING #59 @ $24E05
+
+#W16($C086)
+Free Space[ED]
+
+
+//POINTER #60 @ $C088 - STRING #60 @ $24E10
+
+#W16($C088)
+Free Space[ED]
+
+
+//POINTER #61 @ $C08A - STRING #61 @ $24E1B
+
+#W16($C08A)
+Free Space[ED]
+
+
+//POINTER #62 @ $C08C - STRING #62 @ $24E26
+
+#W16($C08C)
+Free Space[ED]
+
+
+//POINTER #63 @ $C08E - STRING #63 @ $24E31
+
+#W16($C08E)
+Free Space[ED]
+
+
+//POINTER #64 @ $C090 - STRING #64 @ $24E3C
+
+#W16($C090)
+Free Space[ED]
+
+
+//POINTER #65 @ $C092 - STRING #65 @ $24E47
+
+#W16($C092)
+Free Space[ED]
+
+
+//POINTER #66 @ $C094 - STRING #66 @ $24E52
+
+#W16($C094)
+Free Space[ED]
+
+
+//POINTER #67 @ $C096 - STRING #67 @ $24E5D
+
+#W16($C096)
+Free Space[ED]
+
+
+//POINTER #68 @ $C098 - STRING #68 @ $24E68
+
+#W16($C098)
+Free Space[ED]
+
+
+//POINTER #69 @ $C09A - STRING #69 @ $24E73
+
+#W16($C09A)
+Free Space[ED]
+
+
+//POINTER #70 @ $C09C - STRING #70 @ $24E7E
+
+#W16($C09C)
+Everyone's[LN]
+back to normal![LN]
+I feel like[LN]
+dancing![ED]
+
+
+//POINTER #71 @ $C09E - STRING #71 @ $24EAE
+
+#W16($C09E)
+What's going on?[LN]
+Everyone's acting[LN]
+like they're[LN]
+foreigners![LN]
+I'll show you the[LN]
+true spirit of a[LN]
+Tokushima woman![LN]
+[LN]
+I'll get them all[LN]
+back on track![ED]
+
+
+//POINTER #72 @ $C0A0 - STRING #72 @ $24F40
+
+#W16($C0A0)
+I can't believe[LN]
+I forgot Buddah's[LN]
+teachings.[LN]
+I'm embarrased![ED]
+
+
+//POINTER #73 @ $C0A2 - STRING #73 @ $24F7D
+
+#W16($C0A2)
+Oh, you're a[LN]
+Japanese person.[LN]
+I need to go[LN]
+to the airport.[ED]
+
+
+//POINTER #74 @ $C0A4 - STRING #74 @ $24FB8
+
+#W16($C0A4)
+This is Shikoku,[LN]
+a temple with[LN]
+a rich history.[LN]
+[LN]
+A priest and[LN]
+a tourist girl[LN]
+are having[LN]
+an argument.[ED]
+
+
+//POINTER #75 @ $C0A6 - STRING #75 @ $2501C
+
+#W16($C0A6)
+What did I just[LN]
+say?[LN]
+[LN]
+[LN]
+Oh, right![LN]
+This is[LN]
+Australia.[LN]
+[LN]
+My name is[LN]
+George.[ED]
+
+
+//POINTER #76 @ $C0A8 - STRING #76 @ $25063
+
+#W16($C0A8)
+What are you[LN]
+talking about?![LN]
+[LN]
+[LN]
+An Australian[LN]
+wouldn't wear[LN]
+a monk's robe or[LN]
+shave his head![ED]
+
+
+//POINTER #77 @ $C0AA - STRING #77 @ $250BF
+
+#W16($C0AA)
+You're too[LN]
+difficult[LN]
+to understand.[ED]
+
+
+//POINTER #78 @ $C0AC - STRING #78 @ $250D7
+
+#W16($C0AC)
+I'm going back to[LN]
+Tokyo! I need to[LN]
+get back to[LN]
+the hotel.[LN]
+Oh, it's the[LN]
+SD Riders![LN]
+[LN]
+[LN]
+I need to go to[LN]
+the western hotel[LN]
+to pick up my[LN]
+luggage.[LN]
+But there are too[LN]
+many odd people[LN]
+around.[LN]
+[LN]
+Could you please[LN]
+fetch my luggage[LN]
+for me?[LN]
+[LN]
+I'll be waiting[LN]
+at the airport.[ED]
+
+
+//POINTER #79 @ $C0AE - STRING #79 @ $251DA
+
+#W16($C0AE)
+What?![LN]
+I'm a tourist![LN]
+[LN]
+[LN]
+What nonsense[LN]
+are you talking[LN]
+about?![ED]
+
+
+//POINTER #80 @ $C0B0 - STRING #80 @ $2520D
+
+#W16($C0B0)
+Huh? Is it still[LN]
+too early?[ED]
+
+
+//POINTER #81 @ $C0B2 - STRING #81 @ $25229
+
+#W16($C0B2)
+Did you say that[LN]
+a Japanese girl[LN]
+asked you for[LN]
+help?[LN]
+Oh, I see...[LN]
+In that case,[LN]
+I'll open the[LN]
+door for you.[ED]
+
+
+//POINTER #82 @ $C0B4 - STRING #82 @ $25272
+
+#W16($C0B4)
+Welcome to the[LN]
+Koala Hotel![LN]
+[LN]
+[LN]
+Won't you be[LN]
+staying?[LN]
+What a pity.[ED]
+
+
+//POINTER #83 @ $C0B6 - STRING #83 @ $252B3
+
+#W16($C0B6)
+Oh, the Riders[LN]
+are back![LN]
+[LN]
+[LN]
+This time, I'll[LN]
+fully enjoy my[LN]
+trip through[LN]
+Shikoku![ED]
+
+
+//POINTER #84 @ $C0B8 - STRING #84 @ $25303
+
+#W16($C0B8)
+I'm the pilot[LN]
+of Kangaroo[LN]
+Airlines.[LN]
+[LN]
+Someone at the[LN]
+airport thought[LN]
+I was a Japanese[LN]
+person![LN]
+What nonsense![ED]
+
+
+//POINTER #85 @ $C0BA - STRING #85 @ $2536F
+
+#W16($C0BA)
+Did you bring the[LN]
+luggage with you,[LN]
+Riders?[ED]
+
+
+//POINTER #86 @ $C0BC - STRING #86 @ $25390
+
+#W16($C0BC)
+Seriously, I'm so[LN]
+fed up with all[LN]
+of this![LN]
+[LN]
+A person at the[LN]
+observatory said[LN]
+that aliens did[LN]
+this to everyone![LN]
+That guy over[LN]
+there isn't even[LN]
+from Australia![LN]
+[LN]
+Anyway, I'm out.[LN]
+See ya![ED]
+
+
+//POINTER #87 @ $C0BE - STRING #87 @ $25448
+
+#W16($C0BE)
+What? You still[LN]
+haven't found it[LN]
+yet?![LN]
+[LN]
+The luggage is[LN]
+in the building[LN]
+on the west side[LN]
+of the airport![ED]
+
+
+//POINTER #88 @ $C0C0 - STRING #88 @ $25494
+
+#W16($C0C0)
+Hey, you're back,[LN]
+Riders.[LN]
+[LN]
+[LN]
+Why not look at[LN]
+the stars? They[LN]
+look better here[LN]
+than in Tokyo.[ED]
+
+
+//POINTER #89 @ $C0C2 - STRING #89 @ $254F0
+
+#W16($C0C2)
+The UFO appeared[LN]
+in a town to the[LN]
+south.[LN]
+[LN]
+The nearby gas[LN]
+station is the[LN]
+best landmark[LN]
+to look for.[ED]
+
+
+//POINTER #90 @ $C0C4 - STRING #90 @ $25553
+
+#W16($C0C4)
+What the heck is[LN]
+going on around[LN]
+here?![ED]
+
+
+//POINTER #91 @ $C0C6 - STRING #91 @ $2557B
+
+#W16($C0C6)
+What? Are you[LN]
+talking about[LN]
+the UFO?[LN]
+[LN]
+This lunacy[LN]
+started ever[LN]
+since that day...[LN]
+[LN]
+The UFO appeared,[LN]
+and aliens in[LN]
+white started[LN]
+firing beams.[LN]
+Since then,[LN]
+people started[LN]
+thinking they're[LN]
+Australians.[LN]
+Also, they think[LN]
+Shikoku is part[LN]
+of Australia.[LN]
+[LN]
+Defeat the aliens[LN]
+and bring the[LN]
+people back to[LN]
+their senses.[ED]
+
+
+//POINTER #92 @ $C0C8 - STRING #92 @ $25692
+
+#W16($C0C8)
+Hi, Riders![LN]
+Sorry, I haven't[LN]
+shaken my habit[LN]
+yet.[ED]
+
+
+//POINTER #93 @ $C0CA - STRING #93 @ $256C4
+
+#W16($C0CA)
+Hi, Riders![LN]
+Sorry, I haven't[LN]
+shaken my habit[LN]
+yet.[ED]
+
+
+//POINTER #94 @ $C0CC - STRING #94 @ $256F6
+
+#W16($C0CC)
+Hi, Riders![LN]
+Sorry, I haven't[LN]
+shaken my habit[LN]
+yet.[ED]
+
+
+//POINTER #95 @ $C0CE - STRING #95 @ $25728
+
+#W16($C0CE)
+So you've all[LN]
+became Australian[LN]
+residents, too?[LN]
+[LN]
+Awesome![LN]
+It's like we're[LN]
+family, now![ED]
+
+
+//POINTER #96 @ $C0D0 - STRING #96 @ $25772
+
+#W16($C0D0)
+All that's left[LN]
+to do is to bring[LN]
+your document to[LN]
+Sadamisaki.[LN]
+If you do that,[LN]
+you'll be able[LN]
+to meet him.[ED]
+
+
+//POINTER #97 @ $C0D2 - STRING #97 @ $257D7
+
+#W16($C0D2)
+You should go to[LN]
+the registration[LN]
+office east of[LN]
+here.[LN]
+You can obtain[LN]
+a resident[LN]
+registration form[LN]
+there.[ED]
+
+
+//POINTER #98 @ $C0D4 - STRING #98 @ $25841
+
+#W16($C0D4)
+If you follow[LN]
+his guidance,[LN]
+everything should[LN]
+work out.[LN]
+They're currently[LN]
+at Sadamisaki[LN]
+directly to the[LN]
+north of here.[ED]
+
+
+//POINTER #99 @ $C0D6 - STRING #99 @ $258B8
+
+#W16($C0D6)
+Huh? What is it?[ED]
+
+
+//POINTER #100 @ $C0D8 - STRING #100 @ $258C9
+
+#W16($C0D8)
+General Shadow[LN]
+has arrived in[LN]
+his UFO. He led[LN]
+us fools...[ED]
+
