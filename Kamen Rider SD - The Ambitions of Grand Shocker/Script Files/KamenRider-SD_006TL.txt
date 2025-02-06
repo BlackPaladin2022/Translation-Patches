@@ -1,0 +1,1227 @@
+//GAME NAME:		Kamen Rider SD (NES)
+
+//BLOCK #006 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $C0DA - STRING #0 @ $2600E
+
+#VAR(Table, TABLE)
+#ADDTBL("KRSD-ENG00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($1E010)
+#JMP($26010, $2800E)
+
+//POINTER #0 @ $C0DA - STRING #0 @ $26010
+
+#W16($C0DA)
+This is[LN]
+the Kagawa[LN]
+Prefectural[LN]
+Office.[ED]
+
+
+//POINTER #1 @ $C0DC - STRING #1 @ $26037
+
+#W16($C0DC)
+With this, you'll[LN]
+now be recognized[LN]
+as an Australian[LN]
+resident.[ED]
+
+
+//POINTER #2 @ $C0DE - STRING #2 @ $26070
+
+#W16($C0DE)
+Welcome to[LN]
+the resident's[LN]
+office. How can[LN]
+I help you today?[ED]
+
+
+//POINTER #3 @ $C0E0 - STRING #3 @ $260AC
+
+#W16($C0E0)
+If you're of[LN]
+legal age,[LN]
+please sign[LN]
+this document.[ED]
+
+
+//POINTER #4 @ $C0E2 - STRING #4 @ $260DE
+
+#W16($C0E2)
+The sounds of[LN]
+the waves can[LN]
+be heard.[ED]
+
+
+//POINTER #5 @ $C0E4 - STRING #5 @ $26104
+
+#W16($C0E4)
+You can only meet[LN]
+him if you're[LN]
+a resident of[LN]
+Australia.[ED]
+
+
+//POINTER #6 @ $C0E6 - STRING #6 @ $2613D
+
+#W16($C0E6)
+Wow! So this[LN]
+means you're[LN]
+a resident of[LN]
+Australia, too?[LN]
+That's great![LN]
+Now, he can[LN]
+guide you![ED]
+
+
+//POINTER #7 @ $C0E8 - STRING #7 @ $26174
+
+#W16($C0E8)
+Ugh, Riders![LN]
+You've made it[LN]
+all the way here.[LN]
+How pathetic![LN]
+Such a shame[LN]
+after coming this[LN]
+far.[LN]
+Throw them out![ED]
+
+
+//POINTER #8 @ $C0EA - STRING #8 @ $261E4
+
+#W16($C0EA)
+If you're not[LN]
+an Australian[LN]
+resident, you[LN]
+can't meet him![ED]
+
+
+//POINTER #9 @ $C0EC - STRING #9 @ $2621E
+
+#W16($C0EC)
+The UFO seems[LN]
+to be landing.[LN]
+General Shadow[LN]
+must be inside![ED]
+
+
+//POINTER #10 @ $C0EE - STRING #10 @ $2625A
+
+#W16($C0EE)
+What's going on[LN]
+here? Are you[LN]
+looking for[LN]
+General Shadow?[ED]
+
+
+//POINTER #11 @ $C0F0 - STRING #11 @ $26294
+
+#W16($C0F0)
+This is Ashizuri[LN]
+Misaki.[ED]
+
+
+//POINTER #12 @ $C0F2 - STRING #12 @ $262AD
+
+#W16($C0F2)
+The UFO is[LN]
+landing.[ED]
+
+
+//POINTER #13 @ $C0F4 - STRING #13 @ $262C1
+
+#W16($C0F4)
+Yikes![LN]
+G-Shocker's[LN]
+soldiers have[LN]
+entered the cave![ED]
+
+
+//POINTER #14 @ $C0F6 - STRING #14 @ $262F4
+
+#W16($C0F6)
+Ugh...[LN]
+We'll retreat[LN]
+for now![ED]
+
+
+//POINTER #15 @ $C0F8 - STRING #15 @ $26312
+
+#W16($C0F8)
+We won't let[LN]
+that happen![LN]
+[LN]
+[LN]
+The Riders tried[LN]
+to attack the[LN]
+UFO.[ED]
+
+
+//POINTER #16 @ $C0FA - STRING #16 @ $26352
+
+#W16($C0FA)
+Gyaah! I'm going[LN]
+to crash![ED]
+
+
+//POINTER #17 @ $C0FC - STRING #17 @ $2636D
+
+#W16($C0FC)
+No, it's no good.[LN]
+The engine is...[ED]
+
+
+//POINTER #18 @ $C0FE - STRING #18 @ $26390
+
+#W16($C0FE)
+Oh, no! What's[LN]
+happening?![LN]
+Aaah![LN]
+I'm falling![ED]
+
+
+//POINTER #19 @ $C100 - STRING #19 @ $263BE
+
+#W16($C100)
+The smoking UFO[LN]
+starts heading[LN]
+toward the south.[ED]
+
+
+//POINTER #20 @ $C102 - STRING #20 @ $263EF
+
+#W16($C102)
+Free Space[ED]
+
+
+//POINTER #21 @ $C104 - STRING #21 @ $263FA
+
+#W16($C104)
+Free Space[ED]
+
+
+//POINTER #22 @ $C106 - STRING #22 @ $26405
+
+#W16($C106)
+Free Space[ED]
+
+
+//POINTER #23 @ $C108 - STRING #23 @ $26410
+
+#W16($C108)
+Free Space[ED]
+
+
+//POINTER #24 @ $C10A - STRING #24 @ $2641B
+
+#W16($C10A)
+Free Space[ED]
+
+
+//POINTER #25 @ $C10C - STRING #25 @ $26426
+
+#W16($C10C)
+Oh, really?[LN]
+Was there any[LN]
+danger of[LN]
+a tsunami?[ED]
+
+
+//POINTER #26 @ $C10E - STRING #26 @ $26455
+
+#W16($C10E)
+She looks cute![LN]
+Could you[LN]
+introduce me[LN]
+to her?[ED]
+
+
+//POINTER #27 @ $C110 - STRING #27 @ $2647E
+
+#W16($C110)
+Are you looking[LN]
+for a natural[LN]
+energy research[LN]
+facility?[LN]
+If you are,[LN]
+there's one[LN]
+located in[LN]
+the west.[ED]
+
+
+//POINTER #28 @ $C112 - STRING #28 @ $264E3
+
+#W16($C112)
+I saw that[LN]
+incident on[LN]
+the news.[LN]
+[LN]
+The professor's[LN]
+daughter went[LN]
+missing after he[LN]
+was kidnapped.[ED]
+
+
+//POINTER #29 @ $C114 - STRING #29 @ $26543
+
+#W16($C114)
+Free Space[ED]
+
+
+//POINTER #30 @ $C116 - STRING #30 @ $2654E
+
+#W16($C116)
+Free Space[ED]
+
+
+//POINTER #31 @ $C118 - STRING #31 @ $26559
+
+#W16($C118)
+Free Space[ED]
+
+
+//POINTER #32 @ $C11A - STRING #32 @ $26564
+
+#W16($C11A)
+My father is[LN]
+completely[LN]
+immersed in his[LN]
+next research.[ED]
+
+
+//POINTER #33 @ $C11C - STRING #33 @ $2659B
+
+#W16($C11C)
+My next project[LN]
+is a soliton[LN]
+power generation[LN]
+system.[ED]
+
+
+//POINTER #34 @ $C11E - STRING #34 @ $265D1
+
+#W16($C11E)
+Miyuki often[LN]
+visits her aunt's[LN]
+house.[LN]
+[LN]
+It's on the[LN]
+eastern coast.[ED]
+
+
+//POINTER #35 @ $C120 - STRING #35 @ $26613
+
+#W16($C120)
+I'm a lab[LN]
+assistant.[LN]
+[LN]
+[LN]
+The professor[LN]
+was kidnapped[LN]
+by G-Shocker.[LN]
+[LN]
+The professor hid[LN]
+a device that can[LN]
+generate[LN]
+tsunamis.[LN]
+His daughter,[LN]
+Miyuki, is also[LN]
+missing.[LN]
+Here's her photo.[ED]
+
+
+//POINTER #36 @ $C122 - STRING #36 @ $266BD
+
+#W16($C122)
+Oh, no![LN]
+What should I do?[ED]
+
+
+//POINTER #37 @ $C124 - STRING #37 @ $266D7
+
+#W16($C124)
+If you're going[LN]
+to Nishinoshima,[LN]
+go to the[LN]
+northern cave.[ED]
+
+
+//POINTER #38 @ $C126 - STRING #38 @ $26711
+
+#W16($C126)
+Crossing it is[LN]
+much easier,[LN]
+thanks to the[LN]
+bridge.[ED]
+
+
+//POINTER #39 @ $C128 - STRING #39 @ $26743
+
+#W16($C128)
+Free Space[ED]
+
+
+//POINTER #40 @ $C12A - STRING #40 @ $2674E
+
+#W16($C12A)
+Was that[LN]
+guest someone[LN]
+important?[LN]
+[LN]
+That's wonderful[LN]
+to hear.[ED]
+
+
+//POINTER #41 @ $C12C - STRING #41 @ $2678B
+
+#W16($C12C)
+To think there[LN]
+would be[LN]
+a kidnapping[LN]
+at this hotel...[ED]
+
+
+//POINTER #42 @ $C12E - STRING #42 @ $267C1
+
+#W16($C12E)
+This is terrible![LN]
+G-Shocker[LN]
+has kidnapped[LN]
+a guest![ED]
+
+
+//POINTER #43 @ $C130 - STRING #43 @ $267F4
+
+#W16($C130)
+Eeek![ED]
+
+
+//POINTER #44 @ $C132 - STRING #44 @ $267FA
+
+#W16($C132)
+Oh, no![LN]
+Not again![ED]
+
+
+//POINTER #45 @ $C134 - STRING #45 @ $2680D
+
+#W16($C134)
+So it looks like[LN]
+you've found the[LN]
+soliton,[LN]
+Kamen Rider.[LN]
+It doesn't look[LN]
+like you'll just[LN]
+hand it over.[LN]
+[LN]
+However, I do[LN]
+have the[LN]
+professor and[LN]
+his daughter.[LN]
+Bring the soliton[LN]
+to Mt. Aso,[LN]
+Kamen Rider.[ED]
+
+
+//POINTER #46 @ $C136 - STRING #46 @ $268D4
+
+#W16($C136)
+Do you have any[LN]
+leads? Is there[LN]
+still nothing?[ED]
+
+
+//POINTER #47 @ $C138 - STRING #47 @ $26903
+
+#W16($C138)
+No one matching[LN]
+that description[LN]
+is staying here.[ED]
+
+
+//POINTER #48 @ $C13A - STRING #48 @ $26935
+
+#W16($C13A)
+Welcome![LN]
+Are you staying[LN]
+here?[ED]
+
+
+//POINTER #49 @ $C13C - STRING #49 @ $26954
+
+#W16($C13C)
+Miyuki contacted[LN]
+me.[LN]
+[LN]
+[LN]
+She told me that[LN]
+her father is[LN]
+also at Mt. Fuji.[LN]
+[LN]
+Thank you,[LN]
+all of you.[ED]
+
+
+//POINTER #50 @ $C13E - STRING #50 @ $269B4
+
+#W16($C13E)
+Where is that[LN]
+girl likely to[LN]
+go? Hmm...[LN]
+[LN]
+She's very close[LN]
+with her cousin[LN]
+in Okinawa.[LN]
+[LN]
+She could be[LN]
+there.[LN]
+[LN]
+[LN]
+You can reach[LN]
+Okinawa from[LN]
+the airport[LN]
+in Kagoshima.[LN]
+The airport is[LN]
+located to the[LN]
+south.[ED]
+
+
+//POINTER #51 @ $C140 - STRING #51 @ $26A87
+
+#W16($C140)
+This is Miyuki,[LN]
+my granddaughter.[LN]
+What do you want[LN]
+with her?[LN]
+Are you looking[LN]
+for that child?[LN]
+Unfortunately,[LN]
+she isn't here.[ED]
+
+
+//POINTER #52 @ $C142 - STRING #52 @ $26B03
+
+#W16($C142)
+This is Oita.[ED]
+
+
+//POINTER #53 @ $C144 - STRING #53 @ $26B11
+
+#W16($C144)
+Riders, I'm sorry[LN]
+for misleading[LN]
+you.[ED]
+
+
+//POINTER #54 @ $C146 - STRING #54 @ $26B37
+
+#W16($C146)
+Did you find her[LN]
+yet?[ED]
+
+
+//POINTER #55 @ $C148 - STRING #55 @ $26B53
+
+#W16($C148)
+She should be[LN]
+where you just[LN]
+came from.[LN]
+[LN]
+Didn't you see[LN]
+her at Auntie's[LN]
+house?[LN]
+Hee-hee![ED]
+
+
+//POINTER #56 @ $C14A - STRING #56 @ $26BA7
+
+#W16($C14A)
+Thank you for all[LN]
+your hard work.[LN]
+I'll tell you[LN]
+where she is.[ED]
+
+
+//POINTER #57 @ $C14C - STRING #57 @ $26BE6
+
+#W16($C14C)
+If you won't do[LN]
+something for me,[LN]
+I won't tell you[LN]
+anything.[ED]
+
+
+//POINTER #58 @ $C14E - STRING #58 @ $26C1A
+
+#W16($C14E)
+If this is about[LN]
+Miyuki, I know[LN]
+what happened.[LN]
+[LN]
+She's hiding from[LN]
+some bad guys.[LN]
+[LN]
+[LN]
+But you don't[LN]
+look like bad[LN]
+guys, so I'll[LN]
+tell you.[LN]
+Deliver this[LN]
+package to[LN]
+Nishinoshima.[LN]
+[LN]
+If you do that,[LN]
+I'll tell you[LN]
+where she is.[ED]
+
+
+//POINTER #59 @ $C150 - STRING #59 @ $26D09
+
+#W16($C150)
+What's the[LN]
+matter?[LN]
+I'm in a hurry![ED]
+
+
+//POINTER #60 @ $C152 - STRING #60 @ $26D2C
+
+#W16($C152)
+The professor is[LN]
+at Mt. Fuji, too?[LN]
+That's good to[LN]
+hear.[ED]
+
+
+//POINTER #61 @ $C154 - STRING #61 @ $26D64
+
+#W16($C154)
+Miyuki is[LN]
+in a hotel[LN]
+in Miyasaki.[ED]
+
+
+//POINTER #62 @ $C156 - STRING #62 @ $26D86
+
+#W16($C156)
+This message[LN]
+is from Miyuki[LN]
+Sakurajima.[LN]
+[LN]
+(My father hid the[LN]
+soliton to keep[LN]
+it away from[LN]
+G-Shocker.[LN]
+I've been hiding[LN]
+so that they[LN]
+can't blackmail[LN]
+my father.)[ED]
+
+
+//POINTER #63 @ $C158 - STRING #63 @ $26E1B
+
+#W16($C158)
+(I'm hiding[LN]
+in a hotel[LN]
+in Miyazaki.[LN]
+[LN]
+I don't know[LN]
+when I might[LN]
+be discovered.[LN]
+[LN]
+I've left you the[LN]
+key to the cave[LN]
+on Sakurajima[LN]
+Island.[LN]
+The soliton is[LN]
+there. Please,[LN]
+take it somewhere[LN]
+safe.)[ED]
+
+
+//POINTER #64 @ $C15A - STRING #64 @ $26EA1
+
+#W16($C15A)
+Do you need[LN]
+anything else?[ED]
+
+
+//POINTER #65 @ $C15C - STRING #65 @ $26EBC
+
+#W16($C15C)
+The lady who[LN]
+usually lives[LN]
+here is[LN]
+unavailable.[LN]
+I'm a friend of[LN]
+hers. I'll take[LN]
+care of your[LN]
+package.[ED]
+
+
+//POINTER #66 @ $C15E - STRING #66 @ $26F22
+
+#W16($C15E)
+I'm sorry,[LN]
+but I'm gonna[LN]
+go shopping.[LN]
+Excuse me.[ED]
+
+
+//POINTER #67 @ $C160 - STRING #67 @ $26F53
+
+#W16($C160)
+Free Space[ED]
+
+
+//POINTER #68 @ $C162 - STRING #68 @ $26F5E
+
+#W16($C162)
+Free Space[ED]
+
+
+//POINTER #69 @ $C164 - STRING #69 @ $26F69
+
+#W16($C164)
+Free Space[ED]
+
+
+//POINTER #70 @ $C166 - STRING #70 @ $26F74
+
+#W16($C166)
+Free Space[ED]
+
+
+//POINTER #71 @ $C168 - STRING #71 @ $26F7F
+
+#W16($C168)
+Free Space[ED]
+
+
+//POINTER #72 @ $C16A - STRING #72 @ $26F8A
+
+#W16($C16A)
+Free Space[ED]
+
+
+//POINTER #73 @ $C16C - STRING #73 @ $26F95
+
+#W16($C16C)
+Free Space[ED]
+
+
+//POINTER #74 @ $C16E - STRING #74 @ $26FA0
+
+#W16($C16E)
+Free Space[ED]
+
+
+//POINTER #75 @ $C170 - STRING #75 @ $26FAB
+
+#W16($C170)
+Evil forces have[LN]
+returned under[LN]
+the command of[LN]
+Great Leader.[ED]
+
+
+//POINTER #76 @ $C172 - STRING #76 @ $26FE8
+
+#W16($C172)
+In the Hokkaido[LN]
+Area,[LN]
+General Jark.[ED]
+
+
+//POINTER #77 @ $C174 - STRING #77 @ $2700C
+
+#W16($C174)
+In the Tohoku[LN]
+Area, Jyumenki.[ED]
+
+
+//POINTER #78 @ $C176 - STRING #78 @ $2702A
+
+#W16($C176)
+In the Kanto[LN]
+Area,[LN]
+Shadow Moon.[ED]
+
+
+//POINTER #79 @ $C178 - STRING #79 @ $2704A
+
+#W16($C178)
+In the Chubu[LN]
+Area,[LN]
+Apollogeist.[ED]
+
+
+//POINTER #80 @ $C17A - STRING #80 @ $2706B
+
+#W16($C17A)
+In the Kinki[LN]
+Area,[LN]
+Ambassador Hell.[ED]
+
+
+//POINTER #81 @ $C17C - STRING #81 @ $2708F
+
+#W16($C17C)
+In the Chugoku[LN]
+Area,[LN]
+Dark Ambassador.[ED]
+
+
+//POINTER #82 @ $C17E - STRING #82 @ $270B5
+
+#W16($C17E)
+In the Shikoku[LN]
+Area,[LN]
+General Shadow.[ED]
+
+
+//POINTER #83 @ $C180 - STRING #83 @ $270DA
+
+#W16($C180)
+In the Kyushu[LN]
+Area, Doctor G.[ED]
+
+
+//POINTER #84 @ $C182 - STRING #84 @ $270F8
+
+#W16($C182)
+This organization[LN]
+has sewn chaos[LN]
+and fear across[LN]
+all of Japan.[ED]
+
+
+//POINTER #85 @ $C184 - STRING #85 @ $27137
+
+#W16($C184)
+However, there[LN]
+were heroes who[LN]
+stood against the[LN]
+evil G-Shocker.[ED]
+
+
+//POINTER #86 @ $C186 - STRING #86 @ $27178
+
+#W16($C186)
+Kamen Rider SD![LN]
+A group of mighty[LN]
+Riders![ED]
+
+
+//POINTER #87 @ $C188 - STRING #87 @ $271A2
+
+#W16($C188)
+Jyumenki[ED]
+
+
+//POINTER #88 @ $C18A - STRING #88 @ $271AB
+
+#W16($C18A)
+Shadow Moon[ED]
+
+
+//POINTER #89 @ $C18C - STRING #89 @ $271B7
+
+#W16($C18C)
+Apollogeist[ED]
+
+
+//POINTER #90 @ $C18E - STRING #90 @ $271C4
+
+#W16($C18E)
+Ambassador Hell[ED]
+
+
+//POINTER #91 @ $C190 - STRING #91 @ $271D4
+
+#W16($C190)
+Dark Ambassador[ED]
+
+
+//POINTER #92 @ $C192 - STRING #92 @ $271E4
+
+#W16($C192)
+General Shadow[ED]
+
+
+//POINTER #93 @ $C194 - STRING #93 @ $271F3
+
+#W16($C194)
+Doctor G[ED]
+
+
+//POINTER #94 @ $C196 - STRING #94 @ $271FC
+
+#W16($C196)
+{unit07}[LN]
+was defeated[ED]
+
+
+//POINTER #95 @ $C198 - STRING #95 @ $2720B
+
+#W16($C198)
+General Jark[ED]
+
+
+//POINTER #96 @ $C19A - STRING #96 @ $27218
+
+#W16($C19A)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #97 @ $C19C - STRING #97 @ $27234
+
+#W16($C19C)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #98 @ $C19E - STRING #98 @ $27250
+
+#W16($C19E)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #99 @ $C1A0 - STRING #99 @ $2726C
+
+#W16($C1A0)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #100 @ $C1A2 - STRING #100 @ $27288
+
+#W16($C1A2)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #101 @ $C1A4 - STRING #101 @ $272A4
+
+#W16($C1A4)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #102 @ $C1A6 - STRING #102 @ $272C0
+
+#W16($C1A6)
+Great Leader,[LN]
+I'm truly sorry![LN]
+Please, forgive[LN]
+me![ED]
+
+
+//POINTER #103 @ $C1A8 - STRING #103 @ $272DC
+
+#W16($C1A8)
+We've fought as[LN]
+you instructed,[LN]
+but...[ED]
+
+
+//POINTER #104 @ $C1AA - STRING #104 @ $27303
+
+#W16($C1AA)
+They seem to[LN]
+possess[LN]
+unfathomable[LN]
+power...[ED]
+
+
+//POINTER #105 @ $C1AC - STRING #105 @ $2732E
+
+#W16($C1AC)
+We don't have the[LN]
+strength to stand[LN]
+against them.[ED]
+
+
+//POINTER #106 @ $C1AE - STRING #106 @ $27360
+
+#W16($C1AE)
+Please forgive[LN]
+us, Master![ED]
+
+
+//POINTER #107 @ $C1B0 - STRING #107 @ $2737B
+
+#W16($C1B0)
+Forgive us,[LN]
+please![ED]
+
+
+//POINTER #108 @ $C1B2 - STRING #108 @ $27387
+
+#W16($C1B2)
+We're so sorry![ED]
+
+
+//POINTER #109 @ $C1B4 - STRING #109 @ $27397
+
+#W16($C1B4)
+Enough! I'm tired[LN]
+of your excuses![ED]
+
+
+//POINTER #110 @ $C1B6 - STRING #110 @ $273BA
+
+#W16($C1B6)
+Get out of[LN]
+my sight![LN]
+Begone![ED]
+
+
+//POINTER #111 @ $C1B8 - STRING #111 @ $273D7
+
+#W16($C1B8)
+Aaaah![ED]
+
+
+//POINTER #112 @ $C1BA - STRING #112 @ $273DE
+
+#W16($C1BA)
+I know you're[LN]
+hiding there,[LN]
+Tobei Tachibana![ED]
+
+
+//POINTER #113 @ $C1BC - STRING #113 @ $2740B
+
+#W16($C1BC)
+I've got you[LN]
+cornered,[LN]
+Great Leader![ED]
+
+
+//POINTER #114 @ $C1BE - STRING #114 @ $27430
+
+#W16($C1BE)
+You have taken[LN]
+everything from[LN]
+me, fool![ED]
+
+
+//POINTER #115 @ $C1C0 - STRING #115 @ $27480
+
+#W16($C1C0)
+You will know[LN]
+death... Uwaah!![ED]
+
+
+//POINTER #116 @ $C1C2 - STRING #116 @ $274A8
+
+#W16($C1C2)
+What's this[LN]
+shaking?![ED]
+
+
+//POINTER #117 @ $C1C4 - STRING #117 @ $274BE
+
+#W16($C1C4)
+Tobei Tachibana,[LN]
+I've decided[LN]
+to sleep for[LN]
+a while.[ED]
+
+
+//POINTER #118 @ $C1C6 - STRING #118 @ $274F6
+
+#W16($C1C6)
+What?![ED]
+
+
+//POINTER #119 @ $C1C8 - STRING #119 @ $274FD
+
+#W16($C1C8)
+When I awaken[LN]
+from the shadows,[LN]
+this world will[LN]
+surely be mine![ED]
+
+
+//POINTER #120 @ $C1CA - STRING #120 @ $27559
+
+#W16($C1CA)
+Until then,[LN]
+savor the taste[LN]
+of victory.[LN]
+Ha-ha-ha![ED]
+
+
+//POINTER #121 @ $C1CC - STRING #121 @ $2758B
+
+#W16($C1CC)
+W-Wait![ED]
+
+
+//POINTER #122 @ $C1CE - STRING #122 @ $27593
+
+#W16($C1CE)
+G-Shocker is no[LN]
+more. Again, many[LN]
+mysteries remain[LN]
+unsolved.[ED]
+
+
+//POINTER #123 @ $C1D0 - STRING #123 @ $275E6
+
+#W16($C1D0)
+Although peace[LN]
+has returned,[LN]
+no one has seen[LN]
+the Riders since.[ED]
+
+
+//POINTER #124 @ $C1D2 - STRING #124 @ $27638
+
+#W16($C1D2)
+Tobei Tachibana[LN]
+and the SD Kamen[LN]
+Riders vanished[LN]
+thereafter.[ED]
+
+
+//POINTER #125 @ $C1D4 - STRING #125 @ $27675
+
+#W16($C1D4)
+But the citizens[LN]
+will never forget[LN]
+the names of[LN]
+those brave men.[ED]
+
+
+//POINTER #126 @ $C1D6 - STRING #126 @ $276B4
+
+#W16($C1D6)
+[ED]
+
+
+//POINTER #127 @ $C1D8 - STRING #127 @ $276B5
+
+#W16($C1D8)
+[ED]
+
+
+//POINTER #128 @ $C1DA - STRING #128 @ $276B6
+
+#W16($C1DA)
+[LN]
+[LN]
+[LN]
+         The End[ED]
+
+
+//POINTER #129 @ $C1DC - STRING #129 @ $276CA
+
+#W16($C1DC)
+General Producer[LN]
+Sunny Sasaki[ED]
+
+
+//POINTER #130 @ $C1DE - STRING #130 @ $276EA
+
+#W16($C1DE)
+Producer[LN]
+Daisaburou Hatori[ED]
+
+
+//POINTER #131 @ $C1E0 - STRING #131 @ $27709
+
+#W16($C1E0)
+Director[LN]
+Takayuki Yasumitu[ED]
+
+
+//POINTER #132 @ $C1E2 - STRING #132 @ $27728
+
+#W16($C1E2)
+Game Design[LN]
+Shinsaku Shimada[LN]
+Takayuki Yasumitu[LN]
+Goddemn Nak[ED]
+
+
+//POINTER #133 @ $C1E4 - STRING #133 @ $27767
+
+#W16($C1E4)
+Main Program[LN]
+Yuji Nakashima[ED]
+
+
+//POINTER #134 @ $C1E6 - STRING #134 @ $27784
+
+#W16($C1E6)
+Program[LN]
+Tohru Okajima[ED]
+
+
+//POINTER #135 @ $C1E8 - STRING #135 @ $2779D
+
+#W16($C1E8)
+Thanks to[LN]
+Hiroyuki Arai[LN]
+Tomohiro Nishida[ED]
+
+
+//POINTER #136 @ $C1EA - STRING #136 @ $277C9
+
+#W16($C1EA)
+Sub Script[LN]
+Okkey[ED]
+
+
+//POINTER #137 @ $C1EC - STRING #137 @ $277DE
+
+#W16($C1EC)
+Graphics[LN]
+Shinsaku Shimada[LN]
+Takayuki Yasumitu[LN]
+Miyuki Arai[ED]
+
+
+//POINTER #138 @ $C1EE - STRING #138 @ $2781B
+
+#W16($C1EE)
+Sound Composer[LN]
+Yamada[ED]
+
+
+//POINTER #139 @ $C1F0 - STRING #139 @ $27833
+
+#W16($C1F0)
+Special Thanks[LN]
+Knight Suzuki[ED]
+
+
+//POINTER #140 @ $C1F2 - STRING #140 @ $27850
+
+#W16($C1F2)
+Dedicated to[LN]
+Tomohiro Nishida[ED]
+
+
+//POINTER #141 @ $C1F4 - STRING #141 @ $27870
+
+#W16($C1F4)
+Presented[LN]
+by Angel[ED]

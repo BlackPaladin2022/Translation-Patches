@@ -1,0 +1,1469 @@
+//GAME NAME:		Kamen Rider SD (NES)
+
+//BLOCK #000 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $26F2 - STRING #0 @ $2800E
+
+#VAR(Table, TABLE)
+#ADDTBL("KRSD-ENG00.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($20010)
+#JMP($28010, $2A00E)
+
+//POINTER #0 @ $26F2 - STRING #0 @ $28010
+
+#W16($26F2)
+Grunt 1[ED]
+
+
+//POINTER #1 @ $26F4 - STRING #1 @ $2801C
+
+#W16($26F4)
+Grunt 2[ED]
+
+
+//POINTER #2 @ $26F6 - STRING #2 @ $28028
+
+#W16($26F6)
+Grunt 3[ED]
+
+
+//POINTER #3 @ $26F8 - STRING #3 @ $28034
+
+#W16($26F8)
+Grunt 4[ED]
+
+
+//POINTER #4 @ $26FA - STRING #4 @ $28040
+
+#W16($26FA)
+Salmon Mutant[ED]
+
+
+//POINTER #5 @ $26FC - STRING #5 @ $2804E
+
+#W16($26FC)
+Todoguiler[ED]
+
+
+//POINTER #6 @ $26FE - STRING #6 @ $28059
+
+#W16($26FE)
+Wilki[ED]
+
+
+//POINTER #7 @ $2700 - STRING #7 @ $2805F
+
+#W16($2700)
+Lonely Wolf[ED]
+
+
+//POINTER #8 @ $2702 - STRING #8 @ $2806B
+
+#W16($2702)
+Goaster[ED]
+
+
+//POINTER #9 @ $2704 - STRING #9 @ $28073
+
+#W16($2704)
+Fire Kong[ED]
+
+
+//POINTER #10 @ $2706 - STRING #10 @ $2807D
+
+#W16($2706)
+Komorujin[ED]
+
+
+//POINTER #11 @ $2708 - STRING #11 @ $28087
+
+#W16($2708)
+Tiger-Roid[ED]
+
+
+//POINTER #12 @ $270A - STRING #12 @ $28092
+
+#W16($270A)
+Telebi Bae[ED]
+
+
+//POINTER #13 @ $270C - STRING #13 @ $2809D
+
+#W16($270C)
+Death Garon[ED]
+
+
+//POINTER #14 @ $270E - STRING #14 @ $280A9
+
+#W16($270E)
+Wasp Woman[ED]
+
+
+//POINTER #15 @ $2710 - STRING #15 @ $280B4
+
+#W16($2710)
+Gun Snake[ED]
+
+
+//POINTER #16 @ $2712 - STRING #16 @ $280BE
+
+#W16($2712)
+Dororingo[ED]
+
+
+//POINTER #17 @ $2714 - STRING #17 @ $280C8
+
+#W16($2714)
+Neko Yamori[ED]
+
+
+//POINTER #18 @ $2716 - STRING #18 @ $280D4
+
+#W16($2716)
+Hasami Jaguar[ED]
+
+
+//POINTER #19 @ $2718 - STRING #19 @ $280E2
+
+#W16($2718)
+Skullmaster[ED]
+
+
+//POINTER #20 @ $271A - STRING #20 @ $280EE
+
+#W16($271A)
+Schraijin[ED]
+
+
+//POINTER #21 @ $271C - STRING #21 @ $280F8
+
+#W16($271C)
+Chronos[ED]
+
+
+//POINTER #22 @ $271E - STRING #22 @ $28100
+
+#W16($271E)
+Gamagiras[ED]
+
+
+//POINTER #23 @ $2720 - STRING #23 @ $2810A
+
+#W16($2720)
+Cerberus[ED]
+
+
+//POINTER #24 @ $2722 - STRING #24 @ $28113
+
+#W16($2722)
+Kaningerjin[ED]
+
+
+//POINTER #25 @ $2724 - STRING #25 @ $2811F
+
+#W16($2724)
+Man Spider[ED]
+
+
+//POINTER #26 @ $2726 - STRING #26 @ $2812A
+
+#W16($2726)
+Sai Dump[ED]
+
+
+//POINTER #27 @ $2728 - STRING #27 @ $28133
+
+#W16($2728)
+Kame Bazooka[ED]
+
+
+//POINTER #28 @ $272A - STRING #28 @ $28140
+
+#W16($272A)
+Gangaru[ED]
+
+
+//POINTER #29 @ $272C - STRING #29 @ $28148
+
+#W16($272C)
+Tokage-Roid[ED]
+
+
+//POINTER #30 @ $272E - STRING #30 @ $28154
+
+#W16($272E)
+Ant Beastman[ED]
+
+
+//POINTER #31 @ $2730 - STRING #31 @ $28161
+
+#W16($2730)
+Oni Hitode[ED]
+
+
+//POINTER #32 @ $2732 - STRING #32 @ $2816C
+
+#W16($2732)
+Denkiei[ED]
+
+
+//POINTER #33 @ $2734 - STRING #33 @ $28174
+
+#W16($2734)
+Cyclops[ED]
+
+
+//POINTER #34 @ $2736 - STRING #34 @ $2817C
+
+#W16($2736)
+Omukade[ED]
+
+
+//POINTER #35 @ $2738 - STRING #35 @ $28184
+
+#W16($2738)
+Buffalo[ED]
+
+
+//POINTER #36 @ $273A - STRING #36 @ $2818C
+
+#W16($273A)
+Gen. Jark[ED]
+
+
+//POINTER #37 @ $273C - STRING #37 @ $28199
+
+#W16($273C)
+Hell[ED]
+
+
+//POINTER #38 @ $273E - STRING #38 @ $281A9
+
+#W16($273E)
+Dr. G[ED]
+
+
+//POINTER #39 @ $2740 - STRING #39 @ $281B2
+
+#W16($2740)
+Apollogeist[ED]
+
+
+//POINTER #40 @ $2742 - STRING #40 @ $281BF
+
+#W16($2742)
+Jyumenki[ED]
+
+
+//POINTER #41 @ $2744 - STRING #41 @ $281C8
+
+#W16($2744)
+Gen. Shadow[ED]
+
+
+//POINTER #42 @ $2746 - STRING #42 @ $281D7
+
+#W16($2746)
+Shadow Moon[ED]
+
+
+//POINTER #43 @ $2748 - STRING #43 @ $281E3
+
+#W16($2748)
+Dark Amb.[ED]
+
+
+//POINTER #44 @ $274A - STRING #44 @ $281F3
+
+#W16($274A)
+No. 1[ED]
+
+
+//POINTER #45 @ $274C - STRING #45 @ $281FB
+
+#W16($274C)
+ZX[ED]
+
+
+//POINTER #46 @ $274E - STRING #46 @ $281FE
+
+#W16($274E)
+RX[ED]
+
+
+//POINTER #47 @ $2750 - STRING #47 @ $28207
+
+#W16($2750)
+No. 2[ED]
+
+
+//POINTER #48 @ $2752 - STRING #48 @ $2820F
+
+#W16($2752)
+Amazon[ED]
+
+
+//POINTER #49 @ $2754 - STRING #49 @ $28216
+
+#W16($2754)
+Strong[ED]
+
+
+//POINTER #50 @ $2756 - STRING #50 @ $2821F
+
+#W16($2756)
+V3[ED]
+
+
+//POINTER #51 @ $2758 - STRING #51 @ $28222
+
+#W16($2758)
+X[ED]
+
+
+//POINTER #52 @ $275A - STRING #52 @ $28224
+
+#W16($275A)
+S-1[ED]
+
+
+//POINTER #53 @ $275C - STRING #53 @ $2822C
+
+#W16($275C)
+Skyrider[ED]
+
+
+//POINTER #54 @ $275E - STRING #54 @ $28235
+
+#W16($275E)
+Riderman[ED]
+
+
+//POINTER #55 @ $2760 - STRING #55 @ $2823E
+
+#W16($2760)
+Tobei Tachibana[ED]
+
+
+//POINTER #56 @ $2762 - STRING #56 @ $2824E
+
+#W16($2762)
+Grunt[ED]
+
+
+//POINTER #57 @ $2764 - STRING #57 @ $28258
+
+#W16($2764)
+Jark[ED]
+
+
+//POINTER #58 @ $2766 - STRING #58 @ $2825D
+
+#W16($2766)
+Apollo[ED]
+
+
+//POINTER #59 @ $2768 - STRING #59 @ $28264
+
+#W16($2768)
+Shadow[ED]
+
+
+//POINTER #60 @ $276A - STRING #60 @ $2826C
+
+#W16($276A)
+Moon[ED]
+
+
+//POINTER #61 @ $276C - STRING #61 @ $28273
+
+#W16($276C)
+Dark[ED]
+
+
+//POINTER #62 @ $276E - STRING #62 @ $28278
+
+#W16($276E)
+Dummy   [ED]
+
+
+//POINTER #63 @ $2770 - STRING #63 @ $2827E
+
+#W16($2770)
+Turbo   [ED]
+
+
+//POINTER #64 @ $2772 - STRING #64 @ $28284
+
+#W16($2772)
+Missile [ED]
+
+
+//POINTER #65 @ $2774 - STRING #65 @ $2828C
+
+#W16($2774)
+Statue[ED]
+
+
+//POINTER #66 @ $2776 - STRING #66 @ $28293
+
+#W16($2776)
+Jet     [ED]
+
+
+//POINTER #67 @ $2778 - STRING #67 @ $28297
+
+#W16($2778)
+Farm[ED]
+
+
+//POINTER #68 @ $277A - STRING #68 @ $2829C
+
+#W16($277A)
+Smoke   [ED]
+
+
+//POINTER #69 @ $277C - STRING #69 @ $282A2
+
+#W16($277C)
+Fuel    [ED]
+
+
+//POINTER #70 @ $277E - STRING #70 @ $282A7
+
+#W16($277E)
+Big Fuel[ED]
+
+
+//POINTER #71 @ $2780 - STRING #71 @ $282B0
+
+#W16($2780)
+Tools[ED]
+
+
+//POINTER #72 @ $2782 - STRING #72 @ $282B9
+
+#W16($2782)
+Repair[ED]
+
+
+//POINTER #73 @ $2784 - STRING #73 @ $282C0
+
+#W16($2784)
+Puncture[ED]
+
+
+//POINTER #74 @ $2786 - STRING #74 @ $282C9
+
+#W16($2786)
+Villa[ED]
+
+
+//POINTER #75 @ $2788 - STRING #75 @ $282CF
+
+#W16($2788)
+F.Ticket[ED]
+
+
+//POINTER #76 @ $278A - STRING #76 @ $282D6
+
+#W16($278A)
+P.Ticket[ED]
+
+
+//POINTER #77 @ $278C - STRING #77 @ $282DD
+
+#W16($278C)
+Emblem  [ED]
+
+
+//POINTER #78 @ $278E - STRING #78 @ $282E4
+
+#W16($278E)
+Melon[ED]
+
+
+//POINTER #79 @ $2790 - STRING #79 @ $282EA
+
+#W16($2790)
+Carving[ED]
+
+
+//POINTER #80 @ $2792 - STRING #80 @ $282F2
+
+#W16($2792)
+Salmon  [ED]
+
+
+//POINTER #81 @ $2794 - STRING #81 @ $282F9
+
+#W16($2794)
+Crab    [ED]
+
+
+//POINTER #82 @ $2796 - STRING #82 @ $282FE
+
+#W16($2796)
+Chocolat[ED]
+
+
+//POINTER #83 @ $2798 - STRING #83 @ $28308
+
+#W16($2798)
+        [ED]
+
+
+//POINTER #84 @ $279A - STRING #84 @ $28311
+
+#W16($279A)
+Corn[ED]
+
+
+//POINTER #85 @ $279C - STRING #85 @ $28316
+
+#W16($279C)
+Boat[ED]
+
+
+//POINTER #86 @ $279E - STRING #86 @ $2831B
+
+#W16($279E)
+Mine[ED]
+
+
+//POINTER #87 @ $27A0 - STRING #87 @ $28320
+
+#W16($27A0)
+Nipopo[ED]
+
+
+//POINTER #88 @ $27A2 - STRING #88 @ $2832C
+
+#W16($27A2)
+Cracker[ED]
+
+
+//POINTER #89 @ $27A4 - STRING #89 @ $28334
+
+#W16($27A4)
+Key 1[ED]
+
+
+//POINTER #90 @ $27A6 - STRING #90 @ $2833A
+
+#W16($27A6)
+Apple[ED]
+
+
+//POINTER #91 @ $27A8 - STRING #91 @ $28340
+
+#W16($27A8)
+Apple[ED]
+
+
+//POINTER #92 @ $27AA - STRING #92 @ $28346
+
+#W16($27AA)
+Ironware[ED]
+
+
+//POINTER #93 @ $27AC - STRING #93 @ $2834F
+
+#W16($27AC)
+Soba[ED]
+
+
+//POINTER #94 @ $27AE - STRING #94 @ $28354
+
+#W16($27AE)
+Kamaboko[ED]
+
+
+//POINTER #95 @ $27B0 - STRING #95 @ $2835D
+
+#W16($27B0)
+S.Pieces[ED]
+
+
+//POINTER #96 @ $27B2 - STRING #96 @ $28364
+
+#W16($27B2)
+Ramen[ED]
+
+
+//POINTER #97 @ $27B4 - STRING #97 @ $2836A
+
+#W16($27B4)
+Leaf[ED]
+
+
+//POINTER #98 @ $27B6 - STRING #98 @ $2836F
+
+#W16($27B6)
+Papers[ED]
+
+
+//POINTER #99 @ $27B8 - STRING #99 @ $28379
+
+#W16($27B8)
+Key 2[ED]
+
+
+//POINTER #100 @ $27BA - STRING #100 @ $2837F
+
+#W16($27BA)
+Map[ED]
+
+
+//POINTER #101 @ $27BC - STRING #101 @ $28383
+
+#W16($27BC)
+Map[ED]
+
+
+//POINTER #102 @ $27BE - STRING #102 @ $28387
+
+#W16($27BE)
+Map[ED]
+
+
+//POINTER #103 @ $27C0 - STRING #103 @ $2838B
+
+#W16($27C0)
+Manju[ED]
+
+
+//POINTER #104 @ $27C2 - STRING #104 @ $28391
+
+#W16($27C2)
+Photo[ED]
+
+
+//POINTER #105 @ $27C4 - STRING #105 @ $283A1
+
+#W16($27C4)
+Bridge[ED]
+
+
+//POINTER #106 @ $27C6 - STRING #106 @ $283AC
+
+#W16($27C6)
+Road[ED]
+
+
+//POINTER #107 @ $27C8 - STRING #107 @ $283B1
+
+#W16($27C8)
+Soka Senbei[ED]
+
+
+//POINTER #108 @ $27CA - STRING #108 @ $283BD
+
+#W16($27CA)
+Shumai[ED]
+
+
+//POINTER #109 @ $27CC - STRING #109 @ $283C4
+
+#W16($27CC)
+Peanuts[ED]
+
+
+//POINTER #110 @ $27CE - STRING #110 @ $283CC
+
+#W16($27CE)
+Key 3[ED]
+
+
+//POINTER #111 @ $27D0 - STRING #111 @ $283D2
+
+#W16($27D0)
+Mochi[ED]
+
+
+//POINTER #112 @ $27D2 - STRING #112 @ $283D8
+
+#W16($27D2)
+Notes[ED]
+
+
+//POINTER #113 @ $27D4 - STRING #113 @ $283DF
+
+#W16($27D4)
+Tape[ED]
+
+
+//POINTER #114 @ $27D6 - STRING #114 @ $283E4
+
+#W16($27D6)
+Engine[ED]
+
+
+//POINTER #115 @ $27D8 - STRING #115 @ $283EB
+
+#W16($27D8)
+Rice[ED]
+
+
+//POINTER #116 @ $27DA - STRING #116 @ $283F0
+
+#W16($27DA)
+Medicine[ED]
+
+
+//POINTER #117 @ $27DC - STRING #117 @ $283F9
+
+#W16($27DC)
+Kaga Yuzen[ED]
+
+
+//POINTER #118 @ $27DE - STRING #118 @ $28404
+
+#W16($27DE)
+Pottery[ED]
+
+
+//POINTER #119 @ $27E0 - STRING #119 @ $2840C
+
+#W16($27E0)
+Tea[ED]
+
+
+//POINTER #120 @ $27E2 - STRING #120 @ $28410
+
+#W16($27E2)
+Uiro[ED]
+
+
+//POINTER #121 @ $27E4 - STRING #121 @ $28415
+
+#W16($27E4)
+Broken Teacup[ED]
+
+
+//POINTER #122 @ $27E6 - STRING #122 @ $28423
+
+#W16($27E6)
+Broken Teacup[ED]
+
+
+//POINTER #123 @ $27E8 - STRING #123 @ $28431
+
+#W16($27E8)
+Key 4[ED]
+
+
+//POINTER #124 @ $27EA - STRING #124 @ $28437
+
+#W16($27EA)
+X-Key[ED]
+
+
+//POINTER #125 @ $27EC - STRING #125 @ $2843D
+
+#W16($27EC)
+Aoba Castle[ED]
+
+
+//POINTER #126 @ $27EE - STRING #126 @ $28449
+
+#W16($27EE)
+??? Item[ED]
+
+
+//POINTER #127 @ $27F0 - STRING #127 @ $2845A
+
+#W16($27F0)
+Letter[ED]
+
+
+//POINTER #128 @ $27F2 - STRING #128 @ $28461
+
+#W16($27F2)
+Key 6[ED]
+
+
+//POINTER #129 @ $27F4 - STRING #129 @ $28467
+
+#W16($27F4)
+Big Bomb[ED]
+
+
+//POINTER #130 @ $27F6 - STRING #130 @ $28470
+
+#W16($27F6)
+Office[ED]
+
+
+//POINTER #131 @ $27F8 - STRING #131 @ $28477
+
+#W16($27F8)
+Tunnel[ED]
+
+
+//POINTER #132 @ $27FA - STRING #132 @ $2847E
+
+#W16($27FA)
+Village[ED]
+
+
+//POINTER #133 @ $27FC - STRING #133 @ $28486
+
+#W16($27FC)
+Soba[ED]
+
+
+//POINTER #134 @ $27FE - STRING #134 @ $2848B
+
+#W16($27FE)
+Dango[ED]
+
+
+//POINTER #135 @ $2800 - STRING #135 @ $28491
+
+#W16($2800)
+Ceramics[ED]
+
+
+//POINTER #136 @ $2802 - STRING #136 @ $2849A
+
+#W16($2802)
+Okonomi[ED]
+
+
+//POINTER #137 @ $2804 - STRING #137 @ $284A6
+
+#W16($2804)
+Persimmon[ED]
+
+
+//POINTER #138 @ $2806 - STRING #138 @ $284AD
+
+#W16($2806)
+Sake[ED]
+
+
+//POINTER #139 @ $2808 - STRING #139 @ $284B2
+
+#W16($2808)
+Dune Star[ED]
+
+
+//POINTER #140 @ $280A - STRING #140 @ $284BC
+
+#W16($280A)
+1st Elem.[ED]
+
+
+//POINTER #141 @ $280C - STRING #141 @ $284C9
+
+#W16($280C)
+2nd Elem.[ED]
+
+
+//POINTER #142 @ $280E - STRING #142 @ $284D6
+
+#W16($280E)
+3rd Elem.[ED]
+
+
+//POINTER #143 @ $2810 - STRING #143 @ $284E3
+
+#W16($2810)
+Soliton[ED]
+
+
+//POINTER #144 @ $2812 - STRING #144 @ $284EB
+
+#W16($2812)
+Luggage[ED]
+
+
+//POINTER #145 @ $2814 - STRING #145 @ $284F3
+
+#W16($2814)
+Springs[ED]
+
+
+//POINTER #146 @ $2816 - STRING #146 @ $28500
+
+#W16($2816)
+Key 7[ED]
+
+
+//POINTER #147 @ $2818 - STRING #147 @ $28506
+
+#W16($2818)
+Udon[ED]
+
+
+//POINTER #148 @ $281A - STRING #148 @ $2850B
+
+#W16($281A)
+Orange[ED]
+
+
+//POINTER #149 @ $281C - STRING #149 @ $28512
+
+#W16($281C)
+Bonito[ED]
+
+
+//POINTER #150 @ $281E - STRING #150 @ $28519
+
+#W16($281E)
+Hairpin[ED]
+
+
+//POINTER #151 @ $2820 - STRING #151 @ $28521
+
+#W16($2820)
+Somen[ED]
+
+
+//POINTER #152 @ $2822 - STRING #152 @ $28527
+
+#W16($2822)
+Document[ED]
+
+
+//POINTER #153 @ $2824 - STRING #153 @ $28533
+
+#W16($2824)
+Springs[ED]
+
+
+//POINTER #154 @ $2826 - STRING #154 @ $28546
+
+#W16($2826)
+Cod Roe[ED]
+
+
+//POINTER #155 @ $2828 - STRING #155 @ $2854E
+
+#W16($2828)
+Doll[ED]
+
+
+//POINTER #156 @ $282A - STRING #156 @ $28553
+
+#W16($282A)
+Clayware[ED]
+
+
+//POINTER #157 @ $282C - STRING #157 @ $2855C
+
+#W16($282C)
+Chanpon[ED]
+
+
+//POINTER #158 @ $282E - STRING #158 @ $28564
+
+#W16($282E)
+Fish Cake[ED]
+
+
+//POINTER #159 @ $2830 - STRING #159 @ $2856E
+
+#W16($2830)
+S-Key[ED]
+
+
+//POINTER #160 @ $2832 - STRING #160 @ $28574
+
+#W16($2832)
+Key 8[ED]
+
+
+//POINTER #161 @ $2834 - STRING #161 @ $2857A
+
+#W16($2834)
+Picture[ED]
+
+
+//POINTER #162 @ $2836 - STRING #162 @ $28582
+
+#W16($2836)
+Package[ED]
+
+
+//POINTER #163 @ $2838 - STRING #163 @ $2858E
+
+#W16($2838)
+Mochi[ED]
+
+
+//POINTER #164 @ $283A - STRING #164 @ $28595
+
+#W16($283A)
+Kyoto Doll[ED]
+
+
+//POINTER #165 @ $283C - STRING #165 @ $285A0
+
+#W16($283C)
+Takoyaki[ED]
+
+
+//POINTER #166 @ $283E - STRING #166 @ $285A9
+
+#W16($283E)
+Crockery[ED]
+
+
+//POINTER #167 @ $2840 - STRING #167 @ $285B2
+
+#W16($2840)
+Wafer[ED]
+
+
+//POINTER #168 @ $2842 - STRING #168 @ $285B8
+
+#W16($2842)
+Key 5[ED]
+
+
+//POINTER #169 @ $2844 - STRING #169 @ $285BE
+
+#W16($2844)
+Wire[ED]
+
+
+//POINTER #170 @ $2846 - STRING #170 @ $285C3
+
+#W16($2846)
+Gate Key[ED]
+
+
+//POINTER #171 @ $2848 - STRING #171 @ $285CC
+
+#W16($2848)
+Note[ED]
+
+
+//POINTER #172 @ $284A - STRING #172 @ $285D1
+
+#W16($284A)
+Key 9[ED]
+
+
+//POINTER #173 @ $284C - STRING #173 @ $285D7
+
+#W16($284C)
+Springs[ED]
+
+
+//POINTER #174 @ $284E - STRING #174 @ $285E9
+
+#W16($284E)
+Clear[ED]
+
+
+//POINTER #175 @ $2850 - STRING #175 @ $285EF
+
+#W16($2850)
+Mt. Daizetsu[ED]
+
+
+//POINTER #176 @ $2852 - STRING #176 @ $285FC
+
+#W16($2852)
+Ainu Village[ED]
+
+
+//POINTER #177 @ $2854 - STRING #177 @ $28609
+
+#W16($2854)
+Springs[ED]
+
+
+//POINTER #178 @ $2856 - STRING #178 @ $28611
+
+#W16($2856)
+General Jark[ED]
+
+
+//POINTER #179 @ $2858 - STRING #179 @ $2861E
+
+#W16($2858)
+Master[ED]
+
+
+//POINTER #180 @ $285A - STRING #180 @ $28625
+
+#W16($285A)
+Hotel[ED]
+
+
+//POINTER #181 @ $285C - STRING #181 @ $2862B
+
+#W16($285C)
+Tatsuko[ED]
+
+
+//POINTER #182 @ $285E - STRING #182 @ $28633
+
+#W16($285E)
+Tazawa[ED]
+
+
+//POINTER #183 @ $2860 - STRING #183 @ $2863A
+
+#W16($2860)
+leaf[ED]
+
+
+//POINTER #184 @ $2862 - STRING #184 @ $2863F
+
+#W16($2862)
+daughter[ED]
+
+
+//POINTER #185 @ $2864 - STRING #185 @ $28648
+
+#W16($2864)
+Tokyo[ED]
+
+
+//POINTER #186 @ $2866 - STRING #186 @ $2864E
+
+#W16($2866)
+engine[ED]
+
+
+//POINTER #187 @ $2868 - STRING #187 @ $28655
+
+#W16($2868)
+radiowave[ED]
+
+
+//POINTER #188 @ $286A - STRING #188 @ $2865F
+
+#W16($286A)
+cave[ED]
+
+
+//POINTER #189 @ $286C - STRING #189 @ $28664
+
+#W16($286C)
+Sky[ED]
+
+
+//POINTER #190 @ $286E - STRING #190 @ $28668
+
+#W16($286E)
+Tea[ED]
+
+
+//POINTER #191 @ $2870 - STRING #191 @ $2866C
+
+#W16($2870)
+Apollogeist[ED]
+
+
+//POINTER #192 @ $2872 - STRING #192 @ $28679
+
+#W16($2872)
+Kyoto[ED]
+
+
+//POINTER #193 @ $2874 - STRING #193 @ $2867F
+
+#W16($2874)
+Priest[ED]
+
+
+//POINTER #194 @ $2876 - STRING #194 @ $28686
+
+#W16($2876)
+Statue[ED]
+
+
+//POINTER #195 @ $2878 - STRING #195 @ $2868D
+
+#W16($2878)
+Cookies[ED]
+
+
+//POINTER #196 @ $287A - STRING #196 @ $28694
+
+#W16($287A)
+position[ED]
+
+
+//POINTER #197 @ $287C - STRING #197 @ $2869D
+
+#W16($287C)
+Ambassador Hell[ED]
+
+
+//POINTER #198 @ $287E - STRING #198 @ $286AD
+
+#W16($287E)
+Sake[ED]
+
+
+//POINTER #199 @ $2880 - STRING #199 @ $286B2
+
+#W16($2880)
+ingredient[ED]
+
+
+//POINTER #200 @ $2882 - STRING #200 @ $286BD
+
+#W16($2882)
+University[ED]
+
+
+//POINTER #201 @ $2884 - STRING #201 @ $286C8
+
+#W16($2884)
+Professor[ED]
+
+
+//POINTER #202 @ $2886 - STRING #202 @ $286D2
+
+#W16($2886)
+Great Leader[ED]
+
+
+//POINTER #203 @ $2888 - STRING #203 @ $286DF
+
+#W16($2888)
+Dark Ambassador[ED]
+
+
+//POINTER #204 @ $288A - STRING #204 @ $286EF
+
+#W16($288A)
+Sand Dune[ED]
+
+
+//POINTER #205 @ $288C - STRING #205 @ $286F9
+
+#W16($288C)
+UFO[ED]
+
+
+//POINTER #206 @ $288E - STRING #206 @ $286FD
+
+#W16($288E)
+Australia[ED]
+
+
+//POINTER #207 @ $2890 - STRING #207 @ $28707
+
+#W16($2890)
+resident[ED]
+
+
+//POINTER #208 @ $2892 - STRING #208 @ $28710
+
+#W16($2892)
+General Shadow[ED]
+
+
+//POINTER #209 @ $2894 - STRING #209 @ $2871F
+
+#W16($2894)
+soliton[ED]
+
+
+//POINTER #210 @ $2896 - STRING #210 @ $28727
+
+#W16($2896)
+Miyuki[ED]
+
+
+//POINTER #211 @ $2898 - STRING #211 @ $2872E
+
+#W16($2898)
+Sister[ED]
+
+
+//POINTER #212 @ $289A - STRING #212 @ $28735
+
+#W16($289A)
+Rider[ED]
+
+
+//POINTER #213 @ $289C - STRING #213 @ $2873B
+
+#W16($289C)
+G-Shocker[ED]
+
+
+//POINTER #214 @ $289E - STRING #214 @ $28745
+
+#W16($289E)
+Grandshocker[ED]
+
+
+//POINTER #215 @ $28A0 - STRING #215 @ $28752
+
+#W16($28A0)
+Area[ED]
+
+
+//POINTER #216 @ $28A2 - STRING #216 @ $28757
+
+#W16($28A2)
+Stats[ED]
+
+
+//POINTER #217 @ $28A4 - STRING #217 @ $2875D
+
+#W16($28A4)
+Bike[ED]
+
+
+//POINTER #218 @ $28A6 - STRING #218 @ $28762
+
+#W16($28A6)
+Endurance[ED]
+
+
+//POINTER #219 @ $28A8 - STRING #219 @ $2876C
+
+#W16($28A8)
+Fuel[ED]
+
+
+//POINTER #220 @ $28AA - STRING #220 @ $28771
+
+#W16($28AA)
+Tobei Tachibana[ED]
+
+
+//POINTER #221 @ $28AC - STRING #221 @ $28781
+
+#W16($28AC)
+I am[ED]
+
+
+//POINTER #222 @ $28AE - STRING #222 @ $28786
+
+#W16($28AE)
+please[ED]
+
+
+//POINTER #223 @ $28B0 - STRING #223 @ $2878D
+
+#W16($28B0)
+Maybe[ED]
+
+
+//POINTER #224 @ $28B2 - STRING #224 @ $28793
+
+#W16($28B2)
+you[ED]
+
+
+//POINTER #225 @ $28B4 - STRING #225 @ $28797
+
+#W16($28B4)
+Oops[ED]
+
+
+//POINTER #226 @ $28B6 - STRING #226 @ $2879C
+
+#W16($28B6)
+ing[ED]
+
+
+//POINTER #227 @ $28B8 - STRING #227 @ $287A0
+
+#W16($28B8)
+have[ED]
+
+
+//POINTER #228 @ $28BA - STRING #228 @ $287A5
+
+#W16($28BA)
+Incident[ED]
+
+
+//POINTER #229 @ $28BC - STRING #229 @ $287AE
+
+#W16($28BC)
+place[ED]
+
+
+//POINTER #230 @ $28BE - STRING #230 @ $287B4
+
+#W16($28BE)
+people[ED]
+
+
+//POINTER #231 @ $28C0 - STRING #231 @ $287BB
+
+#W16($28C0)
+That's[ED]
+
+
+//POINTER #232 @ $28C2 - STRING #232 @ $287C2
+
+#W16($28C2)
+????[ED]
+
+
+//POINTER #233 @ $28C4 - STRING #233 @ $287C7
+
+#W16($28C4)
+??????[ED]
+
+
+//POINTER #234 @ $28C6 - STRING #234 @ $287CE
+
+#W16($28C6)
+Thank you[ED]
+
+
+//POINTER #235 @ $28C8 - STRING #235 @ $287D8
+
+#W16($28C8)
+can[ED]
+
+
+//POINTER #236 @ $28CA - STRING #236 @ $287DC
+
+#W16($28CA)
+but[ED]
+
+
+//POINTER #237 @ $28CC - STRING #237 @ $287E0
+
+#W16($28CC)
+Well[ED]
+
+
+//POINTER #238 @ $28CE - STRING #238 @ $287E5
+
+#W16($28CE)
+Help[ED]
+
+
+//POINTER #239 @ $28D0 - STRING #239 @ $287EA
+
+#W16($28D0)
+They[ED]
+
+
+//POINTER #240 @ $28D2 - STRING #240 @ $287EF
+
+#W16($28D2)
+There[ED]
+
+
+//POINTER #241 @ $28D4 - STRING #241 @ $287F5
+
+#W16($28D4)
+Strength[ED]
+
+
+//POINTER #242 @ $28D6 - STRING #242 @ $287FE
+
+#W16($28D6)
+Recovered[ED]
+
