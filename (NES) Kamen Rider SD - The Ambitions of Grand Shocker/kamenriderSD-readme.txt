@@ -82,7 +82,7 @@ FCEUX Team (Emulator was used in testing the translation patch)
 Mesen Team (Emulator was used in testing the translation patch)
 YY-CHR Team (Program was used for graphic editing)
 
-giblet82 (Japanese to English translation & Beta Testing)
+giblet92 (Japanese to English translation & Beta Testing)
 Lazermutt4 (Translated Title Screen design)
 KingMike (Documentation on DTE)
 Bavi_H (Assistance with DTE)
