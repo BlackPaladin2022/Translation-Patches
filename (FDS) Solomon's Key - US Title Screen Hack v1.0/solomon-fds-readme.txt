@@ -3,7 +3,7 @@ This is just a simple hack for the FDS version of Solomon's Key (Solomon no Kagi
 File/ROM SHA-1: B06BFF43FCCEEEB789BE73C96960E6947EEAF75F
 File/ROM CRC32: 9C2E3999
 
-The end result should be the ROM with the following hashes...
+The patched file should have the following hashes...
 
 File/ROM SHA-1: D80C4F601BB2CE146FE471990360AAAA44F2AB72
 File/ROM CRC32: 71464036
