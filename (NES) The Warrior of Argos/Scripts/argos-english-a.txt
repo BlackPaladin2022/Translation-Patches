@@ -1,0 +1,215 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Argos Text Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $DB29 - STRING #0 @ $DB65
+
+#VAR(Table, TABLE)
+#ADDTBL("argos-eng.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($4010)
+#JMP($DB67, $E00D)
+
+//POINTER #0 @ $DB29 - STRING #0 @ $DB67
+
+#W16($DB29)
+Thank you[LN]
+for coming.[LN]
+Rest your[LN]
+weary bones.[ED]
+
+//POINTER #1 @ $DB2B - STRING #1 @ $DB8A
+
+#W16($DB2B)
+You lack[LN]
+experience.[LN]
+Do you have[LN]
+a Warrior's[LN]
+Crest?[ED]
+
+//POINTER #2 @ $DB2D - STRING #2 @ $DBB1
+
+#W16($DB2D)
+Rygar, I'll[LN]
+bestow this[LN]
+item to you.[ED]
+
+//POINTER #3 @ $DB2F - STRING #3 @ $DBCA
+
+#W16($DB2F)
+This chain[LN]
+sickle can[LN]
+be of use[LN]
+to you.[ED]
+
+//POINTER #4 @ $DB31 - STRING #4 @ $DBE8
+
+#W16($DB31)
+Rygar, I'll[LN]
+bestow upon[LN]
+you the wind[LN]
+pulley.[ED]
+
+//POINTER #5 @ $DB33 - STRING #5 @ $DC0D
+
+#W16($DB33)
+This flame[LN]
+crossbow is[LN]
+for you,[LN]
+Rygar.[ED]
+
+//POINTER #6 @ $DB35 - STRING #6 @ $DC30
+
+#W16($DB35)
+Use the[LN]
+Armor of[LN]
+Indora and[LN]
+fight![ED]
+
+//POINTER #7 @ $DB37 - STRING #7 @ $DC56
+
+#W16($DB37)
+I will grant[LN]
+you this[LN]
+Warrior's[LN]
+Crest.[ED]
+
+//POINTER #8 @ $DB39 - STRING #8 @ $DC7C
+
+#W16($DB39)
+Play this[LN]
+flute atop[LN]
+Lairu Tower[LN]
+where you[LN]
+see the sky[LN]
+fortress.[ED]
+
+//POINTER #9 @ $DB3B - STRING #9 @ $DCA2
+
+#W16($DB3B)
+The entrance[LN]
+to Drago's[LN]
+temple is[LN]
+north of[LN]
+this[LN]
+mountain.[ED]
+
+//POINTER #10 @ $DB3D - STRING #10 @ $DCC9
+
+#W16($DB3D)
+You'll need[LN]
+the chain[LN]
+sickle to[LN]
+continue[LN]
+beyond this[LN]
+point.[ED]
+
+//POINTER #11 @ $DB3F - STRING #11 @ $DCE7
+
+#W16($DB3F)
+Follow the[LN]
+path to the[LN]
+northwest[LN]
+to go to[LN]
+Gerozeo.[ED]
+
+//POINTER #12 @ $DB41 - STRING #12 @ $DD09
+
+#W16($DB41)
+Supposedly,[LN]
+the crest[LN]
+contains[LN]
+a map to[LN]
+Lorcenia.[ED]
+
+//POINTER #13 @ $DB43 - STRING #13 @ $DD2D
+
+#W16($DB43)
+An entrance[LN]
+to Gerozeo[LN]
+is in the[LN]
+Garaganda[LN]
+Mountains.[ED]
+
+//POINTER #14 @ $DB45 - STRING #14 @ $DD54
+
+#W16($DB45)
+You'll need[LN]
+the wind[LN]
+pulley to[LN]
+continue[LN]
+beyond this[LN]
+point.[ED]
+
+//POINTER #15 @ $DB47 - STRING #15 @ $DD6E
+
+#W16($DB47)
+Garuba Tower[LN]
+above this[LN]
+mountain is[LN]
+dangerous.[LN]
+You should[LN]
+stay away.[ED]
+
+//POINTER #16 @ $DB49 - STRING #16 @ $DD92
+
+#W16($DB49)
+You must[LN]
+visit five[LN]
+Indoras to[LN]
+enter the[LN]
+stronghold.[ED]
+
+//POINTER #17 @ $DB4B - STRING #17 @ $DDB7
+
+#W16($DB4B)
+Follow the[LN]
+cave, and[LN]
+you'll be[LN]
+able to see[LN]
+the setting[LN]
+sun.[ED]
+
+//POINTER #18 @ $DB4D - STRING #18 @ $DDDE
+
+#W16($DB4D)
+Deep in this[LN]
+forest lives[LN]
+the beast,[LN]
+Eruga.[ED]
+
+//POINTER #19 @ $DB4F - STRING #19 @ $DE04
+
+#W16($DB4F)
+This path[LN]
+leads to[LN]
+a dead end.[LN]
+Find another[LN]
+path.[ED]
+
+//POINTER #20 @ $DB51 - STRING #20 @ $DE1C
+
+#W16($DB51)
+Ralphius[LN]
+cannot be[LN]
+accessed[LN]
+without[LN]
+a Chain[LN]
+Sickle.[ED]
+
+//POINTER #21 @ $DB53 - STRING #21 @ $DE40
+
+#W16($DB53)
+From this[LN]
+point on,[LN]
+the path[LN]
+will become[LN]
+harder.[ED]
+
+//POINTER #22 @ $DB55 - STRING #22 @ $DE67
+
+#W16($DB55)
+Go down this[LN]
+path to get[LN]
+to Ralphius.[ED]
+

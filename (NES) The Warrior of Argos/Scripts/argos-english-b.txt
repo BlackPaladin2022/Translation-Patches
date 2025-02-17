@@ -1,0 +1,85 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Argos Text Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $DB29 - STRING #0 @ $DB65
+
+#VAR(Table, TABLE)
+#ADDTBL("argos-eng.tbl", Table)
+#ACTIVETBL(Table)
+#HDR($20010)
+#JMP($1E2CB, $20008)
+
+
+
+//POINTER #23 @ $DB57 - STRING #23 @ $DE88
+
+#W16($DB57)
+If you ever[LN]
+meet Drago,[LN]
+tell him[LN]
+that I want[LN]
+my daughter[LN]
+back. Augh![ED]
+
+//POINTER #24 @ $DB59 - STRING #24 @ $DEAF
+
+#W16($DB59)
+This land[LN]
+will outlive[LN]
+its king.[LN]
+Ahh, the[LN]
+good old[LN]
+times...[ED]
+
+//POINTER #25 @ $DB5B - STRING #25 @ $DED6
+
+#W16($DB5B)
+Visit the[LN]
+hermit at[LN]
+Lion Falls[LN]
+up ahead.[ED]
+
+//POINTER #26 @ $DB5D - STRING #26 @ $DEF3
+
+#W16($DB5D)
+I want to[LN]
+see the sun[LN]
+set over the[LN]
+mountain.[ED]
+
+//POINTER #27 @ $DB5F - STRING #27 @ $DF1A
+
+#W16($DB5F)
+You must[LN]
+defeat Liger[LN]
+to bring[LN]
+peace back[LN]
+to Argos.[ED]
+
+//POINTER #28 @ $DB61 - STRING #28 @ $DF41
+
+#W16($DB61)
+Draw your[LN]
+power from[LN]
+the five[LN]
+Indoras.[ED]
+
+//POINTER #29 @ $DB63 - STRING #29 @ $DF5B
+
+#W16($DB63)
+Stay away[LN]
+from Garuba[LN]
+Tower if you[LN]
+value your[LN]
+life.[ED]
+
+//POINTER #30 @ $DB65 - STRING #30 @ $DF82
+
+#W16($DB65)
+It's now[LN]
+2 o'clock,[LN]
+the time[LN]
+when demons[LN]
+will return[LN]
+to life.[ED]
