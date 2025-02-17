@@ -10,12 +10,21 @@ Argos no Senshi was originally an arcade game in which you control a ressurected
 
 Tecmo did localize this this game in the United States and Europe under the name, "Rygar".  (The arcade game this game based on was also localized as "Rygar.)  However, the music in the Japanese version of the game is different compared to its localized counterparts.
 
-This patch comes in two different flavors...
+This patch comes in six different flavors...
 
 The Warrior of Argos (English).ips
---English Translation Patch (IPS Format)
+--English Translation Patch for Japanese ROM (IPS Format)
 The Warrior of Argos (English).bps
---English Translation Patch (BPS Format)
+--English Translation Patch for Japanese ROM (BPS Format)
+The Warrior of Argos B (English).ips
+--English Translation Patch for US Rygar v1 ROM (IPS Format)
+The Warrior of Argos B (English).bps
+--English Translation Patch for US Rygar v1 ROM (BPS Format)
+The Warrior of Argos C (English).ips
+--English Translation Patch for Europe Rygar ROM (IPS Format)
+The Warrior of Argos C (English).bps
+--English Translation Patch for Europe Rygar ROM (BPS Format)
+
 
 The patch requires the ROM with the following hashes...
 
