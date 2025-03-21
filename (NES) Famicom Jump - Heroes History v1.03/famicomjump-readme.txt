@@ -80,7 +80,7 @@ The following edits were made into the game's text
 
 v1.03
 
-The translation patch will now work on the Mesen/Mesen2 emulator (
+The translation patch will now work on the Mesen/Mesen2 emulator
 
 Special Thanks:
 
