@@ -6,7 +6,7 @@
 *Uchuu Keibitai SDF*
 ********************
 
-I was bored one day while waiting for other projects needing outside attention, so I worked on this game's title screen.  This game was relased in Japan only by HAL Laboratory.  What's notable about this game is its intense difficulty and that it had the late Satori Iwata credited as Technical Supervisor.
+I was bored one day while waiting for other projects needing outside attention, so I worked on this game's title screen.  This game was relased in Japan only by HAL Laboratory.  What's notable about this game is its intense difficulty and that it had the late Satoru Iwata credited as Technical Supervisor.
 
 The patch comes in two flavors...
 
