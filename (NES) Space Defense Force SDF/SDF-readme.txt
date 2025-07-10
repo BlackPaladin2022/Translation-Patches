@@ -8,6 +8,8 @@
 
 I was bored one day while waiting for other projects needing outside attention, so I worked on this game's title screen.  This game was relased in Japan only by HAL Laboratory.  What's notable about this game is its intense difficulty and that it had the late Satoru Iwata credited as Technical Supervisor.
 
+Note:  Until I say otherwise, I do NOT want this patch uploaded to Romhacking.net without my expressed permission.
+
 The patch comes in two flavors...
 
 Space Defense Force SDF (English).ips
