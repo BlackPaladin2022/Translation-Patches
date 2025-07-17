@@ -12,6 +12,8 @@ Rubas plan to ring seven bells to summons demons take over the kingdom of Willne
 
 This game was released released in the United States under the name, "Deadly Towers".  This patch was made almost entirely out of boredom and curiosity.
 
+Note:  Unless I say otherwise, I do not want this patch to be posted on RHDN without my expressed permission.
+
 This patch come in four flavors.
 
 Hell's Bells (English).ips
