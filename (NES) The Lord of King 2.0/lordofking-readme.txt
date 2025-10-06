@@ -48,6 +48,14 @@ ROM CRC32: B68F9814
 
 What changes have been done
 
+v2.0
+
+The game’s translated script has been further revised
+New font applied, including lower case letters
+Hidden ending credits translated and inserted
+Reset fix by TakuikaNinja applied (with his permission)
+Patches made for the Europe NES "Astyanax" ROM
+
 v1.1
 
 Game's script has been translated by PSXCraver.  (Thanks for helping out!)
