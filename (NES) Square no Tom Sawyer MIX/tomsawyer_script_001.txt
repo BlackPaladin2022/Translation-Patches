@@ -1,0 +1,423 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $18384 - STRING #0 @ $1BE23
+
+#W16($18384)
+[null]ハック[null][ED]
+
+
+//POINTER #1 @ $18386 - STRING #1 @ $1BE29
+
+#W16($18386)
+[null]ビリー[null][ED]
+
+
+//POINTER #2 @ $18388 - STRING #2 @ $1BE2F
+
+#W16($18388)
+[null]ジ ム[null][ED]
+
+
+//POINTER #3 @ $1838A - STRING #3 @ $1BE35
+
+#W16($1838A)
+[null]インディ[null][ED]
+
+
+//POINTER #4 @ $1838C - STRING #4 @ $1BE3C
+
+#W16($1838C)
+[null]ベ ン[null][ED]
+
+
+//POINTER #5 @ $1838E - STRING #5 @ $1BE42
+
+#W16($1838E)
+[null]ボ ブ[null][ED]
+
+
+//POINTER #6 @ $18390 - STRING #6 @ $1BE48
+
+#W16($18390)
+[null]エミー[null][ED]
+
+
+//POINTER #7 @ $18392 - STRING #7 @ $1BE4E
+
+#W16($18392)
+[null]ジョニー[null][ED]
+
+
+//POINTER #8 @ $18394 - STRING #8 @ $1BE55
+
+#W16($18394)
+[null]アルフレッド[null][ED]
+
+
+//POINTER #9 @ $18396 - STRING #9 @ $1BE5E
+
+#W16($18396)
+[null]ジョー[null][ED]
+
+
+//POINTER #10 @ $18398 - STRING #10 @ $1BE64
+
+#W16($18398)
+[null]ト ム[null][ED]
+
+
+//POINTER #11 @ $1839A - STRING #11 @ $1BE6A
+
+#W16($1839A)
+[null]ベッキー[null][ED]
+
+
+//POINTER #12 @ $1839C - STRING #12 @ $1BE71
+
+#W16($1839C)
+[null]サリー[null][ED]
+
+
+//POINTER #13 @ $1839E - STRING #13 @ $1BE77
+
+#W16($1839E)
+[null]ウィリー[null][ED]
+
+
+//POINTER #14 @ $183A0 - STRING #14 @ $1BE7E
+
+#W16($183A0)
+[null]シッド[null][ED]
+
+
+//POINTER #15 @ $183A2 - STRING #15 @ $1BE84
+
+#W16($183A2)
+[null]メアリー[null][ED]
+
+
+//POINTER #16 @ $183A4 - STRING #16 @ $1BE8B
+
+#W16($183A4)
+[null]ポリー[null][ED]
+
+
+//POINTER #17 @ $183A6 - STRING #17 @ $1BE91
+
+#W16($183A6)
+[null]ローラ[null][ED]
+
+
+//POINTER #18 @ $183A8 - STRING #18 @ $1BE97
+
+#W16($183A8)
+[null]ジャネット[null][ED]
+
+
+//POINTER #19 @ $183AA - STRING #19 @ $1BE9F
+
+#W16($183AA)
+[null]エース[null][ED]
+
+
+//POINTER #20 @ $183AC - STRING #20 @ $1BEA5
+
+#W16($183AC)
+[null]ジェミー[null][ED]
+
+
+//POINTER #21 @ $183AE - STRING #21 @ $1BEAC
+
+#W16($183AE)
+[null]グレーシー[null][ED]
+
+
+//POINTER #22 @ $183B0 - STRING #22 @ $1BEB4
+
+#W16($183B0)
+[null]ヘイズ[null][ED]
+
+
+//POINTER #23 @ $183B2 - STRING #23 @ $1BEBA
+
+#W16($183B2)
+[null]ジェフ[null][ED]
+
+
+//POINTER #24 @ $183B4 - STRING #24 @ $1BEC0
+
+#W16($183B4)
+[null]ウース[null][ED]
+
+
+//POINTER #25 @ $183B6 - STRING #25 @ $1BEC6
+
+#W16($183B6)
+[null]ソース[null][ED]
+
+
+//POINTER #26 @ $183B8 - STRING #26 @ $1BECC
+
+#W16($183B8)
+[null]ビ ル[null][ED]
+
+
+//POINTER #27 @ $183BA - STRING #27 @ $1BED2
+
+#W16($183BA)
+[null]ウォルターズ[null][ED]
+
+
+//POINTER #28 @ $183BC - STRING #28 @ $1BEDB
+
+#W16($183BC)
+[null]リチャード[null][ED]
+
+
+//POINTER #29 @ $183BE - STRING #29 @ $1BEE3
+
+#W16($183BE)
+[null]スーザン[null][ED]
+
+
+//POINTER #30 @ $183C0 - STRING #30 @ $1BEEA
+
+#W16($183C0)
+[null]ホワイト[null][ED]
+
+
+//POINTER #31 @ $183C2 - STRING #31 @ $1BEF1
+
+#W16($183C2)
+[null]シルバー[null][ED]
+
+
+//POINTER #32 @ $183C4 - STRING #32 @ $1BEF8
+
+#W16($183C4)
+[null]トレーシー[null][ED]
+
+
+//POINTER #33 @ $183C6 - STRING #33 @ $1BF00
+
+#W16($183C6)
+[null]ダグラス[null][ED]
+
+
+//POINTER #34 @ $183C8 - STRING #34 @ $1BF07
+
+#W16($183C8)
+[null]ホプキンス[null][ED]
+
+
+//POINTER #35 @ $183CA - STRING #35 @ $1BF0F
+
+#W16($183CA)
+[null]モーガン[null][ED]
+
+
+//POINTER #36 @ $183CC - STRING #36 @ $1BF16
+
+#W16($183CC)
+[null]パーマー[null][ED]
+
+
+//POINTER #37 @ $183CE - STRING #37 @ $1BF1D
+
+#W16($183CE)
+[null]ニクラウス[null][ED]
+
+
+//POINTER #38 @ $183D0 - STRING #38 @ $1BF25
+
+#W16($183D0)
+[null]アープ[null][ED]
+
+
+//POINTER #39 @ $183D2 - STRING #39 @ $1BF2B
+
+#W16($183D2)
+[null]ボ ス[null][ED]
+
+
+//POINTER #40 @ $183D4 - STRING #40 @ $1BF31
+
+#W16($183D4)
+[null]ジャック[null][ED]
+
+
+//POINTER #41 @ $183D6 - STRING #41 @ $1BF38
+
+#W16($183D6)
+[null]ワトソン[null][ED]
+
+
+//POINTER #42 @ $183D8 - STRING #42 @ $1BF3F
+
+#W16($183D8)
+[null]ワドキンス[null][ED]
+
+
+//POINTER #43 @ $183DA - STRING #43 @ $1BF47
+
+#W16($183DA)
+[null]ピーター[null][ED]
+
+
+//POINTER #44 @ $183DC - STRING #44 @ $1BF4E
+
+#W16($183DC)
+[null]ルーシー[null][ED]
+
+
+//POINTER #45 @ $183DE - STRING #45 @ $1BF55
+
+#W16($183DE)
+[null]チャーリー[null][ED]
+
+
+//POINTER #46 @ $183E0 - STRING #46 @ $1BF5D
+
+#W16($183E0)
+[null]クリス[null][ED]
+
+
+//POINTER #47 @ $183E2 - STRING #47 @ $1BF63
+
+#W16($183E2)
+[null]インジャン[null][ED]
+
+
+//POINTER #48 @ $183E4 - STRING #48 @ $1BF6B
+
+#W16($183E4)
+[null]マフポッター[null][ED]
+
+
+//POINTER #49 @ $183E6 - STRING #49 @ $1BF74
+
+#W16($183E6)
+[null]マイク[null][ED]
+
+
+//POINTER #50 @ $183E8 - STRING #50 @ $1BF7A
+
+#W16($183E8)
+[null]ドナルド[null][ED]
+
+
+//POINTER #51 @ $183EA - STRING #51 @ $1BF81
+
+#W16($183EA)
+[null]ハート[null][ED]
+
+
+//POINTER #52 @ $183EC - STRING #52 @ $1BF87
+
+#W16($183EC)
+[null]ブラウン[null][ED]
+
+
+//POINTER #53 @ $183EE - STRING #53 @ $1BF8E
+
+#W16($183EE)
+[null]フィリップ[null][ED]
+
+
+//POINTER #54 @ $183F0 - STRING #54 @ $1BF96
+
+#W16($183F0)
+[null]マーク[null][ED]
+
+
+//POINTER #55 @ $183F2 - STRING #55 @ $1BF9C
+
+#W16($183F2)
+[null]フランクリン[null][ED]
+
+
+//POINTER #56 @ $183F4 - STRING #56 @ $1BFA5
+
+#W16($183F4)
+[null]テンプル[null][ED]
+
+
+//POINTER #57 @ $183F6 - STRING #57 @ $1BFAC
+
+#W16($183F6)
+[null]ビッケ[null][ED]
+
+
+//POINTER #58 @ $183F8 - STRING #58 @ $1BFB2
+
+#W16($183F8)
+[null]サッチャー[null][ED]
+
+
+//POINTER #59 @ $183FA - STRING #59 @ $1BFBA
+
+#W16($183FA)
+[null]エリオット[null][ED]
+
+
+//POINTER #60 @ $183FC - STRING #60 @ $1BFC2
+
+#W16($183FC)
+[null]ホルスタイン[null][ED]
+
+
+//POINTER #61 @ $183FE - STRING #61 @ $1BFCB
+
+#W16($183FE)
+[null]ポ チ[null][ED]
+
+
+//POINTER #62 @ $18400 - STRING #62 @ $1BFD1
+
+#W16($18400)
+[null]ジョン[null][ED]
+
+
+//POINTER #63 @ $18402 - STRING #63 @ $1BFD7
+
+#W16($18402)
+[null]ホリス[null][ED]
+
+
+//POINTER #64 @ $18404 - STRING #64 @ $1BFDD
+
+#W16($18404)
+[null]フォスター[null][ED]
+
+
+//POINTER #65 @ $18406 - STRING #65 @ $1BFE5
+
+#W16($18406)
+[null]ヘンリー[null][ED]
+
+
+//POINTER #66 @ $18408 - STRING #66 @ $1BFEC
+
+#W16($18408)
+[null]デック[null][ED]
+
+
+//POINTER #67 @ $1840A - STRING #67 @ $1BFF2
+
+#W16($1840A)
+[null]ベ ス[null][ED]
+
+
+//POINTER #68 @ $1840C - STRING #68 @ $1BFF8
+
+#W16($1840C)
+[null]リ ン[null][ED]
+
+
+//POINTER #69 @ $1840E - STRING #69 @ $1BFFE
+
+#W16($1840E)
+[null]バックランド[ED]
+

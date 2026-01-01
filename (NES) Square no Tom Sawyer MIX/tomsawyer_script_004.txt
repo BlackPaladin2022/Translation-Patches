@@ -1,0 +1,58 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $29F30 - STRING #0 @ $29F84
+
+#W16($29F30)
+[ED]
+
+
+//POINTER #1 @ $29F32 - STRING #1 @ $29F3E
+
+#W16($29F32)
+ たたかう[BR]
+ ひっさつ[BR]
+ アイテム[BR]
+ [D0][BR]
+[ED]
+
+
+//POINTER #2 @ $29F34 - STRING #2 @ $29F84
+
+#W16($29F34)
+[ED]
+
+
+//POINTER #3 @ $29F36 - STRING #3 @ $29F54
+
+#W16($29F36)
+ たたかう[BR]
+ ひっさつ[BR]
+ [D0][BR]
+[ED]
+
+
+//POINTER #4 @ $29F38 - STRING #4 @ $29F64
+
+#W16($29F38)
+ ひっさつ[BR]
+ アイテム[BR]
+ [D0][BR]
+[ED]
+
+
+//POINTER #5 @ $29F3A - STRING #5 @ $29F74
+
+#W16($29F3A)
+ たたかう[BR]
+ アイテム[BR]
+ [D0][BR]
+[null]び[ED]
+
+
+//POINTER #6 @ $29F3C - STRING #6 @ $29F84
+
+#W16($29F3C)
+[ED]
+
