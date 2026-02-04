@@ -53,7 +53,7 @@ File CRC32: B758C962
 ROM SHA-1: 9317EF886D3744D4E38A09C8180D25A6B363382F
 ROM CRC32: 38778F4F
 
-Also, included with the translation patches and readme file, a folder called "script files" is included.  Inside the folder are multiple script files and English table file.  All script files are compatible with the program, "Atlas".
+Also, included with the translation patches and readme file, a ZIP file called "script files.zip" is included.  Inside this file are multiple script files and English table file.  All script files are compatible with the program, "Atlas".
 
 What's done?
 
