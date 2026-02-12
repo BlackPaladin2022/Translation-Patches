@@ -49,7 +49,8 @@ Mesen Team (Used their emulator for testing purposes)
 WindHex32 Team (Used their hex editor to edit the game)
 YY-CHR Team (Used their graphic editor to edit the game)
 giblet92 (Japanese to English Translation)
-Racoon Sam ("BOOM" graphics hacking assistance)
+Raccoon Sam ("BOOM" graphics hacking assistance)
 Konami (They made the game in the first place)
 
 All credits to "Moeru Twinbee: Cinabon Hakase wo Sukue" belong to their respective creators and programmers.  This patch is mainly for pure entertainment for those who cannot enjoy the game.  All right reserved.  (Konami, please don't come after me!)
+
