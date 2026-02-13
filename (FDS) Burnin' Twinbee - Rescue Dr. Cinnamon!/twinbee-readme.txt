@@ -44,6 +44,8 @@ v1.0
 
 Initial Release
 
+Special Thanks
+
 FCEUX Team (Used their emulator for testing purposes)
 Mesen Team (Used their emulator for testing purposes)
 WindHex32 Team (Used their hex editor to edit the game)
@@ -53,4 +55,5 @@ Raccoon Sam ("BOOM" graphics hacking assistance)
 Konami (They made the game in the first place)
 
 All credits to "Moeru Twinbee: Cinabon Hakase wo Sukue" belong to their respective creators and programmers.  This patch is mainly for pure entertainment for those who cannot enjoy the game.  All right reserved.  (Konami, please don't come after me!)
+
 
