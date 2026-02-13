@@ -58,6 +58,8 @@ Translated title screen fixed
 Translated secret moves realigned
 Fixed one untouched instance of "Engrish"
 
+Special Thanks
+
 Mesen Team (Used their emulator for testing purposes)
 YY-CHR Team (Used their graphic editor)
 Hokuto Renkitouza (Translated text from the game were used in the patch)
@@ -66,3 +68,4 @@ Tetsuo Hara (Co-creator of Fist of the North Star)
 Buronson (Co-creator of Fist of the North Star)
 
 All credits to "Hokuto no Ken 2: Seikimatsu Kyuuseishu Densetsu" belong to their respective creators and programmers.  This patch is mainly for pure entertainment for those who cannot enjoy the game.  All right reserved.  (Bandai, TOSE, Tetsuo Hara, Buronson, please don't come after me!)
+
