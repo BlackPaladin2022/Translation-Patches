@@ -65,6 +65,8 @@ v1.0
 
 Initial Release
 
+Special Thanks
+
 FCEUX Team (Used their emulator for testing purposes)
 Mesen Team (Used their emulator for testing purposes)
 YY-CHR Team (Used their graphic editor)
