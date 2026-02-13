@@ -52,6 +52,8 @@ v1.0
 
 Initial Release
 
+Special Thanks
+
 FCEUX Team (Used their emulator for testing purposes)
 Mesen Team (Used their emulator for testing purposes)
 YY-CHR Team (Used their graphic editor)
@@ -59,5 +61,6 @@ Just J (Japanese to English translation)
 Lazermutt4 (Translated Title Screen design)
 Bavi_H (Helped with hacking Yes/No menu box)
 FCAndChill (ROM Hacking)
+
 
 All credits to "Ultraman Club: Chikkyuu Dakkan Sakusen" belong to their respective creators and programmers.  This patch is mainly for pure entertainment for those who cannot enjoy the game.  All right reserved.  (Bandai, Tsurubaya Productions, please don't come after me!)
