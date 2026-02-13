@@ -65,6 +65,8 @@ City names were simply named "1st City", "2nd City", etc.
 
 v1.0 Initial Release
 
+Special Thanks
+
 Mesen Team (Used their emulator for testing purposes)
 FCEUX Team (Used their emulator for testing purposes)
 YY-CHR Team (Used their graphic editor)
@@ -73,3 +75,4 @@ Cyneprepou4uk (Helped hack the hard-coded default name)
 Klarth (Author of Atlas and Cartographer, programs used to extract and re-insert the scrip)
 
 All credits to "Reigen Doushi" or "Mr. Vampire" belong to their respective creators and programmers.  This patch is mainly for pure entertainment for those who cannot enjoy the game.  All right reserved.  (Pony Canyon, FCI, Golden Harvest, Paragon Films LTD., please don't come after me!)
+
