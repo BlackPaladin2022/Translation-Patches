@@ -1,0 +1,171 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2CDA7 - STRING #0 @ $2CDD7
+
+#W16($2CDA7)
+ ぐれん・まくれがー    26さい[FE]
+  かみのめをもつ おとこ[FF]
+
+
+//POINTER #1 @ $2CDA9 - STRING #1 @ $2CE62
+
+#W16($2CDA9)
+ でくろ・はういん     40さい[FE]
+  あかい しにがみ[FF]
+
+
+//POINTER #2 @ $2CDAB - STRING #2 @ $2CDFA
+
+#W16($2CDAB)
+ びる・らっくまん     28さい[FE]
+  こううんをよぶ おとこ[FF]
+
+
+//POINTER #3 @ $2CDAD - STRING #3 @ $2CE82
+
+#W16($2CDAD)
+ ろーら・るくせんぶるぐ  27さい[FE]
+  たびの おんな[FF]
+
+
+//POINTER #4 @ $2CDAF - STRING #4 @ $2CE1D
+
+#W16($2CDAF)
+ ぐらんつ・しゅみっと   35さい[FE]
+  はったりやぶりの めいじん[FF]
+
+
+//POINTER #5 @ $2CDB1 - STRING #5 @ $2CEA2
+
+#W16($2CDB1)
+ まーべる・ぶらうん    26さい[FE]
+ すいしょうだまうらないの おんな [FF]
+
+
+//POINTER #6 @ $2CDB3 - STRING #6 @ $2CE43
+
+#W16($2CDB3)
+ ぱ め ら        23さい[FE]
+  しの せっぷん[FF]
+
+
+//POINTER #7 @ $2CDB5 - STRING #7 @ $2CECB
+
+#W16($2CDB5)
+ おりびあ・しゃいあん   22さい[FE]
+  せんのかおを もつ おんな[FF]
+
+
+//POINTER #8 @ $2CDB7 - STRING #8 @ $2CEEF
+
+#W16($2CDB7)
+ ぜ う す        42さい[FE]
+  ぶらっくじゃっくの かみ[FF]
+
+
+//POINTER #9 @ $2CDB9 - STRING #9 @ $2CFCC
+
+#W16($2CDB9)
+ ばーすたー        31さい[FE]
+  はったりやぶりの めいじん[FF]
+
+
+//POINTER #10 @ $2CDBB - STRING #10 @ $2CF14
+
+#W16($2CDBB)
+ き ん ぐ        37さい[FE]
+  かじのの わたりどり[FF]
+
+
+//POINTER #11 @ $2CDBD - STRING #11 @ $2CFF2
+
+#W16($2CDBD)
+ ごーどん         45さい[FE]
+  ぶらっく・さうすぽー[FF]
+
+
+//POINTER #12 @ $2CDBF - STRING #12 @ $2CF37
+
+#W16($2CDBF)
+ あいるとん・らから    28さい[FE]
+  すこーぴおん さそりのいちげき[FF]
+
+
+//POINTER #13 @ $2CDC1 - STRING #13 @ $2CFA6
+
+#W16($2CDC1)
+ がーりー         29さい[FE]
+  きおくじゅつの でぃーらー[FF]
+
+
+//POINTER #14 @ $2CDC3 - STRING #14 @ $2CF5E
+
+#W16($2CDC3)
+ ぴーぴんぐ・とむ     20さい[FE]
+  のぞきや だい3のめ[FF]
+
+
+//POINTER #15 @ $2CDC5 - STRING #15 @ $2CF83
+
+#W16($2CDC5)
+ びんせんと        18さい[FE]
+  まよなかの しんでれら[FF]
+
+
+//POINTER #16 @ $2CDC7 - STRING #16 @ $2D016
+
+#W16($2CDC7)
+ わん・おぶ・さうざんど  88さい[FE]
+  でんせつの でぃーらー[FF]
+
+
+//POINTER #17 @ $2CDC9 - STRING #17 @ $2D0A6
+
+#W16($2CDC9)
+ ろーら・ぱとらいん    21さい[FE]
+  らいんの まじょ[FF]
+
+
+//POINTER #18 @ $2CDCB - STRING #18 @ $2D03C
+
+#W16($2CDCB)
+ き ら ー・K      46さい[FE]
+  しの 2ばんだい[FF]
+
+
+//POINTER #19 @ $2CDCD - STRING #19 @ $2D0C6
+
+#W16($2CDCD)
+ えどもんど・くーがー   43さい[FE]
+  ぜろの まじゅつし[FF]
+
+
+//POINTER #20 @ $2CDCF - STRING #20 @ $2D05C
+
+#W16($2CDCF)
+ じょん・てーらー     33さい[FE]
+  でぃーらーの おう[FF]
+
+
+//POINTER #21 @ $2CDD1 - STRING #21 @ $2D0EA
+
+#W16($2CDD1)
+ じゃっく・まーろん    26さい[FE]
+ぐうぜんと みすていくを きらうおとこ[FF]
+
+
+//POINTER #22 @ $2CDD3 - STRING #22 @ $2D07D
+
+#W16($2CDD3)
+ びりー・じえんなー    29さい[FE]
+  きまぐれ ほんぽう かわりもの[FF]
+
+
+//POINTER #23 @ $2CDD5 - STRING #23 @ $2D114
+
+#W16($2CDD5)
+ ふえありー・まりーん   19さい[FE]
+  ようせいの まりーん[FF]
+

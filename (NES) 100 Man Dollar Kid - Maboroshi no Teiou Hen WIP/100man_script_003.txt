@@ -1,0 +1,1374 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2B27A - STRING #0 @ $2B42A
+
+#W16($2B27A)
+かけきんは ＄30ー＄300 じゃ[FE]
+まちがえるなよ ぼうず！[FF]
+
+
+//POINTER #1 @ $2B27C - STRING #1 @ $2B44D
+
+#W16($2B27C)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #2 @ $2B27E - STRING #2 @ $2B45A
+
+#W16($2B27E)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #3 @ $2B280 - STRING #3 @ $2B46A
+
+#W16($2B280)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #4 @ $2B282 - STRING #4 @ $2B47B
+
+#W16($2B282)
+もう こうさんしてしまうのか？[FF]
+
+
+//POINTER #5 @ $2B284 - STRING #5 @ $2B48B
+
+#W16($2B284)
+くちほどにもないやつ！[FE]
+さらに しゅぎょうを つむがよい！[FF]
+
+
+//POINTER #6 @ $2B286 - STRING #6 @ $2B4AC
+
+#W16($2B286)
+どうやら おぬしの かち！[FE]
+わしの かんぱいじゃ！[FF]
+
+
+//POINTER #7 @ $2B288 - STRING #7 @ $2B4C9
+
+#W16($2B288)
+ぼうず おまえのまけじゃ！[FE]
+でなおしてきなさい！ ほほほ[FF]
+
+
+//POINTER #8 @ $2B28A - STRING #8 @ $2B4EA
+
+#W16($2B28A)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #9 @ $2B28C - STRING #9 @ $2B4F8
+
+#W16($2B28C)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #10 @ $2B28E - STRING #10 @ $2B506
+
+#W16($2B28E)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #11 @ $2B290 - STRING #11 @ $2B514
+
+#W16($2B290)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #12 @ $2B292 - STRING #12 @ $2B522
+
+#W16($2B292)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #13 @ $2B294 - STRING #13 @ $2B530
+
+#W16($2B294)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #14 @ $2B296 - STRING #14 @ $2B53E
+
+#W16($2B296)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #15 @ $2B298 - STRING #15 @ $2B54C
+
+#W16($2B298)
+ は ず れ ！[FF]
+
+
+//POINTER #16 @ $2B29A - STRING #16 @ $2B556
+
+#W16($2B29A)
+さあ ぼーず！[FE]
+すきな ところに かけてこい！[FF]
+
+
+//POINTER #17 @ $2B29C - STRING #17 @ $2B570
+
+#W16($2B29C)
+ほほほ もう わしのねらいめを[FE]
+よんできおったか！[FF]
+
+
+//POINTER #18 @ $2B29E - STRING #18 @ $2B58B
+
+#W16($2B29E)
+ぼーず うんや ぐうぜん[FE]
+だけでは かてぬぞ！[FF]
+
+
+//POINTER #19 @ $2B2A0 - STRING #19 @ $2B5AA
+
+#W16($2B2A0)
+わしは でんせつのでぃーらーと[FE]
+よばれているが なぜか わかるかな？[FF]
+
+
+//POINTER #20 @ $2B2A2 - STRING #20 @ $2B5D2
+
+#W16($2B2A2)
+さあ ぼーず！ かかってこい！[FF]
+
+
+//POINTER #21 @ $2B2A4 - STRING #21 @ $2B5E4
+
+#W16($2B2A4)
+おまえは ほんもののぎゃんぶらーに[FE]
+なりたいのじゃろ？[FF]
+
+
+//POINTER #22 @ $2B2A6 - STRING #22 @ $2B603
+
+#W16($2B2A6)
+わしは いかさまは せぬぞ！[FF]
+
+
+//POINTER #23 @ $2B2A8 - STRING #23 @ $2B613
+
+#W16($2B2A8)
+しかし おまえの とうしは[FE]
+たいしたもんじゃのお！[FF]
+
+
+//POINTER #24 @ $2B2AA - STRING #24 @ $2B62E
+
+#W16($2B2AA)
+ひさしぶりに でんせつのわざを[FE]
+ためしてみるか[FF]
+
+
+//POINTER #25 @ $2B2AC - STRING #25 @ $2B649
+
+#W16($2B2AC)
+わしのねらいに[FE]
+きがついたかな？[FF]
+
+
+//POINTER #26 @ $2B2AE - STRING #26 @ $2B65B
+
+#W16($2B2AE)
+べっと しなおしますか？[FF]
+
+
+//POINTER #27 @ $2B2B0 - STRING #27 @ $2B669
+
+#W16($2B2B0)
+かけきんは ＄15ー＄150 だ！[FE]
+まちがえるなよ こぞう！[FF]
+
+
+//POINTER #28 @ $2B2B2 - STRING #28 @ $2B44D
+
+#W16($2B2B2)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #29 @ $2B2B4 - STRING #29 @ $2B45A
+
+#W16($2B2B4)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #30 @ $2B2B6 - STRING #30 @ $2B46A
+
+#W16($2B2B6)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #31 @ $2B2B8 - STRING #31 @ $2B68B
+
+#W16($2B2B8)
+げーむを なげだすのか？[FF]
+
+
+//POINTER #32 @ $2B2BA - STRING #32 @ $2B69B
+
+#W16($2B2BA)
+また こい！ あいてになってやる！[FF]
+
+
+//POINTER #33 @ $2B2BC - STRING #33 @ $2B6AD
+
+#W16($2B2BC)
+や やられた！[FE]
+わたしの まけだ！[FF]
+
+
+//POINTER #34 @ $2B2BE - STRING #34 @ $2B6C0
+
+#W16($2B2BE)
+わるあがきも それまでだな！[FE]
+わたしの かちだ！[FF]
+
+
+//POINTER #35 @ $2B2C0 - STRING #35 @ $2B4EA
+
+#W16($2B2C0)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #36 @ $2B2C2 - STRING #36 @ $2B4F8
+
+#W16($2B2C2)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #37 @ $2B2C4 - STRING #37 @ $2B506
+
+#W16($2B2C4)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #38 @ $2B2C6 - STRING #38 @ $2B514
+
+#W16($2B2C6)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #39 @ $2B2C8 - STRING #39 @ $2B522
+
+#W16($2B2C8)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #40 @ $2B2CA - STRING #40 @ $2B530
+
+#W16($2B2CA)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #41 @ $2B2CC - STRING #41 @ $2B53E
+
+#W16($2B2CC)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #42 @ $2B2CE - STRING #42 @ $2B54C
+
+#W16($2B2CE)
+ は ず れ ！[FF]
+
+
+//POINTER #43 @ $2B2D0 - STRING #43 @ $2B6DD
+
+#W16($2B2D0)
+みていろ！ こんどは[FE]
+せなかごしに たまをいれるぞ！[FF]
+
+
+//POINTER #44 @ $2B2D2 - STRING #44 @ $2B6FB
+
+#W16($2B2D2)
+こんどは ひだりてで[FE]
+たまを いれるぞ！[FF]
+
+
+//POINTER #45 @ $2B2D4 - STRING #45 @ $2B714
+
+#W16($2B2D4)
+ぷはーっ！ きょうも げんきだ[FE]
+はまきが うまい！[FF]
+
+
+//POINTER #46 @ $2B2D6 - STRING #46 @ $2B732
+
+#W16($2B2D6)
+ぎゃんぶるは にげごしに[FE]
+なったら おしまいだぜ！[FF]
+
+
+//POINTER #47 @ $2B2D8 - STRING #47 @ $2B752
+
+#W16($2B2D8)
+こんどは めを とじて[FE]
+たまを いれてみせる！[FF]
+
+
+//POINTER #48 @ $2B2DA - STRING #48 @ $2B76C
+
+#W16($2B2DA)
+くっくっく おまえの その[FE]
+こんじょうだけは みとめよう！[FF]
+
+
+//POINTER #49 @ $2B2DC - STRING #49 @ $2B78C
+
+#W16($2B2DC)
+おまえの ねらっているところに[FE]
+いれてやろうかな[FF]
+
+
+//POINTER #50 @ $2B2DE - STRING #50 @ $2B7A5
+
+#W16($2B2DE)
+おれのくせを よもうとしても[FE]
+むだなことだ！[FF]
+
+
+//POINTER #51 @ $2B2E0 - STRING #51 @ $2B7BE
+
+#W16($2B2E0)
+おまえには でたらめな[FE]
+なげかたに みえるかもな[FF]
+
+
+//POINTER #52 @ $2B2E2 - STRING #52 @ $2B7D9
+
+#W16($2B2E2)
+おまえのかんなど あたりはしない！[FF]
+
+
+//POINTER #53 @ $2B2E4 - STRING #53 @ $2B65B
+
+#W16($2B2E4)
+べっと しなおしますか？[FF]
+
+
+//POINTER #54 @ $2B2E6 - STRING #54 @ $2B7EC
+
+#W16($2B2E6)
+かけきんは ＄12ー＄120 です[FE]
+よろしいですね？[FF]
+
+
+//POINTER #55 @ $2B2E8 - STRING #55 @ $2B44D
+
+#W16($2B2E8)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #56 @ $2B2EA - STRING #56 @ $2B45A
+
+#W16($2B2EA)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #57 @ $2B2EC - STRING #57 @ $2B46A
+
+#W16($2B2EC)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #58 @ $2B2EE - STRING #58 @ $2B809
+
+#W16($2B2EE)
+おや？ もう おかえりですか？[FF]
+
+
+//POINTER #59 @ $2B2F0 - STRING #59 @ $2B81A
+
+#W16($2B2F0)
+また おこしください[FF]
+
+
+//POINTER #60 @ $2B2F2 - STRING #60 @ $2B826
+
+#W16($2B2F2)
+ま まさか このわたしが[FE]
+まけるとは してやられた！[FF]
+
+
+//POINTER #61 @ $2B2F4 - STRING #61 @ $2B842
+
+#W16($2B2F4)
+おかねがないのなら[FE]
+おかえりください！[FF]
+
+
+//POINTER #62 @ $2B2F6 - STRING #62 @ $2B4EA
+
+#W16($2B2F6)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #63 @ $2B2F8 - STRING #63 @ $2B4F8
+
+#W16($2B2F8)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #64 @ $2B2FA - STRING #64 @ $2B506
+
+#W16($2B2FA)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #65 @ $2B2FC - STRING #65 @ $2B514
+
+#W16($2B2FC)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #66 @ $2B2FE - STRING #66 @ $2B522
+
+#W16($2B2FE)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #67 @ $2B300 - STRING #67 @ $2B530
+
+#W16($2B300)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #68 @ $2B302 - STRING #68 @ $2B53E
+
+#W16($2B302)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #69 @ $2B304 - STRING #69 @ $2B54C
+
+#W16($2B304)
+ は ず れ ！[FF]
+
+
+//POINTER #70 @ $2B306 - STRING #70 @ $2B858
+
+#W16($2B306)
+いってんがけが あたれば[FE]
+36ばいの はいとうですよ！[FF]
+
+
+//POINTER #71 @ $2B308 - STRING #71 @ $2B879
+
+#W16($2B308)
+ねらっために たまを いれるのは[FE]
+かんたんなことです！[FF]
+
+
+//POINTER #72 @ $2B30A - STRING #72 @ $2B896
+
+#W16($2B30A)
+わたしを でぃーらーのおうと[FE]
+よぶひともいます！[FF]
+
+
+//POINTER #73 @ $2B30C - STRING #73 @ $2B8B1
+
+#W16($2B30C)
+やるなら はやく おかけください！[FF]
+
+
+//POINTER #74 @ $2B30E - STRING #74 @ $2B8C4
+
+#W16($2B30E)
+わたしは ねらったところに[FE]
+いれられるのですよ！[FF]
+
+
+//POINTER #75 @ $2B310 - STRING #75 @ $2B8DE
+
+#W16($2B310)
+ただ かけているだけでは[FE]
+かてませんよ！[FF]
+
+
+//POINTER #76 @ $2B312 - STRING #76 @ $2B8F6
+
+#W16($2B312)
+たまを なげいれるときの[FE]
+ちからかげんが こつなのです！[FF]
+
+
+//POINTER #77 @ $2B314 - STRING #77 @ $2B917
+
+#W16($2B314)
+いのったって むだですよ！[FF]
+
+
+//POINTER #78 @ $2B316 - STRING #78 @ $2B927
+
+#W16($2B316)
+わたしの ねらいめは[FE]
+ぜったいに みやぶられない！[FF]
+
+
+//POINTER #79 @ $2B318 - STRING #79 @ $2B943
+
+#W16($2B318)
+きみのまけは もうみえている！[FF]
+
+
+//POINTER #80 @ $2B31A - STRING #80 @ $2B65B
+
+#W16($2B31A)
+べっと しなおしますか？[FF]
+
+
+//POINTER #81 @ $2B31C - STRING #81 @ $2B953
+
+#W16($2B31C)
+かけきんは ＄5ー＄50 だ[FE]
+さあ！ どこでも かけな！[FF]
+
+
+//POINTER #82 @ $2B31E - STRING #82 @ $2B44D
+
+#W16($2B31E)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #83 @ $2B320 - STRING #83 @ $2B45A
+
+#W16($2B320)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #84 @ $2B322 - STRING #84 @ $2B46A
+
+#W16($2B322)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #85 @ $2B324 - STRING #85 @ $2B973
+
+#W16($2B324)
+なに！ やめちまうのかい？[FF]
+
+
+//POINTER #86 @ $2B326 - STRING #86 @ $2B981
+
+#W16($2B326)
+かってにしろ！[FF]
+
+
+//POINTER #87 @ $2B328 - STRING #87 @ $2B989
+
+#W16($2B328)
+こ こんな ばかな！[FE]
+おれの かんぱいだ！[FF]
+
+
+//POINTER #88 @ $2B32A - STRING #88 @ $2B9A2
+
+#W16($2B32A)
+わーっ はっはっは おれのかちだ！[FF]
+
+
+//POINTER #89 @ $2B32C - STRING #89 @ $2B4EA
+
+#W16($2B32C)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #90 @ $2B32E - STRING #90 @ $2B4F8
+
+#W16($2B32E)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #91 @ $2B330 - STRING #91 @ $2B506
+
+#W16($2B330)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #92 @ $2B332 - STRING #92 @ $2B514
+
+#W16($2B332)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #93 @ $2B334 - STRING #93 @ $2B522
+
+#W16($2B334)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #94 @ $2B336 - STRING #94 @ $2B530
+
+#W16($2B336)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #95 @ $2B338 - STRING #95 @ $2B53E
+
+#W16($2B338)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #96 @ $2B33A - STRING #96 @ $2B54C
+
+#W16($2B33A)
+ は ず れ ！[FF]
+
+
+//POINTER #97 @ $2B33C - STRING #97 @ $2B9B5
+
+#W16($2B33C)
+つぎは 5でも ねらってみるか！[FF]
+
+
+//POINTER #98 @ $2B33E - STRING #98 @ $2B9C8
+
+#W16($2B33E)
+かいてんばんの すうじを[FE]
+よく みてろ！[FF]
+
+
+//POINTER #99 @ $2B340 - STRING #99 @ $2B9DF
+
+#W16($2B340)
+つぎは 30を ねらってみるぜ！[FF]
+
+
+//POINTER #100 @ $2B342 - STRING #100 @ $2B9F2
+
+#W16($2B342)
+1かしょに まとめて かけるのは[FE]
+ゆうきのいることだな[FF]
+
+
+//POINTER #101 @ $2B344 - STRING #101 @ $2BA0F
+
+#W16($2B344)
+さけを のみすぎたかな ひっく！[FF]
+
+
+//POINTER #102 @ $2B346 - STRING #102 @ $2BA21
+
+#W16($2B346)
+さて！ つぎは 22に いれてみるか！[FF]
+
+
+//POINTER #103 @ $2B348 - STRING #103 @ $2BA36
+
+#W16($2B348)
+あまいぜ！ ぼうや！ ふふ[FF]
+
+
+//POINTER #104 @ $2B34A - STRING #104 @ $2BA46
+
+#W16($2B34A)
+そういえば にかいどう ひろし[FE]
+ってのが いたなあ[FF]
+
+
+//POINTER #105 @ $2B34C - STRING #105 @ $2BA63
+
+#W16($2B34C)
+おめえの おもいどうりにゃ[FE]
+いかねえぜ！[FF]
+
+
+//POINTER #106 @ $2B34E - STRING #106 @ $2BA7A
+
+#W16($2B34E)
+ふふふ おれのわざが[FE]
+よめたってのか？[FF]
+
+
+//POINTER #107 @ $2B350 - STRING #107 @ $2B65B
+
+#W16($2B350)
+べっと しなおしますか？[FF]
+
+
+//POINTER #108 @ $2B352 - STRING #108 @ $2BA90
+
+#W16($2B352)
+かけきんは ＄4ー＄40 よ[FE]
+まちがえないでね！[FF]
+
+
+//POINTER #109 @ $2B354 - STRING #109 @ $2B44D
+
+#W16($2B354)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #110 @ $2B356 - STRING #110 @ $2B45A
+
+#W16($2B356)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #111 @ $2B358 - STRING #111 @ $2B46A
+
+#W16($2B358)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #112 @ $2B35A - STRING #112 @ $2BAAB
+
+#W16($2B35A)
+まだ しょうぶがつかないのに[FE]
+やめてしまうの？[FF]
+
+
+//POINTER #113 @ $2B35C - STRING #113 @ $2BAC6
+
+#W16($2B35C)
+また いらっしゃい！[FE]
+いつでも あいてになるわよ！[FF]
+
+
+//POINTER #114 @ $2B35E - STRING #114 @ $2BAE1
+
+#W16($2B35E)
+まけたわ！ さすがね ぼうや！[FF]
+
+
+//POINTER #115 @ $2B360 - STRING #115 @ $2BAF3
+
+#W16($2B360)
+これまでよ！ あなたのまけね！[FF]
+
+
+//POINTER #116 @ $2B362 - STRING #116 @ $2B4EA
+
+#W16($2B362)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #117 @ $2B364 - STRING #117 @ $2B4F8
+
+#W16($2B364)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #118 @ $2B366 - STRING #118 @ $2B506
+
+#W16($2B366)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #119 @ $2B368 - STRING #119 @ $2B514
+
+#W16($2B368)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #120 @ $2B36A - STRING #120 @ $2B522
+
+#W16($2B36A)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #121 @ $2B36C - STRING #121 @ $2B530
+
+#W16($2B36C)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #122 @ $2B36E - STRING #122 @ $2B53E
+
+#W16($2B36E)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #123 @ $2B370 - STRING #123 @ $2B54C
+
+#W16($2B370)
+ は ず れ ！[FF]
+
+
+//POINTER #124 @ $2B372 - STRING #124 @ $2BB04
+
+#W16($2B372)
+つぎは きすう かしら？[FF]
+
+
+//POINTER #125 @ $2B374 - STRING #125 @ $2BB12
+
+#W16($2B374)
+つぎは ぐうすう かもね！[FF]
+
+
+//POINTER #126 @ $2B376 - STRING #126 @ $2BB22
+
+#W16($2B376)
+いかさまなんて[FE]
+しなくてよ ぼうや！[FF]
+
+
+//POINTER #127 @ $2B378 - STRING #127 @ $2BB36
+
+#W16($2B378)
+いっそのこと あかーくろ で[FE]
+しょうぶしたら？[FF]
+
+
+//POINTER #128 @ $2B37A - STRING #128 @ $2BB50
+
+#W16($2B37A)
+だいーちゅうーしょう という[FE]
+かけかたも あるのよ！[FF]
+
+
+//POINTER #129 @ $2B37C - STRING #129 @ $2BB6C
+
+#W16($2B37C)
+ぜんはんーこうはん という[FE]
+かけかたも あるんだけど[FF]
+
+
+//POINTER #130 @ $2B37E - STRING #130 @ $2BB8A
+
+#W16($2B37E)
+1れつー2れつー3れつ という[FE]
+かけかたも おぼえてね！[FF]
+
+
+//POINTER #131 @ $2B380 - STRING #131 @ $2BBA8
+
+#W16($2B380)
+1と 34の あいだ！[FE]
+これは だいひんとよ！[FF]
+
+
+//POINTER #132 @ $2B382 - STRING #132 @ $2BBC2
+
+#W16($2B382)
+わたしのわざが よめるかしら？[FF]
+
+
+//POINTER #133 @ $2B384 - STRING #133 @ $2BBD4
+
+#W16($2B384)
+1てんがけは あたる[FE]
+かくりつが ひくいわよ！[FF]
+
+
+//POINTER #134 @ $2B386 - STRING #134 @ $2B65B
+
+#W16($2B386)
+べっと しなおしますか？[FF]
+
+
+//POINTER #135 @ $2B388 - STRING #135 @ $2BBEE
+
+#W16($2B388)
+かけきんは ＄3ー＄30 だ！[FE]
+まちがえないでもらいたい！[FF]
+
+
+//POINTER #136 @ $2B38A - STRING #136 @ $2B44D
+
+#W16($2B38A)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #137 @ $2B38C - STRING #137 @ $2B45A
+
+#W16($2B38C)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #138 @ $2B38E - STRING #138 @ $2B46A
+
+#W16($2B38E)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #139 @ $2B390 - STRING #139 @ $2BC0F
+
+#W16($2B390)
+しょうぶを あきらめるのか？[FF]
+
+
+//POINTER #140 @ $2B392 - STRING #140 @ $2BC1F
+
+#W16($2B392)
+こんじょうのないやつめ！[FF]
+
+
+//POINTER #141 @ $2B394 - STRING #141 @ $2BC2D
+
+#W16($2B394)
+そ そんな ばかな！[FE]
+このしょうぶ わたしのまけだ！[FF]
+
+
+//POINTER #142 @ $2B396 - STRING #142 @ $2BC4B
+
+#W16($2B396)
+しょうぶは これまで！[FE]
+わたしの かちだ！[FF]
+
+
+//POINTER #143 @ $2B398 - STRING #143 @ $2B4EA
+
+#W16($2B398)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #144 @ $2B39A - STRING #144 @ $2B4F8
+
+#W16($2B39A)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #145 @ $2B39C - STRING #145 @ $2B506
+
+#W16($2B39C)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #146 @ $2B39E - STRING #146 @ $2B514
+
+#W16($2B39E)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #147 @ $2B3A0 - STRING #147 @ $2B522
+
+#W16($2B3A0)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #148 @ $2B3A2 - STRING #148 @ $2B530
+
+#W16($2B3A2)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #149 @ $2B3A4 - STRING #149 @ $2B53E
+
+#W16($2B3A4)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #150 @ $2B3A6 - STRING #150 @ $2B54C
+
+#W16($2B3A6)
+ は ず れ ！[FF]
+
+
+//POINTER #151 @ $2B3A8 - STRING #151 @ $2BC64
+
+#W16($2B3A8)
+いくぞ！[FF]
+
+
+//POINTER #152 @ $2B3AA - STRING #152 @ $2BC6A
+
+#W16($2B3AA)
+なぜ わたしが0のまじゅつしと[FE]
+よばれるか しっているか？[FF]
+
+
+//POINTER #153 @ $2B3AC - STRING #153 @ $2BC8C
+
+#W16($2B3AC)
+おとこなら 1てんがけで[FE]
+しょうぶしてみろ！[FF]
+
+
+//POINTER #154 @ $2B3AE - STRING #154 @ $2BCA6
+
+#W16($2B3AE)
+ふふ おれの ねらいめが[FE]
+よめるかな？[FF]
+
+
+//POINTER #155 @ $2B3B0 - STRING #155 @ $2BCBB
+
+#W16($2B3B0)
+いかさまなんか しちゃいないぜ！[FF]
+
+
+//POINTER #156 @ $2B3B2 - STRING #156 @ $2BCCD
+
+#W16($2B3B2)
+おまえも たんじゅんなやつだな！[FF]
+
+
+//POINTER #157 @ $2B3B4 - STRING #157 @ $2BCE0
+
+#W16($2B3B4)
+さて！ みぎを ねらうかな？[FF]
+
+
+//POINTER #158 @ $2B3B6 - STRING #158 @ $2BCF0
+
+#W16($2B3B6)
+さて！ ひだりを ねらうかな？[FF]
+
+
+//POINTER #159 @ $2B3B8 - STRING #159 @ $2BD01
+
+#W16($2B3B8)
+そんなかけかた ばかり[FE]
+していて いいのか？[FF]
+
+
+//POINTER #160 @ $2B3BA - STRING #160 @ $2BD19
+
+#W16($2B3BA)
+さあ おもいきって かけてみろ！[FF]
+
+
+//POINTER #161 @ $2B3BC - STRING #161 @ $2B65B
+
+#W16($2B3BC)
+べっと しなおしますか？[FF]
+
+
+//POINTER #162 @ $2B3BE - STRING #162 @ $2BD2A
+
+#W16($2B3BE)
+かけきんは ＄2ー＄20 だ[FE]
+みすていくは するなよ！[FF]
+
+
+//POINTER #163 @ $2B3C0 - STRING #163 @ $2B44D
+
+#W16($2B3C0)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #164 @ $2B3C2 - STRING #164 @ $2B45A
+
+#W16($2B3C2)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #165 @ $2B3C4 - STRING #165 @ $2B46A
+
+#W16($2B3C4)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #166 @ $2B3C6 - STRING #166 @ $2BD47
+
+#W16($2B3C6)
+げーむのとちゅうだが いいのか？[FF]
+
+
+//POINTER #167 @ $2B3C8 - STRING #167 @ $2BD5B
+
+#W16($2B3C8)
+かならず またこいよ！[FF]
+
+
+//POINTER #168 @ $2B3CA - STRING #168 @ $2BD68
+
+#W16($2B3CA)
+まけたよ！ おまえには[FF]
+
+
+//POINTER #169 @ $2B3CC - STRING #169 @ $2BD74
+
+#W16($2B3CC)
+おれの かちだ！[FE]
+うでを みがいて でなおせ！[FF]
+
+
+//POINTER #170 @ $2B3CE - STRING #170 @ $2B4EA
+
+#W16($2B3CE)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #171 @ $2B3D0 - STRING #171 @ $2B4F8
+
+#W16($2B3D0)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #172 @ $2B3D2 - STRING #172 @ $2B506
+
+#W16($2B3D2)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #173 @ $2B3D4 - STRING #173 @ $2B514
+
+#W16($2B3D4)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #174 @ $2B3D6 - STRING #174 @ $2B522
+
+#W16($2B3D6)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #175 @ $2B3D8 - STRING #175 @ $2B530
+
+#W16($2B3D8)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #176 @ $2B3DA - STRING #176 @ $2B53E
+
+#W16($2B3DA)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #177 @ $2B3DC - STRING #177 @ $2B54C
+
+#W16($2B3DC)
+ は ず れ ！[FF]
+
+
+//POINTER #178 @ $2B3DE - STRING #178 @ $2BD90
+
+#W16($2B3DE)
+さあ かけてみろ！[FF]
+
+
+//POINTER #179 @ $2B3E0 - STRING #179 @ $2BD9A
+
+#W16($2B3E0)
+00に いれてもらいたいだろ？[FF]
+
+
+//POINTER #180 @ $2B3E2 - STRING #180 @ $2BDAB
+
+#W16($2B3E2)
+おれに くせなどあるもんか！[FF]
+
+
+//POINTER #181 @ $2B3E4 - STRING #181 @ $2BDBB
+
+#W16($2B3E4)
+おまえに かちめはない！[FF]
+
+
+//POINTER #182 @ $2B3E6 - STRING #182 @ $2BDC8
+
+#W16($2B3E6)
+おまえに おれのわざの[FE]
+ひみつが わかるか？[FF]
+
+
+//POINTER #183 @ $2B3E8 - STRING #183 @ $2BDE1
+
+#W16($2B3E8)
+さて つぎは しょうぶどころだ！[FF]
+
+
+//POINTER #184 @ $2B3EA - STRING #184 @ $2BDF6
+
+#W16($2B3EA)
+そろそろ ぎぶあっぷ[FE]
+したらどうかね？[FF]
+
+
+//POINTER #185 @ $2B3EC - STRING #185 @ $2BE0E
+
+#W16($2B3EC)
+つぎは 0に いれてみようか？[FF]
+
+
+//POINTER #186 @ $2B3EE - STRING #186 @ $2BE1F
+
+#W16($2B3EE)
+かいてんばんの はいれつを[FE]
+よく みておくがいい！[FF]
+
+
+//POINTER #187 @ $2B3F0 - STRING #187 @ $2BE3B
+
+#W16($2B3F0)
+おまえは かなりのじしんかだな！[FF]
+
+
+//POINTER #188 @ $2B3F2 - STRING #188 @ $2B65B
+
+#W16($2B3F2)
+べっと しなおしますか？[FF]
+
+
+//POINTER #189 @ $2B3F4 - STRING #189 @ $2BE4E
+
+#W16($2B3F4)
+かけきんは ＄1ー＄10 よ[FE]
+まちがえないでね！[FF]
+
+
+//POINTER #190 @ $2B3F6 - STRING #190 @ $2B44D
+
+#W16($2B3F6)
+かけきんを どうぞ！[FF]
+
+
+//POINTER #191 @ $2B3F8 - STRING #191 @ $2B45A
+
+#W16($2B3F8)
+きんがくが おおすぎる！[FF]
+
+
+//POINTER #192 @ $2B3FA - STRING #192 @ $2B46A
+
+#W16($2B3FA)
+きんがくが すくなすぎる！[FF]
+
+
+//POINTER #193 @ $2B3FC - STRING #193 @ $2BE69
+
+#W16($2B3FC)
+おもしろく なってきたのに[FE]
+やめちゃうの？[FF]
+
+
+//POINTER #194 @ $2B3FE - STRING #194 @ $2BE7F
+
+#W16($2B3FE)
+あら ざんねん！[FF]
+
+
+//POINTER #195 @ $2B400 - STRING #195 @ $2BE89
+
+#W16($2B400)
+わたしの まけだわ！[FE]
+こつを おぼえたみたいね！[FF]
+
+
+//POINTER #196 @ $2B402 - STRING #196 @ $2BEA4
+
+#W16($2B402)
+わたしの かちよ！[FE]
+あなたは まぼろしに まけたのよ！[FF]
+
+
+//POINTER #197 @ $2B404 - STRING #197 @ $2B4EA
+
+#W16($2B404)
+ 36 ばい  あたり！[FF]
+
+
+//POINTER #198 @ $2B406 - STRING #198 @ $2B4F8
+
+#W16($2B406)
+ 18 ばい  あたり！[FF]
+
+
+//POINTER #199 @ $2B408 - STRING #199 @ $2B506
+
+#W16($2B408)
+ 12 ばい  あたり！[FF]
+
+
+//POINTER #200 @ $2B40A - STRING #200 @ $2B514
+
+#W16($2B40A)
+  9 ばい  あたり！[FF]
+
+
+//POINTER #201 @ $2B40C - STRING #201 @ $2B522
+
+#W16($2B40C)
+  6 ばい  あたり！[FF]
+
+
+//POINTER #202 @ $2B40E - STRING #202 @ $2B530
+
+#W16($2B40E)
+  3 ばい  あたり！[FF]
+
+
+//POINTER #203 @ $2B410 - STRING #203 @ $2B53E
+
+#W16($2B410)
+  2 ばい  あたり！[FF]
+
+
+//POINTER #204 @ $2B412 - STRING #204 @ $2B54C
+
+#W16($2B412)
+ は ず れ ！[FF]
+
+
+//POINTER #205 @ $2B414 - STRING #205 @ $2BEC1
+
+#W16($2B414)
+だいーちゅうーしょう の[FE]
+かけかたを ためしてみた？[FF]
+
+
+//POINTER #206 @ $2B416 - STRING #206 @ $2BEDD
+
+#W16($2B416)
+1ー2ー3 れつ の[FE]
+かけかたなんて どうかしら？[FF]
+
+
+//POINTER #207 @ $2B418 - STRING #207 @ $2BEF8
+
+#W16($2B418)
+0を ねらってみせるわ！[FE]
+かいてんばんを よくみて！[FF]
+
+
+//POINTER #208 @ $2B41A - STRING #208 @ $2BF14
+
+#W16($2B41A)
+00を ねらってみせるわ！[FE]
+かいてんばんを よくみて！[FF]
+
+
+//POINTER #209 @ $2B41C - STRING #209 @ $2BF31
+
+#W16($2B41C)
+ひんと！ 4と 6の あいだ！[FF]
+
+
+//POINTER #210 @ $2B41E - STRING #210 @ $2BF42
+
+#W16($2B41E)
+1てんがけ してみてね！[FE]
+いまは なんがつ？[FF]
+
+
+//POINTER #211 @ $2B420 - STRING #211 @ $2BF5B
+
+#W16($2B420)
+でぃーらーの ことばと[FE]
+でたすうじを めも してね！[FF]
+
+
+//POINTER #212 @ $2B422 - STRING #212 @ $2BF7A
+
+#W16($2B422)
+つぎは ぐうすう かな？[FF]
+
+
+//POINTER #213 @ $2B424 - STRING #213 @ $2BF89
+
+#W16($2B424)
+あたまを つかって[FE]
+よーく かんがえて！[FF]
+
+
+//POINTER #214 @ $2B426 - STRING #214 @ $2BF9F
+
+#W16($2B426)
+かいてんばんの すうじの[FE]
+ならびを よくしらべることね！[FF]
+
+
+//POINTER #215 @ $2B428 - STRING #215 @ $2B65B
+
+#W16($2B428)
+べっと しなおしますか？[FF]
+

@@ -1,0 +1,51 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2ADC8 - STRING #0 @ $2ADD8
+
+#W16($2ADC8)
+さうざんど[FF]
+
+
+//POINTER #1 @ $2ADCA - STRING #1 @ $2ADE0
+
+#W16($2ADCA)
+きらー[FF]
+
+
+//POINTER #2 @ $2ADCC - STRING #2 @ $2ADE4
+
+#W16($2ADCC)
+てーらー[FF]
+
+
+//POINTER #3 @ $2ADCE - STRING #3 @ $2ADE9
+
+#W16($2ADCE)
+びりー[FF]
+
+
+//POINTER #4 @ $2ADD0 - STRING #4 @ $2ADEE
+
+#W16($2ADD0)
+ぱとらいん[FF]
+
+
+//POINTER #5 @ $2ADD2 - STRING #5 @ $2ADF5
+
+#W16($2ADD2)
+くーがー[FF]
+
+
+//POINTER #6 @ $2ADD4 - STRING #6 @ $2ADFB
+
+#W16($2ADD4)
+じゃっく[FF]
+
+
+//POINTER #7 @ $2ADD6 - STRING #7 @ $2AE01
+
+#W16($2ADD6)
+まりーん[FF]
+

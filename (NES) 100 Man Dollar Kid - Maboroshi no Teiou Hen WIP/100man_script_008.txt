@@ -1,0 +1,190 @@
+//GAME NAME:		
+
+//BLOCK #008 NAME:		Dialogue Block 08 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2DAE7 - STRING #0 @ $2DB69
+
+#W16($2DAE7)
+ーーーー100まん＄きっどーーーー[FE]
+    すたっふ・しょうかい    [FF]
+
+
+//POINTER #1 @ $2DAE9 - STRING #1 @ $2DB8F
+
+#W16($2DAE9)
+COPYRIGHT・いしがきゆうき[FE]
+         ・みやざきまさる[FF]
+
+
+//POINTER #2 @ $2DAEB - STRING #2 @ $2DBB5
+
+#W16($2DAEB)
+COPYRIGHT・ こうだんしゃ[FF]
+
+
+//POINTER #3 @ $2DAED - STRING #3 @ $2DBC8
+
+#W16($2DAED)
+     ーーげんさくーー[FE]
+ いしがきゆうき  みやざきまさる[FF]
+
+
+//POINTER #4 @ $2DAEF - STRING #4 @ $2DBEB
+
+#W16($2DAEF)
+ ーーきゃくしょくーー[FE]
+        みながわ ひであき[FF]
+
+
+//POINTER #5 @ $2DAF1 - STRING #5 @ $2DC0B
+
+#W16($2DAF1)
+ ーーきゃらくた・でざいんーー[FE]
+         いしがき ゆうき[FF]
+
+
+//POINTER #6 @ $2DAF3 - STRING #6 @ $2DC30
+
+#W16($2DAF3)
+ ーーCG・でざいんーー[FE]
+          くぼた さとる[FF]
+
+
+//POINTER #7 @ $2DAF5 - STRING #7 @ $2DC52
+
+#W16($2DAF5)
+ ーーCG・でざいんーー[FE]
+          のむら ただお[FF]
+
+
+//POINTER #8 @ $2DAF7 - STRING #8 @ $2DC74
+
+#W16($2DAF7)
+ ーーCG・でざいんーー[FE]
+        な ち ゅ ら る[FF]
+
+
+//POINTER #9 @ $2DAF9 - STRING #9 @ $2DC95
+
+#W16($2DAF9)
+ ーーおんがくーー[FE]
+          むらい としお[FF]
+
+
+//POINTER #10 @ $2DAFB - STRING #10 @ $2DCB2
+
+#W16($2DAFB)
+ ーーぷろぐらむ・でざいんーー[FE]
+        すぎさか ひろかず[FF]
+
+
+//POINTER #11 @ $2DAFD - STRING #11 @ $2DCDA
+
+#W16($2DAFD)
+ ーーぷろぐらむ・でざいんーー[FE]
+        たかはし かずひと[FF]
+
+
+//POINTER #12 @ $2DAFF - STRING #12 @ $2DD01
+
+#W16($2DAFF)
+ ーーぷろぐらむ・でざいんーー[FE]
+         くつな ゆきやす[FF]
+
+
+//POINTER #13 @ $2DB01 - STRING #13 @ $2DD27
+
+#W16($2DB01)
+ ーーはいぱ・ぷろぐらまーー[FE]
+        しのはら まさよし[FF]
+
+
+//POINTER #14 @ $2DB03 - STRING #14 @ $2DD4B
+
+#W16($2DB03)
+ ーーぷろぐらまーー[FE]
+         こんどう しげみ[FF]
+
+
+//POINTER #15 @ $2DB05 - STRING #15 @ $2DD6C
+
+#W16($2DB05)
+ ーーぷろぐらまーー[FE]
+        たかはし のりみち[FF]
+
+
+//POINTER #16 @ $2DB07 - STRING #16 @ $2DD8B
+
+#W16($2DB07)
+ ーーぷろぐらまーー[FE]
+          おか かずゆき[FF]
+
+
+//POINTER #17 @ $2DB09 - STRING #17 @ $2DDAB
+
+#W16($2DB09)
+ ーーでぃれくたーー[FE]
+        いわもと まさのり[FF]
+
+
+//POINTER #18 @ $2DB0B - STRING #18 @ $2DDC9
+
+#W16($2DB0B)
+ ーーぷろでゅーさーー[FE]
+         やまぐち ゆうじ[FF]
+
+
+//POINTER #19 @ $2DB0D - STRING #19 @ $2DDEB
+
+#W16($2DB0D)
+ ーーぷれじでんとーー[FE]
+          いが たけし[FF]
+
+
+//POINTER #20 @ $2DB0F - STRING #20 @ $2DE0C
+
+#W16($2DB0F)
+ ーーきかく・せいさくーー[FE]
+     SOFEL ・ そふえる[FF]
+
+
+//POINTER #21 @ $2DB11 - STRING #21 @ $2DE2C
+
+#W16($2DB11)
+ーーーー100まん＄きっどーーーー[FE]
+      えぴろーぐ     [FF]
+
+
+//POINTER #22 @ $2DB13 - STRING #22 @ $2DE52
+
+#W16($2DB13)
+ ひとには 2しゅるい ある……[FF]
+
+
+//POINTER #23 @ $2DB15 - STRING #23 @ $2DE63
+
+#W16($2DB15)
+ ぎゃんぶらーと[FE]
+       そうでないものと…[FF]
+
+
+//POINTER #24 @ $2DB17 - STRING #24 @ $2DE80
+
+#W16($2DB17)
+        と[FE]
+       にかいどう・ひろし！[FF]
+
+
+//POINTER #25 @ $2DB19 - STRING #25 @ $2DE9D
+
+#W16($2DB19)
+ かれらもまた[FE]
+        ゆめをおいもとめ…[FF]
+
+
+//POINTER #26 @ $2DB1B - STRING #26 @ $2DEB7
+
+#W16($2DB1B)
+ はしりつづける[FE]
+      ぎゃんぶらー なのだ！[FF]
+

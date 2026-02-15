@@ -1,0 +1,75 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2CC65 - STRING #0 @ $2CC7D
+
+#W16($2CC65)
+やあ！ おいらのなまえは[FF]
+
+
+//POINTER #1 @ $2CC67 - STRING #1 @ $2CC8A
+
+#W16($2CC67)
+ にかいどう ひろし！[FF]
+
+
+//POINTER #2 @ $2CC69 - STRING #2 @ $2CC97
+
+#W16($2CC69)
+きみの もくひょうは[FF]
+
+
+//POINTER #3 @ $2CC6B - STRING #3 @ $2CCA2
+
+#W16($2CC6B)
+せかいのぎゃんぶらーたちに[FF]
+
+
+//POINTER #4 @ $2CC6D - STRING #4 @ $2CCB2
+
+#W16($2CC6D)
+かみさまとよばれている[FF]
+
+
+//POINTER #5 @ $2CC6F - STRING #5 @ $2CCBF
+
+#W16($2CC6F)
+まぼろしのていおうを[FF]
+
+
+//POINTER #6 @ $2CC71 - STRING #6 @ $2CCCB
+
+#W16($2CC71)
+ たおすことなんだ！[FF]
+
+
+//POINTER #7 @ $2CC73 - STRING #7 @ $2CCD7
+
+#W16($2CC73)
+まずは らすべがすへいって[FF]
+
+
+//POINTER #8 @ $2CC75 - STRING #8 @ $2CCE8
+
+#W16($2CC75)
+ぼくのともだち しんでぃー[FF]
+
+
+//POINTER #9 @ $2CC77 - STRING #9 @ $2CCF9
+
+#W16($2CC77)
+に あうといいよ！[FF]
+
+
+//POINTER #10 @ $2CC79 - STRING #10 @ $2CD03
+
+#W16($2CC79)
+それじゃまた…[FF]
+
+
+//POINTER #11 @ $2CC7B - STRING #11 @ $2CD0C
+
+#W16($2CC7B)
+     ぐっど・らっく！[FF]
+

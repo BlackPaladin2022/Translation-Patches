@@ -1,0 +1,37 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		Dialogue Block 06 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2D871 - STRING #0 @ $2D87B
+
+#W16($2D871)
+へへ…まっていたよ……[FF]
+
+
+//POINTER #1 @ $2D873 - STRING #1 @ $2D887
+
+#W16($2D873)
+くん！[FE]
+わたしが ほんとうの まぼろしのていおう だ！[FE]
+きみをここに しょうたいしたのは ほかでもない…[FF]
+
+
+//POINTER #2 @ $2D875 - STRING #2 @ $2D8C0
+
+#W16($2D875)
+きみと たたかうためだ！[FF]
+
+
+//POINTER #3 @ $2D877 - STRING #3 @ $2D8CE
+
+#W16($2D877)
+へへ……[FF]
+
+
+//POINTER #4 @ $2D879 - STRING #4 @ $2D8D3
+
+#W16($2D879)
+くん！ つよくなったね…ぼくの[FE]
+かんぱいだ！ それじゃ やくそくどおり[FE]
+ぼくの しょうたいをみせるよ………………！[FF]
+
