@@ -1,5 +1,64 @@
 This is my personal repository of translation patches for various NES and FDS games I've made over the years.  Feel free to download and use them for your playing collection.
 
+## Available Translation Patches Index
+
+### Famicom Disk System (FDS)
+* (FDS) A Kitten's Tale - The Adventures of Chatran v1.0 — Koneko Monogatari (子猫物語)
+* (FDS) Apple Town Story - Little Computer People — Apple Town Story (アップルタウン物語)
+* (FDS) Aspic - Curse of the Snakelord v1.0
+* (FDS) Burnin' Twinbee - Rescue Dr. Cinnamon!
+* (FDS) Dracula II - The Cursed Seal v1.0a
+* (FDS) Druid - The Gate of Fear v1.1
+* (FDS) Eggerland - A Creative Journey v1.0
+* (FDS) Final Command - The Red Fortress v1.0
+* (FDS) Kamen Rider Black - The Shadowmoon Showdown v1.0
+* (FDS) Magnetic Boy Metmag v1.0
+* (FDS) Mysterious Ghost World - The Turbulent Chapters v1.0
+* (FDS) Maerchen Veil v1.0
+* (FDS) Operation - Jump Out
+* (FDS) Playtime Paradise
+* (FDS) Relics - The Dark Fortress v1.0
+* (FDS) Solomon's Key - US Title Screen Hack v1.0
+* (FDS) The Myth of Light - Palutena's Mirror v1.0
+* (FDS) Titanic Myster - Rumblings from the Blue v1.0
+* (FDS) Transformers - The Headmasters v1.0
+* (FDS) Ultraman - Wrath of the Kaiju Empire v1.0
+* (FDS) Ultraman 2 - Sally Forth, Science Patrol! v1.0
+* (FDS) Ultraman Club - Operation Retake Earth v1.0
+* (FDS) Warrior of Love - Nicol
+* ... (See the full list in the original repository README.md)
+
+### Nintendo Entertainment System (NES) / Famicom
+* (NES) Bloody Warriors - Shan-Go Strikes Back v2.0 — Bloody Warriors (ブラッディ・ウァリアーズ)
+* (NES) Demon World Village v1.1 — Makaimura (魔界村)
+* (NES) Dragon Ball - Mystery of Shenron v1.0
+* (NES) Egypt v1.0a
+* (NES) Famicom Jump - Heroes History v1.03
+* (NES) Fist of the North Star 2 v1.1
+* (NES) Fist of the North Star 3 v1.0
+* (NES) Giant Monster Flaburas v1.01
+* (NES) Hell's Bells v1.0
+* (NES) Kamen Rider SD - The Ambitions of Grand Shocker v1.0
+* (NES) Last Armageddon v1.02a
+* (NES) Li'l Ashibe and the Great Nepalese Adventure v1.01
+* (NES) Mr. Vampire v1.0
+* (NES) Political Simulation - Planet of Conspiracy - Shancara v1.02
+* (NES) Requiem for Battle v1.02
+* (NES) Seikima-II The Wrath of Satan! v0.99 Addendum
+* (NES) Shuffle Fight v1.01
+* (NES) Space Defense Force SDF v1.0
+* (NES) Super Dimensional Fortress Macross v1.0
+* (NES) Space Planetary War Chronicals - Metafight v1.0
+* (NES) The Burning Wild Man v1.0a
+* (NES) The Human Weapon - Dead Fox
+* (NES) The Lord of King v2.01
+* (NES) The Warrior of Argos v1.0
+* (NES) Transformers - The Mystery of Optimus Prime v1.0
+* (NES) Ushio and Tora - Great Demon of the Abyss
+* (NES) Venus Wars - Back the City v0.99 Addendum
+* ... (See the full list in the original repository README.md)
+
+
 Frequently Asked Questions:
 
 1.  Hey, I want to make a translation patch using your patch as a base.  Can I translate it to another language?
