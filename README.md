@@ -54,7 +54,7 @@ This is my personal repository of translation patches for various NES and FDS ga
 * (NES) The Lord of King v2.01 — The Lord of King (ザ・ロード・オブ・キング)
 * (NES) The Warrior of Argos v1.0 — Argus no Senshi: Hachamecha Daivegegi (アルゴスの戦士: はちゃめちゃ大進撃)
 * (NES) Transformers - The Mystery of Optimus Prime v1.0 — Transformers: Convoy no Nazo (トランスフォーマー: コンボイの謎)
-* (NES) Ushio and Tora - Great Demon of the Abyss v1.0 — Ushio to Tora: Shin'en no Daiyō (うしおととら：深淵の大妖)
+* (NES) Ushio and Tora - Great Demon of the Abyss v1.0 — Ushio to Tora: Shin'en no Daiyō (うしおととら: 深淵の大妖)
 * (NES) Venus Wars - Back the City v0.99 Addendum — Venus Senki (ヴイナス戦記)
 
 
