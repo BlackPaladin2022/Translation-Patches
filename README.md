@@ -5,28 +5,28 @@ This is my personal repository of translation patches for various NES and FDS ga
 ### Famicom Disk System (FDS)
 * (FDS) A Kitten's Tale - The Adventures of Chatran v1.0 — Koneko Monogatari (子猫物語)
 * (FDS) Apple Town Story - Little Computer People — Apple Town Story (アップルタウン物語)
-* (FDS) Aspic - Curse of the Snakelord v1.0
-* (FDS) Burnin' Twinbee - Rescue Dr. Cinnamon!
-* (FDS) Dracula II - The Cursed Seal v1.0a
-* (FDS) Druid - The Gate of Fear v1.1
-* (FDS) Eggerland - A Creative Journey v1.0
-* (FDS) Final Command - The Red Fortress v1.0
-* (FDS) Kamen Rider Black - The Shadowmoon Showdown v1.0
-* (FDS) Magnetic Boy Metmag v1.0
-* (FDS) Mysterious Ghost World - The Turbulent Chapters v1.0
-* (FDS) Maerchen Veil v1.0
-* (FDS) Operation - Jump Out
-* (FDS) Playtime Paradise
-* (FDS) Relics - The Dark Fortress v1.0
-* (FDS) Solomon's Key - US Title Screen Hack v1.0
-* (FDS) The Myth of Light - Palutena's Mirror v1.0
-* (FDS) Titanic Myster - Rumblings from the Blue v1.0
-* (FDS) Transformers - The Headmasters v1.0
-* (FDS) Ultraman - Wrath of the Kaiju Empire v1.0
-* (FDS) Ultraman 2 - Sally Forth, Science Patrol! v1.0
-* (FDS) Ultraman Club - Operation Retake Earth v1.0
-* (FDS) Warrior of Love - Nicol
-* ... (See the full list in the original repository README.md)
+* (FDS) Aspic - Curse of the Snakelord v1.0 — Aspic: Madao no Noroi (アスピック: 魔蛇王の呪い)
+* (FDS) Burnin' Twinbee - Rescue Dr. Cinnamon! — Moero TwinBee: Cinnamon-hakase wo Sukue! (もえろツインビー: シナモン博士を救え!)
+* (FDS) Dracula II - The Cursed Seal v1.0a — Dracula II: Noroi no Fuuin (ドラキュラII: 呪いの封印)
+* (FDS) Druid - The Gate of Fear v1.1 — Druid: Kyoufu no Tobira (ドルイド: 恐怖の扉)
+* (FDS) Eggerland - A Creative Journey v1.0 — Eggerland (エッガーランド)
+* (FDS) Final Command - The Red Fortress v1.0 — Final Command: Akai Yousai (ファイナルコマンド: 赤い要塞)
+* (FDS) Kamen Rider Black - The Shadowmoon Showdown v1.0 — Kamen Rider Black: Taiketsu Shadow Moon (仮面ライダーBLACK: 対決シャドームーン)
+* (FDS) Magnetic Boy Metmag v1.0 — Jiki Koubou Metmag (磁気工学メトマグ)
+* (FDS) Mysterious Ghost World - The Turbulent Chapters v1.0 — Kaijin Chuuka Toubujou (怪人中華頭武人)
+* (FDS) Maerchen Veil v1.0 — Märchen Veil (メルヘンヴェール)
+* (FDS) Operation - Jump Out — Sakusen: Tobidase (作戦: とびだせ)
+* (FDS) Playtime Paradise — Asobi no Tengoku (遊びの天国)
+* (FDS) Relics - The Dark Fortress v1.0 — Relics: Ankoku Yousai (レリクス: 暗黒要塞)
+* (FDS) Solomon's Key - US Title Screen Hack v1.0 — Solomon no Kagi (ソロモンの鍵)
+* (FDS) The Myth of Light - Palutena's Mirror v1.0 — Hikari Shinwa: Palutena no Kagami (光神話: パルテナの鏡)
+* (FDS) Titanic Myster - Rumblings from the Blue v1.0 — Titanic Mystery: Ao no Senritsu (タイタニックミステリー: 蒼の戦慄)
+* (FDS) Transformers - The Headmasters v1.0 — Transformers: The Headmasters (トランスフォーマー: ザ☆ヘッドマスターズ)
+* (FDS) Ultraman - Wrath of the Kaiju Empire v1.0 — Ultraman: Kaijuu Teikoku no Gyakushuu (ウルトラマン: 怪獣帝国の逆襲)
+* (FDS) Ultraman 2 - Sally Forth, Science Patrol! v1.0 — Ultraman 2: Shutsugeki Katokutai (ウルトラマン2: 出撃科特隊)
+* (FDS) Ultraman Club - Operation Retake Earth v1.0 — Ultraman Club: Chikyuu Dakkai Sakusen (ウルトラマンクラブ: 地球奪回作戦)
+* (FDS) Warrior of Love - Nicol — Ai Senshi Nicol (愛戦士ニコル)
+
 
 ### Nintendo Entertainment System (NES) / Famicom
 * (NES) Bloody Warriors - Shan-Go Strikes Back v2.0 — Bloody Warriors (ブラッディ・ウァリアーズ)
