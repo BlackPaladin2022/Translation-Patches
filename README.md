@@ -29,34 +29,33 @@ This is my personal repository of translation patches for various NES and FDS ga
 
 
 ### Nintendo Entertainment System (NES) / Famicom
-* (NES) Bloody Warriors - Shan-Go Strikes Back v2.0 — Bloody Warriors (ブラッディ・ウァリアーズ)
+* (NES) Bloody Warriors - Shan-Go Strikes Back v2.0 — Bloody Warriors: Shan-Go no Gyakushuu (ブラッディ・ウァリアーズ: シャンゴーの逆襲)
 * (NES) Demon World Village v1.1 — Makaimura (魔界村)
-* (NES) Dragon Ball - Mystery of Shenron v1.0
-* (NES) Egypt v1.0a
-* (NES) Famicom Jump - Heroes History v1.03
-* (NES) Fist of the North Star 2 v1.1
-* (NES) Fist of the North Star 3 v1.0
-* (NES) Giant Monster Flaburas v1.01
-* (NES) Hell's Bells v1.0
-* (NES) Kamen Rider SD - The Ambitions of Grand Shocker v1.0
-* (NES) Last Armageddon v1.02a
-* (NES) Li'l Ashibe and the Great Nepalese Adventure v1.01
-* (NES) Mr. Vampire v1.0
-* (NES) Political Simulation - Planet of Conspiracy - Shancara v1.02
-* (NES) Requiem for Battle v1.02
-* (NES) Seikima-II The Wrath of Satan! v0.99 Addendum
-* (NES) Shuffle Fight v1.01
-* (NES) Space Defense Force SDF v1.0
-* (NES) Super Dimensional Fortress Macross v1.0
-* (NES) Space Planetary War Chronicals - Metafight v1.0
-* (NES) The Burning Wild Man v1.0a
-* (NES) The Human Weapon - Dead Fox
-* (NES) The Lord of King v2.01
-* (NES) The Warrior of Argos v1.0
-* (NES) Transformers - The Mystery of Optimus Prime v1.0
-* (NES) Ushio and Tora - Great Demon of the Abyss
-* (NES) Venus Wars - Back the City v0.99 Addendum
-* ... (See the full list in the original repository README.md)
+* (NES) Dragon Ball - Mystery of Shenron v1.0 — Dragon Ball: Shenlong no Nazo (ドラゴンボール: 神龍の謎)
+* (NES) Egypt v1.0a — Egypt (エジプト)
+* (NES) Famicom Jump - Heroes History v1.03 — Famicom Jump: Eiyuu Retsuden (ファミコンジャンプ: 英雄列伝)
+* (NES) Fist of the North Star 2 v1.1 — Hokuto no Ken 2: Seikimatsu Kyousei Densetsu (北斗の拳2: 世紀末救世主伝説)
+* (NES) Fist of the North Star 3 v1.0 — Hokuto no Ken 3: Shin Seikimatsu Souzou Seiken Retsuden (北斗の拳3: 新世紀末創造 凄拳列伝)
+* (NES) Giant Monster Flaburas v1.01 — Daikaijuu Deburas (大怪獣デブラス)
+* (NES) Hell's Bells v1.0 — Jigoku no Rin (地獄の輪)
+* (NES) Kamen Rider SD - The Ambitions of Grand Shocker v1.0 — Kamen Rider SD: Grand Shocker no Yabou (仮面ライダーSD: グランショッカーの野望)
+* (NES) Last Armageddon v1.02a — Last Armageddon (ラストハルマゲドン)
+* (NES) Li'l Ashibe and the Great Nepalese Adventure v1.01 — Shounen Ashibe: Nepal Daibouken no Maki (少年アシベ: ネパール大冒険の巻)
+* (NES) Mr. Vampire v1.0 — Reigen Doushi (霊幻道士)
+* (NES) Political Simulation - Planet of Conspiracy - Shancara v1.02 — Sakuryaku no Wakusei: Shancara (策略の惑星: シャンカラ)
+* (NES) Requiem for Battle v1.02 — Sentou Banka: Tatakae! Ramen Man (戦え!!ラーメン男: 惨劇の修行寺)
+* (NES) Seikima-II The Wrath of Satan! v0.99 Addendum — Seikima II: Akuma no Gyakushuu! (聖飢魔II: 悪魔の逆襲!)
+* (NES) Shuffle Fight v1.01 — Shuffle Fight (シャッフルファイト)
+* (NES) Space Defense Force SDF v1.0 — Uchuu Keibi Tai SDF (宇宙警備隊SDF)
+* (NES) Super Dimensional Fortress Macross v1.0 — Choujikuu Yousai Macross (超時空要塞マクロス)
+* (NES) Space Planetary War Chronicals - Metafight v1.0 — Choujutsu Kaisoku Metafight (超惑星戦記 メタファイト)
+* (NES) The Burning Wild Man v1.0a — Moeru! Oniisan (燃える!お兄さん)
+* (NES) The Human Weapon - Dead Fox v1.0 — Ningen Heiki: Dead Fox (人間兵器: デッドフォックス)
+* (NES) The Lord of King v2.01 — The Lord of King (ザ・ロード・オブ・キング)
+* (NES) The Warrior of Argos v1.0 — Argus no Senshi: Hachamecha Daivegegi (アルゴスの戦士: はちゃめちゃ大進撃)
+* (NES) Transformers - The Mystery of Optimus Prime v1.0 — Transformers: Convoy no Nazo (トランスフォーマー: コンボイの謎)
+* (NES) Ushio and Tora - Great Demon of the Abyss v1.0 — Ushio to Tora: Fukaki Ana no Kouton (うしおととら: 深き暗穴の魔物)
+* (NES) Venus Wars - Back the City v0.99 Addendum — Venus Senki (ヴイナス戦記)
 
 
 Frequently Asked Questions:
